@@ -1,0 +1,1000 @@
+# ::id bio.bmtr_0004.1 ::date 2015-01-06T01:27:24
+# ::snt Site-Specific Monoubiquitination Activates Ras by Impeding GTPase Activating Protein (PMC3537887)
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_1.txt
+(p / publication-91
+      :ARG1 (a / activate-01
+            :ARG0 (u / ubiquitinate-01 :quant 1
+                  :mod (s / specific
+                        :prep-to (p3 / protein-segment)))
+            :ARG1 (e / enzyme :name (n / name :op1 "Ras"))
+            :manner (i / impede-01
+                  :ARG0 u
+                  :ARG1 (p2 / protein :name (n2 / name :op1 "GTPase" :op2 "Activating" :op3 "Protein"))))
+      :ARG8 "PMC3537887")
+
+# ::id bio.bmtr_0004.2 ::date 2015-01-06T08:06:39
+# ::snt Passage 1-1 (Results)
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0004_2.txt
+(p / passage :mod "1-1"
+      :topic (t / thing
+            :ARG2-of (r / result-01)))
+
+# ::id bio.bmtr_0004.3 ::date 2015-01-06T08:58:49
+# ::snt We next considered the effect of Ras monoubiquitination on GAP-mediated hydrolysis.
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0004_3.txt
+(c / consider-02
+      :ARG0 (w / we)
+      :ARG1 (a / affect-01
+            :ARG0 (u / ubiquitinate-01 :quant 1
+                  :ARG1 (e / enzyme :name (n / name :op1 "Ras")))
+            :ARG1 (h / hydrolyze-01
+                  :ARG1-of (m / mediate-01
+                        :ARG0 (p / protein :name (n2 / name :op1 "GAP")))))
+      :time (n3 / next))
+
+# ::id bio.bmtr_0004.4 ::date 2015-01-06T09:08:59
+# ::snt To this end we compared the rate of GTP hydrolysis for Ras and mUbRas in the presence of the catalytic domains of two GAPs, NF1 (NF1-333) and p120GAP(GAP-334).
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_4.txt
+(c / compare-01
+      :ARG0 (w / we)
+      :ARG1 (r / rate
+            :degree-of (h / hydrolyze-01
+                  :ARG1 (s / small-molecule :name (n / name :op1 "GTP")
+                        :ARG1-of (b / bind-01
+                              :ARG2 (e / enzyme :name (n2 / name :op1 "Ras"))))
+                  :condition (a / and
+                        :op1 (d2 / domain :name (n10 / name :op1 "NF1-333")
+                              :part-of (p4 / protein :name (n12 / name :op1 "NF1")
+                                    :ARG1-of (i / include-91
+                                          :ARG2 (p6 / protein :name (n13 / name :op1 "GAP")))))
+                        :op2 (d3 / domain :name (n11 / name :op1 "GAP-334")
+                              :part-of (p7 / protein :name (n14 / name :op1 "p120GAP")
+                                    :ARG1-of (i2 / include-91
+                                          :ARG2 p6)))
+                        :ARG0-of (c2 / catalyze-01))))
+      :ARG2 (r2 / rate
+            :degree-of (h2 / hydrolyze-01
+                  :ARG1 (s2 / small-molecule :name (n9 / name :op1 "GTP")
+                        :ARG1-of (b2 / bind-01
+                              :ARG2 (e2 / enzyme :name (n3 / name :op1 "Ras")
+                                    :ARG3-of (u / ubiquitinate-01 :quant 1))))
+                  :condition a))
+      :purpose (t / this))
+
+# ::id bio.bmtr_0004.5 ::date 2015-01-06T10:21:04
+# ::snt At a GAP-to-Ras ratio of 1:500, we observed an order of magnitude increase in the rate of GTP hydrolysis for unmodified Ras relative to the intrinsic rate of GTP hydrolysis.
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0004_5.txt
+(o / observe-01
+      :ARG0 (w / we)
+      :ARG1 (i / increase-01
+            :ARG1 (r / rate
+                  :degree-of (h / hydrolyze-01
+                        :ARG1 (s / small-molecule :name (n / name :op1 "GTP")
+                              :ARG1-of (b / bind-01
+                                    :ARG2 (e / enzyme :name (n2 / name :op1 "Ras")
+                                          :ARG1-of (m2 / modify-01 :polarity -))))))
+            :ARG4 (p2 / product-of
+                  :op1 (a / about :op1 10)
+                  :op2 (r3 / rate
+                        :mod (i2 / intrinsic)
+                        :degree-of (h2 / hydrolyze-01
+                              :ARG1 (s2 / small-molecule :name (n5 / name :op1 "GTP")))))
+            :condition (e3 / equal-01
+                  :ARG1 (r4 / ratio-of
+                        :op1 (p / protein :name (n3 / name :op1 "GAP"))
+                        :op2 (e2 / enzyme :name (n4 / name :op1 "Ras")))
+                  :ARG2 "1/500")))
+
+# ::id bio.bmtr_0004.6 ::date 2015-01-06T10:36:40
+# ::snt No increase in the rate of GTP hydrolysis was observed for mUbRas in the presence of the same GAP-to Ras ratio (Fig. 5b).
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_6.txt
+(o / observe-01
+      :ARG1 (i / increase-01 :polarity -
+            :ARG1 (r / rate
+                  :degree-of (h / hydrolyze-01
+                        :ARG1 (s / small-molecule :name (n / name :op1 "GTP")
+                              :ARG1-of (b / bind-01
+                                    :ARG2 (e / enzyme :name (n4 / name :op1 "Ras")
+                                          :ARG3-of (u / ubiquitinate-01 :quant 1))))))
+            :condition (r2 / ratio-of
+                  :op1 (p2 / protein :name (n2 / name :op1 "GAP"))
+                  :op2 (e2 / enzyme :name (n3 / name :op1 "Ras"))
+                  :ARG1-of (s2 / same-41)))
+      :ARG1-of (d / describe-01
+            :ARG0 (f / figure :mod "5b")))
+
+# ::id bio.bmtr_0004.7 ::date 2015-01-06T10:42:11
+# ::snt Therefore, mUbRas is insensitive to GAP-mediated regulation, similar to an oncogenic Ras-G12V mutation.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_7.txt
+(c / cause-01
+      :ARG1 (s / sensitive-41 :polarity -
+            :ARG1 (e / enzyme :name (n / name :op1 "Ras")
+                  :ARG3-of (u / ubiquitinate-01 :quant 1))
+            :ARG2 (r / regulate-01
+                  :ARG1 e
+                  :ARG1-of (m / mediate-01
+                        :ARG0 (p / protein :name (n2 / name :op1 "GAP"))))
+            :ARG1-of (r2 / resemble-01
+                  :ARG2 (m2 / mutate-01 :value "G12V"
+                        :ARG2 (e2 / enzyme :name (n3 / name :op1 "Ras"))
+                        :ARG0-of (c2 / cause-01
+                              :ARG1 (c3 / cancer))))))
+
+# ::id bio.bmtr_0004.8 ::date 2015-01-06T11:02:39
+# ::snt We obtained similar results using K-Ras (Supplementary Figure 6), indicating that the effects of monoubiquitination on Ras are not isoform-specific.
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0004_8.txt
+(o / obtain-01
+      :ARG0 (w / we)
+      :ARG1 (t / thing
+            :ARG2-of (r / result-01)
+            :ARG1-of (r2 / resemble-01)
+            :ARG1-of (d / describe-01
+                  :ARG0 (f / figure :mod 6
+                        :ARG2-of (s / supplement-01)))
+            :ARG0-of (i / indicate-01
+                  :ARG1 (s2 / specific :polarity -
+                        :domain (a / affect-01
+                              :ARG0 (u2 / ubiquitinate-01 :quant 1)
+                              :ARG1 (e2 / enzyme :name (n2 / name :op1 "Ras")))
+                        :topic (i2 / isoform))))
+      :manner (u / use-01
+            :ARG0 w
+            :ARG1 (e / enzyme :name (n / name :op1 "K-Ras"))))
+
+# ::id bio.bmtr_0004.9 ::date 2015-01-06T11:13:11
+# ::snt To verify that the differences between the enzymatic and chemical ubiquitination linkers (seven bonds and five bonds, respectively) do not alter GAP-responsiveness, we placed an additional cysteine at the c-terminus of Ubiquitin (Ubiquitin-C77), thereby creating a linker one bond longer than the native linker.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_9.txt
+(p / place-01
+      :ARG0 (w / we)
+      :ARG1 (a / amino-acid :name (n / name :op1 "cysteine")
+            :mod (a2 / additional))
+      :ARG2 (p2 / protein-segment :name (n2 / name :op1 "C-terminus")
+            :part-of (p3 / protein :name (n3 / name :op1 "ubiquitin")))
+      :manner-of (b4 / become-01
+            :ARG1 a
+            :ARG2 (a5 / amino-acid :mod 77 :name (n4 / name :op1 "cysteine")
+                  :part-of p3))
+      :ARG0-of (c / create-01
+            :ARG1 (p6 / protein-segment
+                  :mod (l / long
+                        :degree (m2 / more
+                              :quant (b / bond :quant 1))
+                        :compared-to (p7 / protein-segment
+                              :mod (n7 / native)
+                              :ARG0-of (l3 / link-01)))
+                  :ARG0-of (l2 / link-01)))
+      :ARG1-of (h / have-purpose-91
+            :ARG2 (v / verify-01
+                  :ARG0 w
+                  :ARG1 (a4 / alter-01 :polarity -
+                        :ARG0 (d / differ-02
+                              :ARG1 (a3 / and
+                                    :op1 (p8 / protein-segment
+                                          :consist-of (b2 / bond :quant 7)
+                                          :ARG0-of (l4 / link-01)
+                                          :location-of (u2 / ubiquitinate-01
+                                                :mod (e / enzyme)))
+                                    :op2 (p9 / protein-segment
+                                          :location-of (u / ubiquitinate-01
+                                                :mod (c2 / chemical))
+                                          :consist-of (b3 / bond :quant 5)
+                                          :ARG0-of (l5 / link-01))))
+                        :ARG1 (r / respond-01
+                              :ARG0 (p5 / protein :name (n5 / name :op1 "GAP")))))))
+
+# ::id bio.bmtr_0004.10 ::date 2015-01-06T11:14:24
+# ::snt We measured the rate of GAP-mediated GTP hydrolysis and observed that the response of Ras ligated to Ubiquitin-C77 was identical to Ras ligated to Ubiquitin-G76C (Fig. 5b).
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_10.txt
+(a / and
+      :op1 (m / measure-01
+            :ARG0 (w / we)
+            :ARG1 (r / rate
+                  :degree-of (h / hydrolyze-01
+                        :ARG1 (s / small-molecule :name (n / name :op1 "GTP"))
+                        :ARG1-of (m2 / mediate-01
+                              :ARG0 (p / protein :name (n2 / name :op1 "GAP"))))))
+      :op2 (o / observe-01
+            :ARG0 w
+            :ARG1 (i / identical-41
+                  :ARG1 (t / thing
+                        :ARG2-of (r2 / respond-01
+                              :ARG0 (e / enzyme :name (n5 / name :op1 "Ras")
+                                    :ARG1-of (l / ligate-01
+                                          :ARG3 (a2 / amino-acid :mod 77 :name (n7 / name :op1 "cysteine")
+                                                :part-of (p4 / protein :name (n8 / name :op1 "ubiquitin")))))))
+                  :ARG2 (t2 / thing
+                        :ARG2-of (r3 / respond-01
+                              :ARG0 (e2 / enzyme :name (n4 / name :op1 "Ras")
+                                    :ARG1-of (l2 / ligate-01
+                                          :ARG3 (a3 / amino-acid :mod 76 :name (n3 / name :op1 "cysteine")
+                                                :part-of (p2 / protein :name (n9 / name :op1 "ubiquitin")
+                                                      :ARG3-of (m3 / mutate-01 :value "G76C")))))))
+                  :ARG1-of (d / describe-01
+                        :ARG0 (f / figure :mod "5b")))))
+
+# ::id bio.bmtr_0004.11 ::date 2015-01-06T12:31:02
+# ::snt These results indicate that variations in the linker length on this scale (1-2 bonds) do not influence the sensitivity of mUbRas to GAP downregulation.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_11.txt
+(i / indicate-01
+      :ARG0 (t / thing
+            :ARG2-of (r / result-01)
+            :mod (t2 / this))
+      :ARG1 (i2 / influence-01 :polarity -
+            :ARG0 (v2 / vary-01
+                  :ARG1 (p2 / protein-segment
+                        :ARG0-of (l2 / link-01))
+                  :ARG2 (o / or
+                        :op1 (b / bond :quant 1)
+                        :op2 (b2 / bond :quant 2))
+                  :ARG5 (l / length))
+            :ARG1 (s / sensitive-41
+                  :ARG1 (e / enzyme :name (n / name :op1 "Ras")
+                        :ARG3-of (u / ubiquitinate-01 :quant 1))
+                  :ARG2 (d / downregulate-01
+                        :ARG1 e
+                        :ARG2 (p / protein :name (n2 / name :op1 "GAP"))))))
+
+# ::id bio.bmtr_0004.12 ::date 2015-01-06T12:43:54
+# ::snt To validate the use of an in vitro system to dissect the mechanism of Ras regulation, we measured the sensitivity of mUbRas to GAP-mediated hydrolysis in a cellular reconstitution system.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_12.txt
+(m / measure-01
+      :ARG0 (w / we)
+      :ARG1 (s / sensitive-41
+            :ARG1 (e / enzyme :name (n / name :op1 "Ras")
+                  :ARG3-of (u / ubiquitinate-01 :quant 1))
+            :ARG2 (h / hydrolyze-01
+                  :ARG1-of (m2 / mediate-01
+                        :ARG0 (p / protein :name (n2 / name :op1 "GAP"))))
+            :location (s2 / system
+                  :ARG0-of (r / reconstitute-01
+                        :ARG1 (c / cell))))
+      :ARG1-of (h2 / have-purpose-91
+            :ARG2 (v / validate-01
+                  :ARG0 w
+                  :ARG1 (u2 / use-01
+                        :ARG0 w
+                        :ARG1 (s3 / system
+                              :mod (i / in-vitro))
+                        :ARG2 (d / dissect-01
+                              :ARG0 w
+                              :ARG1 (r2 / regulate-01
+                                    :ARG1 (e2 / enzyme :name (n3 / name :op1 "Ras"))))))))
+
+# ::id bio.bmtr_0004.13 ::date 2015-01-06T12:53:31
+# ::snt We immunoprecipitated Ras from HEK293T cells and compared the sensitivity of the monoubiquitinated and unmodified fractions of Ras to regulation by GAP.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_13.txt
+(a / and
+      :op1 (i / immunoprecipitate-00
+            :ARG0 (w / we)
+            :ARG1 (e / enzyme :name (n / name :op1 "Ras"))
+            :ARG2 (c / cell-line :name (n2 / name :op1 "HEK293T")))
+      :op2 (c2 / compare-01
+            :ARG0 w
+            :ARG1 (s / sensitive-41
+                  :ARG1 (f / fraction
+                        :part-of e
+                        :ARG1-of (u / ubiquitinate-01 :quant 1))
+                  :ARG2 (r / regulate-01
+                        :ARG0 (p / protein :name (n3 / name :op1 "GAP"))
+                        :ARG1 f))
+            :ARG2 (s2 / sensitive-41
+                  :ARG1 (f2 / fraction
+                        :part-of e
+                        :ARG1-of (m / modify-01 :polarity -))
+                  :ARG2 (r2 / regulate-01
+                        :ARG0 p
+                        :ARG1 f2))))
+
+# ::id bio.bmtr_0004.14 ::date 2015-01-06T13:00:57
+# ::snt As seen in Figure 5c, monoubiquitinated K-Ras is less sensitive than the unmodified protein to GAP-mediated GTP hydrolysis.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_14.txt
+(s / sensitive-41
+      :ARG1 (e / enzyme :name (n / name :op1 "K-Ras")
+            :ARG1-of (u / ubiquitinate-01 :quant 1))
+      :ARG2 (h / hydrolyze-01
+            :ARG1 (s2 / small-molecule :name (n2 / name :op1 "GTP"))
+            :ARG1-of (m2 / mediate-01
+                  :ARG0 (p2 / protein :name (n3 / name :op1 "GAP"))))
+      :degree (l / less)
+      :compared-to (e2 / enzyme :name (n4 / name :op1 "K-Ras")
+            :ARG1-of (m / modify-01 :polarity -))
+      :ARG1-of (s3 / see-01
+            :medium (f / figure :mod "5c")))
+
+# ::id bio.bmtr_0004.15 ::date 2015-01-06T13:05:57
+# ::snt These data support our in vitro findings that monoubiquitination increases the population of active, GTP-bound Ras through a defect in sensitivity to GAP-mediated regulation.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_15.txt
+(s / support-01
+      :ARG0 (d / data
+            :mod (t / this))
+      :ARG1 (f / find-01
+            :ARG0 (w / we)
+            :ARG1 (i / increase-01
+                  :ARG0 (u / ubiquitinate-01 :quant 1)
+                  :ARG1 (p / population
+                        :consist-of (e / enzyme :name (n / name :op1 "Ras")
+                              :ARG1-of (a / activate-01)
+                              :ARG2-of (b / bind-01
+                                    :ARG1 (s2 / small-molecule :name (n2 / name :op1 "GTP")))))
+                  :manner (d2 / defect
+                        :topic (s3 / sensitive-41
+                              :ARG2 (r / regulate-01
+                                    :ARG1-of (m / mediate-01
+                                          :ARG0 (p2 / protein :name (n3 / name :op1 "GAP")))))))
+            :manner (i2 / in-vitro)))
+
+# ::id bio.bmtr_0004.16 ::date 2015-01-06T13:16:30
+# ::snt Passage 1-2 (Discussion/Conclusion)
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0004_16.txt
+(p / passage :mod "1-2"
+      :topic (s / slash
+            :op1 (t / thing
+                  :ARG1-of (d / discuss-01))
+            :op2 (t2 / thing
+                  :ARG1-of (c / conclude-01))))
+
+# ::id bio.bmtr_0004.17 ::date 2015-01-06T13:19:56
+# ::snt It was established recently that monoubiquitination increases the proportion of Ras that is in the activated (GTP-bound) state, that monoubiquitination enhances association with the downstream effectors Raf and PI3-Kinase, and that mutation of the primary site of monoubiquitination impairs oncogenic Ras-mediated tumorigenesis.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_17.txt
+(e / establish-01
+      :ARG1 (a / and
+            :op1 (i / increase-01
+                  :ARG0 (u / ubiquitinate-01 :quant 1)
+                  :ARG1 (p / proportion
+                        :quant-of (e2 / enzyme :name (n / name :op1 "Ras"))
+                        :ARG1-of (a2 / activate-01)
+                        :ARG1-of (b / bind-01
+                              :ARG2 (s / small-molecule :name (n2 / name :op1 "GTP")))))
+            :op2 (e3 / enhance-01
+                  :ARG0 u
+                  :ARG1 (a3 / associate-01
+                        :ARG2 (a4 / and
+                              :op1 (e4 / effector :name (n3 / name :op1 "Raf")
+                                    :mod (d / downstream))
+                              :op2 (e5 / effector :name (n4 / name :op1 "PI3-Kinase")))))
+            :op3 (i2 / impair-01
+                  :ARG0 (m2 / mutate-01
+                        :ARG1 (p3 / protein-segment
+                              :mod (p2 / primary)
+                              :part-of u))
+                  :ARG1 (c3 / create-01
+                        :ARG1 (t / tumor)
+                        :ARG1-of (m3 / mediate-01
+                              :ARG0 (e6 / enzyme :name (n5 / name :op1 "Ras")
+                                    :ARG0-of (c / cause-01
+                                          :ARG1 (c2 / cancer)))))))
+      :time (r / recent))
+
+# ::id bio.bmtr_0004.18 ::date 2015-01-06T13:33:35
+# ::snt Here we show that monoubiquitination decreases the sensitivity of Ras to GAP-mediated hydrolysis.
+# ::save-date Tue Jan 6, 2015 ::user nnistor ::file bio_bmtr_0004_18.txt
+(s / show-01
+      :ARG0 (w / we)
+      :ARG1 (d / decrease-01
+            :ARG0 (u / ubiquitinate-01 :quant 1)
+            :ARG1 (s2 / sensitive-41
+                  :ARG1 (e / enzyme :name (n / name :op1 "Ras"))
+                  :ARG2 (h / hydrolyze-01
+                        :ARG1-of (m / mediate-01
+                              :ARG0 (p / protein :name (n2 / name :op1 "GAP"))))))
+      :location (h2 / here))
+
+# ::id bio.bmtr_0004.19 ::date 2015-01-06T13:36:10
+# ::snt A major advance was our ability to easily generate mUbRas, modified at a single site, in a form suitable for detailed biophysical studies.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_19.txt
+(a / advance
+      :mod (m / major)
+      :domain (c / capable-41
+            :ARG1 (w / we)
+            :ARG2 (g / generate-01
+                  :ARG0 w
+                  :ARG1 (e / enzyme :name (n / name :op1 "Ras")
+                        :ARG3-of (u / ubiquitinate-01 :quant 1)
+                        :ARG1-of (m2 / modify-01
+                              :location (p / protein-segment
+                                    :mod (s2 / single))))
+                  :ARG4 (f / form
+                        :ARG1-of (s3 / suit-01
+                              :ARG2 (s4 / study-01
+                                    :ARG1 (b / biophysical)
+                                    :ARG1-of (d / detail-01)))))
+            :manner (e2 / easy)))
+
+# ::id bio.bmtr_0004.20 ::date 2015-01-06T13:41:51
+# ::snt This chemical ligation strategy will likely be useful for the study of other monoubiquitinated proteins.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_20.txt
+(l / likely
+      :domain (u / useful
+            :domain (s / strategy
+                  :mod (l2 / ligate-01
+                        :mod (c / chemical))
+                  :mod (t / this))
+            :purpose (s2 / study-01
+                  :ARG1 (p / protein
+                        :ARG1-of (u2 / ubiquitinate-01 :quant 1)
+                        :mod (o / other)))))
+
+# ::id bio.bmtr_0004.21 ::date 2015-01-06T02:02:31
+# ::snt Surprisingly, monoubiquitination did not alter the intrinsic activity of Ras, despite the size of the modification.
+# ::save-date Tue Jan 6, 2015 ::user madalina ::file bio_bmtr_0004_21.txt
+(s / surprise-01
+      :ARG0 (a / alter-01 :polarity -
+            :ARG0 (u / ubiquitinate-01 :quant 1)
+            :ARG1 (a2 / act-02
+                  :ARG0 (e / enzyme :name (n / name :op1 "Ras"))
+                  :mod (i / intrinsic)))
+      :concession (t / thing
+            :ARG2-of (s2 / size-01
+                  :ARG1 (m / modify-01))))
+
+# ::id bio.bmtr_0004.22 ::date 2015-01-06T02:13:25
+# ::snt Our modeling and NMR analyses indicated that Ubiquitin dynamically samples a broad surface area of Ras that alters switch region dynamics.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_22.txt
+(i / indicate-01
+      :ARG0 (a / and
+            :op1 (m / model-01
+                  :ARG0 (w / we))
+            :op2 (a2 / analyze-01
+                  :ARG0 w
+                  :instrument (n / NMR)))
+      :ARG1 (s / sample-01
+            :ARG0 (p / protein :name (n2 / name :op1 "ubiquitin"))
+            :ARG1 (a3 / area
+                  :mod (s2 / surface
+                        :mod (b / broad))
+                  :part-of (e / enzyme :name (n3 / name :op1 "Ras")))
+            :manner (d / dynamic)
+            :ARG0-of (a4 / alter-01
+                  :ARG1 (d2 / dynamic
+                        :location (r / region
+                              :mod (s3 / switch-01))))))
+
+# ::id bio.bmtr_0004.23 ::date 2015-01-06T02:48:52
+# ::snt These results led us to examine the effect of monoubiquitination on the interaction of Ras with its cognate GEF and GAPs, which also target the switch domains.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_23.txt
+(l / lead-03
+      :ARG0 (t / thing
+            :ARG2-of (r / result-01)
+            :mod (t2 / this))
+      :ARG1 (w / we)
+      :ARG2 (e / examine-01
+            :ARG0 w
+            :ARG1 (a / affect-01
+                  :ARG0 (u / ubiquitinate-01 :quant 1)
+                  :ARG1 (i / interact-01
+                        :ARG0 (e2 / enzyme :name (n / name :op1 "Ras"))
+                        :ARG1 (a2 / and
+                              :op1 (p / protein :name (n2 / name :op1 "GEF"))
+                              :op2 (p2 / protein :name (n3 / name :op1 "GAP"))
+                              :mod (c / cognate
+                                    :prep-with e2)
+                              :ARG0-of (t3 / target-01
+                                    :ARG1 (d / domain
+                                          :mod (s / switch-01))
+                                    :mod (a3 / also)))))))
+
+# ::id bio.bmtr_0004.24 ::date 2015-01-06T03:38:45
+# ::snt The analysis revealed that monoubiquitination abrogates GAP-mediated GTP hydrolysis.
+# ::save-date Tue Jan 6, 2015 ::user madalina ::file bio_bmtr_0004_24.txt
+(r / reveal-01
+      :ARG0 (a / analyze-01)
+      :ARG1 (a2 / abrogate-01
+            :ARG0 (u / ubiquitinate-01 :quant 1)
+            :ARG1 (h / hydrolyze-01
+                  :ARG1 (s / small-molecule :name (n / name :op1 "GTP"))
+                  :ARG1-of (m / mediate-01
+                        :ARG0 (p / protein :name (n2 / name :op1 "GAP"))))))
+
+# ::id bio.bmtr_0004.25 ::date 2015-01-06T03:44:41
+# ::snt All other activities, including the ability to bind regulators, were largely preserved and our kinetic modeling suggests that the GAP defect will dominate.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_25.txt
+(a3 / and
+      :op1 (p / preserve-01
+            :ARG1 (a / act-02
+                  :mod (a2 / all)
+                  :mod (o / other)
+                  :ARG2-of (i / include-01
+                        :ARG1 (p2 / possible
+                              :domain (b / bind-01
+                                    :ARG1 (m2 / molecular-physical-entity
+                                          :ARG0-of (r / regulate-01))))))
+            :mod (l / large))
+      :op2 (s / suggest-01
+            :ARG0 (m / model-01
+                  :ARG0 (w / we)
+                  :mod (k / kinetic))
+            :ARG1 (d / dominate-01
+                  :ARG1 (d2 / defect
+                        :mod (p3 / protein :name (n / name :op1 "GAP"))))))
+
+# ::id bio.bmtr_0004.26 ::date 2015-01-06T06:25:29
+# ::snt Furthermore, this outcome was specific to monoubiquitination at position 147.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_26.txt
+(a / and
+      :op2 (s / specific
+            :prep-to (u / ubiquitinate-01 :quant 1
+                  :ARG1 (a2 / amino-acid :mod 147))
+            :domain (o / outcome
+                  :mod (t / this))))
+
+# ::id bio.bmtr_0004.27 ::date 2015-01-06T07:18:02
+# ::snt Thus our work establishes an entirely new mode of Ras activation in which signaling is sustained even in the absence of hormone stimulus or oncogene mutation.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0004_27.txt
+(e / establish-01
+      :ARG0 (w / work-01
+            :ARG0 (w2 / we))
+      :ARG1 (m / mode
+            :mod (n / new
+                  :degree (e2 / entire))
+            :mod (a / activate-01
+                  :ARG1 (e3 / enzyme :name (n2 / name :op1 "Ras")))
+            :ARG0-of (s / sustain-01
+                  :ARG1 (s2 / signal-01)
+                  :concession (l / lack-01
+                        :ARG1 (o / or
+                              :op1 (s3 / stimulus
+                                    :mod (h / hormone))
+                              :op2 (m2 / mutate-01
+                                    :ARG0-of (c / cause-01
+                                          :ARG1 (c2 / cancer))))))))
+
+# ::id bio.bmtr_0005.1 ::date 2015-01-06T07:32:43
+# ::snt Phosphorylation of ASPP2 by RAS/MAPK Pathway Is Critical for Its Full Pro-Apoptotic Function (PMC3847091)
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0005_1.txt
+(p5 / publication-91
+      :ARG1 (c / critical
+            :domain (p / phosphorylate-01
+                  :ARG1 (p2 / protein :name (n / name :op1 "ASPP2"))
+                  :ARG2 (p3 / pathway :name (n2 / name :op1 "RAS/MAPK")))
+            :prep-for (f / function-01
+                  :ARG0 p2
+                  :ARG1 (a / apoptosis
+                        :ARG1-of (f3 / favor-01))
+                  :mod (f2 / full)))
+      :ARG8 "PMC3847091")
+
+# ::id bio.bmtr_0005.2 ::date 2015-01-06T07:47:04
+# ::snt Passage 1-1 (Results)
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0005_2.txt
+(p / passage :mod "1-1"
+      :topic (t / thing
+            :ARG2-of (r / result-01)))
+
+# ::id bio.bmtr_0005.3 ::date 2015-01-06T07:52:16
+# ::snt It has recently been shown that oncogenic RAS can enhance the apoptotic function of p53 via ASPP1 and ASPP2.
+# ::save-date Tue Jan 6, 2015 ::user madalina ::file bio_bmtr_0005_3.txt
+(s / show-01
+      :ARG1 (p / possible
+            :domain (e / enhance-01
+                  :ARG0 (e2 / enzyme :name (n / name :op1 "Ras")
+                        :ARG0-of (c / cause-01
+                              :ARG1 (c2 / cancer)))
+                  :ARG1 (f / function-01
+                        :ARG0 (p2 / protein :name (n2 / name :op1 "p53"))
+                        :ARG1 (a / apoptosis))
+                  :instrument (a2 / and
+                        :op1 (p3 / protein :name (n3 / name :op1 "ASPP1"))
+                        :op2 (p4 / protein :name (n4 / name :op1 "ASPP2")))))
+      :time (r / recent))
+
+# ::id bio.bmtr_0005.4 ::date 2015-01-06T08:05:46
+# ::snt Mechanistically ASPP1 and ASPP2 bind RAS-GTP and potentiates RAS signalling to enhance p53 mediated apoptosis [2].
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0005_4.txt
+(b / bind-01
+      :ARG1 (a2 / and
+            :op1 (p / protein :name (n / name :op1 "ASPP1"))
+            :op2 (p2 / protein :name (n2 / name :op1 "ASPP2")))
+      :ARG2 (m3 / macro-molecular-complex
+            :part (e / enzyme :name (n3 / name :op1 "Ras"))
+            :part (s / small-molecule :name (n4 / name :op1 "GTP")))
+      :manner (m / mechanistic)
+      :ARG0-of (p3 / potentiate-00
+            :ARG1 (s2 / signal-01
+                  :ARG0 e)
+            :purpose (e2 / enhance-01
+                  :ARG1 (a / apoptosis
+                        :ARG1-of (m2 / mediate-01
+                              :ARG0 (p4 / protein :name (n5 / name :op1 "p53"))))))
+      :ARG1-of (d / describe-01
+            :ARG0 (p5 / publication
+                  :ARG1-of (c / cite-01
+                        :ARG2 2))))
+
+# ::id bio.bmtr_0005.5 ::date 2015-01-07T00:52:41
+# ::snt As RAS is upstream of several signalling cascades [13], we queried whether the activity of ASPP2 is regulated by the activation of a RAS-mediated signalling pathway.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0005_5.txt
+(q / query-01
+      :ARG0 (w / we)
+      :ARG2 (r / regulate-01
+            :ARG0 (a / activate-01
+                  :ARG0 (p / pathway
+                        :ARG0-of (s / signal-01
+                              :ARG1-of (m / mediate-01
+                                    :ARG0 e))))
+            :ARG1 (a2 / act-02
+                  :ARG0 (p2 / protein :name (n2 / name :op1 "ASPP2"))))
+      :ARG1-of (c / cause-01
+            :ARG0 (b / be-located-at-91
+                  :ARG1 (e / enzyme :name (n / name :op1 "Ras"))
+                  :ARG2 (r2 / relative-position
+                        :op1 (c2 / cascade
+                              :subevent (s2 / signal-01)
+                              :quant (s3 / several))
+                        :direction (u / upstream))
+                  :ARG1-of (d / describe-01
+                        :ARG0 (p3 / publication
+                              :ARG0-of (c3 / cite-01
+                                    :ARG2 13))))))
+
+# ::id bio.bmtr_0005.6 ::date 2015-01-07T01:51:47
+# ::snt One of the most studied downstream pathways of RAS signalling is the Raf-MAPK pathway.
+# ::save-date Wed Jan 7, 2015 ::user madalina ::file bio_bmtr_0005_6.txt
+(i / include-91
+      :ARG1 (p / pathway :name (n / name :op1 "Raf-MAPK"))
+      :ARG2 (p2 / pathway
+            :ARG1-of (s / study-01
+                  :degree (m / most))
+            :mod (d / downstream)
+            :location-of (s2 / signal-01
+                  :ARG0 (e / enzyme :name (n2 / name :op1 "Ras")))))
+
+# ::id bio.bmtr_0005.7 ::date 2015-01-07T02:19:05
+# ::snt Interestingly, we observed two conserved putative MAPK phosphorylation sites in ASPP1 and ASPP2.
+# ::save-date Wed Jan 7, 2015 ::user madalina ::file bio_bmtr_0005_7.txt
+(o / observe-01
+      :ARG0 (w2 / we)
+      :ARG1 (a / and
+            :op1 (p3 / protein-segment :quant 2
+                  :ARG1-of (c / conserve-01)
+                  :ARG1-of (p2 / phosphorylate-01
+                        :ARG0 (p4 / pathway :name (n / name :op1 "MAPK"))
+                        :ARG2-of (t / think-01))
+                  :part-of (a2 / and
+                        :op1 (p5 / protein :name (n2 / name :op1 "ASPP1"))
+                        :op2 (p6 / protein :name (n3 / name :op1 "ASPP2")))))
+      :ARG2-of (i / interest-01
+            :ARG1 w2))
+
+# ::id bio.bmtr_0005.8 ::date 2015-01-07T02:54:52
+# ::snt The ASPP1 sites are at residues 671 and 746, and the ASPP2 sites are at residues 698 and 827 (Figure 1A).
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0005_8.txt
+(a4 / and
+      :op1 (b / be-located-at-91
+            :ARG1 (p / protein-segment
+                  :part-of (p2 / protein :name (n / name :op1 "ASPP1")))
+            :ARG2 (a2 / and
+                  :op1 (r / residue
+                        :mod (a / amino-acid :mod 671))
+                  :op2 (r2 / residue
+                        :mod (a3 / amino-acid :mod 746))))
+      :op2 (b2 / be-located-at-91
+            :ARG1 (p3 / protein-segment
+                  :part-of (p4 / protein :name (n2 / name :op1 "ASPP2")))
+            :ARG2 (a5 / and
+                  :op1 (r3 / residue
+                        :mod (a6 / amino-acid :mod 698))
+                  :op2 (r4 / residue
+                        :mod (a7 / amino-acid :mod 827))))
+      :ARG1-of (d / describe-01
+            :ARG0 (f / figure :mod "1A")))
+
+# ::id bio.bmtr_0005.9 ::date 2015-01-07T01:10:14
+# ::snt We thus tested whether RAS activation may regulate ASPP2 phosphorylation.
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0005_9.txt
+(c / cause-01
+  :ARG1 (t / test-01
+          :ARG0 (w / we)
+          :ARG1 (p / possible
+                  :mode interrogative
+                  :domain (r / regulate-01
+                            :ARG0 (a / activate-01
+                                    :ARG1 (e / enzyme
+                                            :name (n / name
+                                                    :op1 "RAS")))
+                            :ARG1 (p2 / phosphorylate-01
+                                    :ARG1 (p3 / protein
+                                            :name (n2 / name
+                                                    :op1 "ASPP2")))))))
+
+# ::id bio.bmtr_0005.10 ::date 2015-01-07T01:19:03
+# ::snt An in vitro phophorylation assay was performed with a purified C-terminus fragment of ASPP2 (693-1128) containing both MAPK putative phosphorylation sites.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0005_10.txt
+(a / assay-00
+      :ARG1 (p / phosphorylate-01
+            :ARG1 (p2 / protein-segment
+                  :part-of (p3 / protein-segment :name (n / name :op1 "C-terminus")
+                        :part-of (p4 / protein :name (n2 / name :op1 "ASPP2")))
+                  :ARG1-of (p5 / purify-01)
+                  :mod (b / between
+                        :op1 (a2 / amino-acid :mod 693)
+                        :op2 (a3 / amino-acid :mod 1128))
+                  :ARG0-of (c / contain-01
+                        :ARG1 (p6 / protein-segment
+                              :ARG1-of (p7 / phosphorylate-01
+                                    :ARG2 (e / enzyme :name (n4 / name :op1 "MAPK"))
+                                    :ARG1-of (t / think-01))
+                              :mod (b2 / both))))
+            :manner (i / in-vitro)))
+
+# ::id bio.bmtr_0005.11 ::date 2015-01-07T01:50:22
+# ::snt When compared to p38 SAPK, MAPK1 was clearly able to phosphorylate the ASPP2 fragment in vitro (Figure 1B, left and middle panels).
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0005_11.txt
+(p / possible
+  :mod (c / clear)
+  :domain (p2 / phosphorylate-01
+            :ARG1 (p3 / protein-segment
+                    :part-of (p4 / protein
+                               :name (n2 / name
+                                       :op1 "ASPP2")))
+            :ARG2 (e / enzyme
+                    :name (n / name
+                            :op1 "MAPK1"))
+            :manner (i / in-vitro))
+  :compared-to (p5 / possible
+                 :domain (p6 / phosphorylate-01
+                           :ARG1 p3
+                           :ARG2 (e2 / enzyme
+                                   :name (n3 / name
+                                           :op1 "p38"
+                                           :op2 "SAPK"))))
+  :ARG1-of (d / describe-01
+             :ARG0 (a / and
+                     :op1 (p7 / panel
+                            :location (l / left))
+                     :op2 (p8 / panel
+                            :location (m / middle))
+                     :part-of (f / figure
+                                :mod "1B"))))
+
+# ::id bio.bmtr_0005.12 ::date 2015-01-07T02:20:07
+# ::snt As shown in Figure S1, histone 2B phosphorylated by p38 SAPK had high levels of incorporated 32P, suggesting that p38 SAPK was active; while under the same conditions, ASPP2 (693-1128) fragment phosphorylated by p38 SAPK had very low levels of incorporated 32P, indicating that p38 SAPK is not an efficient kinase for ASPP2 phosphorylation.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0005_12.txt
+(s / show-01
+      :ARG0 (f / figure :mod "S1")
+      :ARG1 (c / contrast-01
+            :ARG1 (h / have-part-91
+                  :ARG1 (p8 / protein :name (n / name :op1 "Histone" :op2 "2B")
+                        :ARG3-of (p2 / phosphorylate-01
+                              :ARG2 (e / enzyme :name (n2 / name :op1 "p38" :op2 "SAPK"))))
+                  :ARG2 (p / phosphorus
+                        :mod (m / molecular-mass :value 32)
+                        :quant (l / level
+                              :mod (h3 / high))
+                        :ARG1-of (i / incorporate-02
+                              :ARG2 p8))
+                  :ARG0-of (s2 / suggest-01
+                        :ARG1 (a / activate-01
+                              :ARG1 e)))
+            :ARG2 (h4 / have-part-91
+                  :ARG1 (p3 / protein-segment
+                        :mod (b / between
+                              :op1 (a2 / amino-acid :mod 693)
+                              :op2 (a3 / amino-acid :mod 1128))
+                        :part (p5 / protein :name (n3 / name :op1 "ASPP2"))
+                        :ARG3-of (p6 / phosphorylate-01
+                              :ARG2 e))
+                  :ARG2 (p4 / phosphorus
+                        :mod (m2 / molecular-mass :value 32)
+                        :quant (l2 / level
+                              :mod (l3 / low
+                                    :degree (v / very)))
+                        :ARG1-of (i2 / incorporate-02
+                              :ARG2 p3))
+                  :ARG0-of (i3 / indicate-01
+                        :ARG1 (e2 / efficient-41 :polarity -
+                              :ARG1 e
+                              :ARG2 (p7 / phosphorylate-01
+                                    :ARG1 p5
+                                    :ARG2 e)))
+                  :condition (t / thing
+                        :ARG1-of (s3 / same-41
+                              :ARG2 (t2 / thing
+                                    :condition-of h))))))
+
+# ::id bio.bmtr_0005.13 ::date 2015-01-07T02:45:06
+# ::snt The phosphorylated ASPP2 fragment by MAPK1 was digested by trypsin and fractioned on a high performance liquid chromatography (HPLC).
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0005_13.txt
+(a / and
+      :op1 (d / digest-01
+            :ARG0 (e / enzyme :name (n / name :op1 "trypsin"))
+            :ARG1 (p / protein-segment
+                  :part-of (p2 / protein :name (n2 / name :op1 "ASPP2"))
+                  :ARG3-of (p3 / phosphorylate-01
+                        :ARG2 (e2 / enzyme :name (n3 / name :op1 "MAPK1")))))
+      :op2 (f / fraction-01
+            :ARG1 p
+            :manner (c / chromatography
+                  :mod (l / liquid
+                        :ARG0-of (p4 / perform-01
+                              :degree (h / high))))))
+
+# ::id bio.bmtr_0005.14 ::date 2015-01-07T02:59:19
+# ::snt Each eluted fraction was measured for its radioactivity content (Figure 1B, right panel).
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0005_14.txt
+(m / measure-01
+  :ARG1 (f / fraction
+          :ARG3-of (e / elute-00)
+          :mod (e2 / each))
+  :purpose (t / thing
+             :mod (r2 / radioactive)
+             :ARG1-of (c / contain-01
+                        :ARG0 f))
+  :ARG1-of (d / describe-01
+             :ARG0 (p / panel
+                     :location (r / right)
+                     :part-of (f2 / figure
+                                :mod "1B"))))
+
+# ::id bio.bmtr_0005.15 ::date 2015-01-07T03:12:21
+# ::snt The fractions representing these radioactive peaks were analysed by mass spectrometry.
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0005_15.txt
+(a / analyze-01
+      :ARG1 (f / fraction
+            :ARG0-of (r / represent-01
+                  :ARG1 (p / peak
+                        :mod (r2 / radioactive)
+                        :mod (t / this))))
+      :manner (s / spectrometry
+            :mod (m / mass)))
+
+# ::id bio.bmtr_0005.16 ::date 2015-01-07T03:17:37
+# ::snt Of the two radioactive peaks, one represented the linker region between the GST and our ASPP2 fragment and the other corresponded to a fragment of the same mass as that containing the second putative phosphorylation site, serine 827.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0005_16.txt
+(a / and
+      :op1 (r / represent-01
+            :ARG0 (p / peak
+                  :ARG1-of (i / include-91
+                        :ARG2 (p2 / peak :quant 2
+                              :mod (r2 / radioactive))))
+            :ARG1 (r4 / region
+                  :ARG0-of (l / link-01
+                        :ARG1 (a2 / and
+                              :op1 (e / enzyme :name (n / name :op1 "GST"))
+                              :op2 (p3 / protein-segment
+                                    :part-of (p4 / protein :name (n2 / name :op1 "ASPP2"))
+                                    :poss (w / we))))))
+      :op2 (c / correspond-02
+            :ARG1 (p5 / peak
+                  :mod (o / other)
+                  :ARG1-of (i2 / include-91
+                        :ARG2 p2))
+            :ARG2 (p6 / protein-segment
+                  :mod (m / mass
+                        :domain (p7 / protein-segment
+                              :ARG1-of (p8 / phosphorylate-01)
+                              :ord (o2 / ordinal-entity :value 2)
+                              :ARG1-of (e2 / equal-01
+                                    :ARG2 (a3 / amino-acid :mod 827 :name (n3 / name :op1 "serine"))
+                                    :ARG1-of (t / think-01)))))))
+
+# ::id bio.bmtr_0005.17 ::date 2015-01-07T04:57:02
+# ::snt Hence ASPP2 can be phosphorylated at serine 827 by MAPK1 in vitro.
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0005_17.txt
+(c / cause-01
+  :ARG1 (p / possible
+          :domain (p2 / phosphorylate-01
+                    :ARG1 (a / amino-acid
+                            :name (n / name
+                                    :op1 "serine")
+                            :mod 827
+                            :part-of (p3 / protein
+                                       :name (n2 / name
+                                               :op1 "ASPP2")))
+                    :ARG2 (e / enzyme
+                            :name (n3 / name
+                                    :op1 "MAPK1"))
+                    :manner (i / in-vitro))))
+
+# ::id bio.bmtr_0005.18 ::date 2015-01-07T05:01:25
+# ::snt Passage 1-2 (Discussion/Conclusion)
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0005_18.txt
+(p / passage :mod "1-2"
+      :topic (s / slash
+            :op1 (t2 / thing
+                  :ARG1-of (d / discuss-01))
+            :op2 (t / thing
+                  :ARG1-of (c / conclude-01))))
+
+# ::id bio.bmtr_0005.19 ::date 2015-01-07T05:12:17
+# ::snt We and others have recently shown that ASPP2 can potentiate RAS signaling by binding directly via the ASPP2 N-terminus [2,6].
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0005_19.txt
+(s / show-01
+      :ARG0 (a / and
+            :op1 (w / we)
+            :op2 (p / person
+                  :mod (o / other)))
+      :ARG1 (p2 / possible
+            :domain (p3 / potentiate-00
+                  :ARG0 (p4 / protein :name (n / name :op1 "ASPP2"))
+                  :ARG1 (s2 / signal-01
+                        :ARG0 (e / enzyme :name (n2 / name :op1 "RAS")))
+                  :manner (b / bind-01
+                        :ARG1 e
+                        :ARG2 (p5 / protein-segment :name (n3 / name :op1 "N-terminus")
+                              :part-of p4)
+                        :manner (d / direct))))
+      :time (r / recent)
+      :ARG1-of (d2 / describe-01
+            :ARG0 (p6 / publication
+                  :ARG1-of (c / cite-01
+                        :ARG2 (v / value-interval :op1 2 :op2 6)))))
+
+# ::id bio.bmtr_0005.20 ::date 2015-01-07T05:23:11
+# ::snt Moreover, the RAS-ASPP interaction enhances the transcription function of p53 in cancer cells [2].
+# ::save-date Wed Jan 7, 2015 ::user bbadarau ::file bio_bmtr_0005_20.txt
+(a / and
+      :op2 (e / enhance-01
+            :ARG0 (i / interact-01
+                  :ARG0 (e2 / enzyme :name (n / name :op1 "RAS"))
+                  :ARG1 (p / protein :name (n2 / name :op1 "ASPP")))
+            :ARG1 (t / transcribe-01
+                  :ARG1 (p2 / protein :name (n3 / name :op1 "p53"))
+                  :location (c2 / cell
+                        :mod (c3 / cancer)))
+            :ARG1-of (d / describe-01
+                  :ARG0 (p3 / publication
+                        :ARG1-of (c4 / cite-01
+                              :ARG2 2)))))
+
+# ::id bio.bmtr_0005.21 ::date 2015-01-07T05:39:33
+# ::snt Until now, it has been unclear how RAS could affect ASPP2 to enhance p53 function.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0005_21.txt
+(c / clear :polarity -
+      :domain (t / thing
+            :manner-of (p / possible
+                  :domain (a / affect-01
+                        :ARG0 (e / enzyme :name (n / name :op1 "RAS"))
+                        :ARG1 (p2 / protein :name (n3 / name :op1 "ASPP2"))
+                        :ARG0-of (c2 / cause-01
+                              :ARG1 (e2 / enhance-01
+                                    :ARG1 (f / function-01
+                                          :ARG0 (p3 / protein :name (n4 / name :op1 "p53"))))))))
+      :time (u / until
+            :op1 (n2 / now)))
+
+# ::id bio.bmtr_0005.22 ::date 2015-01-07T05:10:22
+# ::snt We show here that ASPP2 is phosphorylated by the RAS/Raf/MAPK pathway and that this phosphorylation leads to its increased translocation to the cytosol/nucleus and increased binding to p53, providing an explanation of how RAS can activate p53 pro-apoptotic functions (Figure 5).
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0005_22.txt
+(s / show-01
+      :ARG0 (w / we)
+      :ARG1 (p / phosphorylate-01
+            :ARG1 (p3 / protein :name (n2 / name :op1 "ASPP2"))
+            :ARG2 (p2 / pathway :name (n / name :op1 "RAS/Raf/MAPK"))
+            :ARG0-of (l / lead-03
+                  :ARG2 (a / and
+                        :op1 (i / increase-01
+                              :ARG1 (t / translocate-00
+                                    :ARG1 p3
+                                    :ARG2 (s2 / slash
+                                          :op1 (c / cytosol)
+                                          :op2 (n3 / nucleus))))
+                        :op2 (i2 / increase-01
+                              :ARG1 (b / bind-01
+                                    :ARG1 p3
+                                    :ARG2 (p4 / protein :name (n4 / name :op1 "p53"))))))
+            :ARG0-of (e2 / explain-01
+                  :ARG1 (p5 / possible
+                        :domain (a2 / activate-01
+                              :ARG0 (e / enzyme :name (n5 / name :op1 "RAS"))
+                              :ARG1 (f / function-01
+                                    :ARG0 p4
+                                    :ARG1 (a3 / apoptosis
+                                          :ARG1-of (f2 / favor-01))))))
+            :ARG1-of (d / describe-01
+                  :ARG0 (f3 / figure :mod 5)))
+      :location (h / here))
+
+# ::id bio.bmtr_0005.23 ::date 2015-01-07T05:40:37
+# ::snt Additionally, RAS/Raf/MAPK pathway activation stabilizes ASPP2 protein, although the underlying mechanism remains to be investigated.
+# ::save-date Thu Jan 8, 2015 ::user cjconsensus ::file bio_bmtr_0005_23.txt
+(a / and
+      :op2 (s / stabilize-01
+            :ARG0 (a2 / activate-01
+                  :ARG1 (p / pathway :name (n / name :op1 "RAS/Raf/MAPK")))
+            :ARG1 (p2 / protein :name (n2 / name :op1 "ASPP2"))
+            :concession (r / remain-01
+                  :ARG1 (m / mechanism
+                        :ARG0-of (u / underlie-01
+                              :ARG1 s))
+                  :ARG3 (i / investigate-01
+                        :ARG1 m))))

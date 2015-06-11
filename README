@@ -1,0 +1,5 @@
+Training data - /nfs/nlg/semmt/projects/bigmech/dry-run/gold-amr/2015-05-release/alignment-release-bio-training.txt
+
+Test data
+Gold - /nfs/nlg/semmt/projects/bigmech/dry-run/gold-amr/bio-bmdr4-gold-2015-01-08.txt 
+Auto - /nfs/nlg/semmt/projects/bigmech/dry-run/auto-amr/bio-bmdr4-auto-amr-2015-01-07-ulf.txt 
