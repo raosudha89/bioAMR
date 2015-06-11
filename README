@@ -2,4 +2,14 @@ Training data - /nfs/nlg/semmt/projects/bigmech/dry-run/gold-amr/2015-05-release
 
 Test data
 Gold - /nfs/nlg/semmt/projects/bigmech/dry-run/gold-amr/bio-bmdr4-gold-2015-01-08.txt 
-Auto - /nfs/nlg/semmt/projects/bigmech/dry-run/auto-amr/bio-bmdr4-auto-amr-2015-01-07-ulf.txt 
+Auto - /nfs/nlg/semmt/projects/bigmech/dry-run/auto-amr/bio-bmdr4-auto-amr-2015-01-07-ulf.txt
+
+Read AMR into amr_nx_graph
+python scripts/amr_reader.py data/bio-bmdr4-gold-2015-01-08.txt > data/bio-bmdr4-gold-2015-01-08.amr_nx_graphs
+python scripts/amr_reader.py data/bio-bmdr4-auto-amr-2015-01-07-ulf.txt > data/bio-bmdr4-auto-amr-2015-01-07-ulf.amr_nx_graphs
+
+Concept evaluation:
+python scripts/evaluate_concepts.py data/bio-bmdr4-gold-2015-01-08.amr_nx_graphs.p data/bio-bmdr4-auto-amr-2015-01-07-ulf.amr_nx_graphs.p
+Precision 0.83
+Recall 0.77
+F1 0.79
