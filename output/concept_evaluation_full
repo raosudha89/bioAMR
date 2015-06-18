@@ -1,0 +1,403 @@
+bio.bmtr_0005.16
+Of the two radioactive peaks, one represented the linker region between the GST and our ASPP2 fragment and the other corresponded to a fragment of the same mass as that containing the second putative phosphorylation site, serine 827.
+TP set(['"serine"', 'and', 'we', 'radioactive', 'name', 'amino-acid', 'region', '"GST"', 'phosphorylate-01', 'peak', 'represent-01', 'other', 'enzyme', '2', 'mass', '"ASPP2"', '827', 'protein', 'ordinal-entity'])
+FN set(['protein-segment', 'link-01', 'think-01', 'include-91', 'equal-01', 'correspond-02'])
+FP set(['that', 'fragment', 'one', 'same-41', 'correspond-01', 'amr-glue', 'except-01', 'contain-01'])
+0.70, 0.76, 0.73
+
+
+bio.bmtr_0005.17
+Hence ASPP2 can be phosphorylated at serine 827 by MAPK1 in vitro.
+TP set(['"serine"', 'name', 'amino-acid', '"MAPK1"', '827', 'phosphorylate-01', 'possible', 'enzyme', '"ASPP2"', 'protein', 'in-vitro', 'cause-01'])
+FN set([])
+FP set(['be-located-at-91'])
+0.92, 1.00, 0.96
+
+
+bio.bmtr_0005.14
+Each eluted fraction was measured for its radioactivity content (Figure 1B, right panel).
+TP set(['right', 'figure', 'measure-01', 'thing', '"1B"', 'contain-01', 'fraction', 'each', 'elute-00', 'panel'])
+FN set(['radioactive', 'describe-01'])
+FP set(['radioactivity', 'include-91'])
+0.83, 0.83, 0.83
+
+
+bio.bmtr_0005.15
+The fractions representing these radioactive peaks were analysed by mass spectrometry.
+TP set(['radioactive', 'this', 'analyze-01', 'represent-01', 'mass', 'peak', 'fraction', 'spectrometry'])
+FN set([])
+FP set(['except-01'])
+0.89, 1.00, 0.94
+
+
+bio.bmtr_0005.12
+As shown in Figure S1, histone 2B phosphorylated by p38 SAPK had high levels of incorporated 32P, suggesting that p38 SAPK was active; while under the same conditions, ASPP2 (693-1128) fragment phosphorylated by p38 SAPK had very low levels of incorporated 32P, indicating that p38 SAPK is not an efficient kinase for ASPP2 phosphorylation.
+TP set(['1128', 'figure', 'high', 'protein', '"SAPK"', 'indicate-01', '693', '"2B"', '-', 'phosphorylate-01', 'enzyme', 'low', 'very', 'same-41', '"ASPP2"', 'show-01', 'name', '"p38"', 'level', 'efficient-41', '"S1"', 'contrast-01', 'suggest-01'])
+FN set(['"Histone"', 'amino-acid', 'have-part-91', 'between', 'activate-01', 'incorporate-02', 'protein-segment', 'phosphorus', '32', 'thing', 'molecular-mass'])
+FP set(['amr-glue', 'mean-01', 'kinase', 'fragment', 'under', 'incorporate-01', 'histone', 'active', 'by', 'condition', 'describe-01'])
+0.68, 0.68, 0.68
+
+
+bio.bmtr_0005.13
+The phosphorylated ASPP2 fragment by MAPK1 was digested by trypsin and fractioned on a high performance liquid chromatography (HPLC).
+TP set(['and', 'high', 'digest-01', 'chromatography', 'liquid', 'perform-01', 'enzyme', '"trypsin"', 'name', '"MAPK1"', 'phosphorylate-01', '"ASPP2"', 'protein', 'fraction-01'])
+FN set(['protein-segment'])
+FP set(['amr-glue', 'fragment', 'HPLC'])
+0.82, 0.93, 0.87
+
+
+bio.bmtr_0005.10
+An in vitro phophorylation assay was performed with a purified C-terminus fragment of ASPP2 (693-1128) containing both MAPK putative phosphorylation sites.
+TP set(['1128', '693', 'protein-segment', 'name', 'both', 'phosphorylate-01', 'contain-01', 'purify-01', '"C-terminus"', '"ASPP2"', 'assay-00', 'protein', 'in-vitro', '"MAPK"'])
+FN set(['think-01', 'amino-acid', 'enzyme', 'between'])
+FP set(['fragment', 'perform-01', 'amr-glue', 'pathway'])
+0.78, 0.78, 0.78
+
+
+bio.bmtr_0005.11
+When compared to p38 SAPK, MAPK1 was clearly able to phosphorylate the ASPP2 fragment in vitro (Figure 1B, left and middle panels).
+TP set(['"MAPK1"', '"p38"', 'clear', 'phosphorylate-01', 'name', 'middle', 'enzyme', '"1B"', '"ASPP2"', 'figure', 'protein', '"SAPK"', 'in-vitro', 'possible', 'panel'])
+FN set(['and', 'protein-segment', 'describe-01', 'left'])
+FP set(['fragment', 'include-91', 'leave-04', 'compare-01', 'cause-01'])
+0.75, 0.79, 0.77
+
+
+bio.bmtr_0004.24
+The analysis revealed that monoubiquitination abrogates GAP-mediated GTP hydrolysis.
+TP set(['abrogate-01', 'name', 'hydrolyze-01', 'mediate-01', 'analyze-01', 'reveal-01', 'small-molecule', '"GTP"', 'protein', '"GAP"'])
+FN set(['1', 'ubiquitinate-01'])
+FP set(['amr-glue'])
+0.91, 0.83, 0.87
+
+
+bio.bmtr_0004.25
+All other activities, including the ability to bind regulators, were largely preserved and our kinetic modeling suggests that the GAP defect will dominate.
+TP set(['and', 'all', 'name', 'include-01', 'we', 'defect', 'large', 'other', 'suggest-01', 'preserve-01', 'protein', 'bind-01', 'kinetic', 'dominate-01', '"GAP"'])
+FN set(['possible', 'molecular-physical-entity', 'model-01', 'act-02', 'regulate-01'])
+FP set(['capable-41', 'regulator', 'activity', 'modeling'])
+0.79, 0.75, 0.77
+
+
+bio.bmtr_0004.26
+Furthermore, this outcome was specific to monoubiquitination at position 147.
+TP set(['specific', 'this', 'outcome', '147'])
+FN set(['and', 'amino-acid', '1', 'ubiquitinate-01'])
+FP set(['amr-glue', 'position'])
+0.67, 0.50, 0.57
+
+
+bio.bmtr_0004.27
+Thus our work establishes an entirely new mode of Ras activation in which signaling is sustained even in the absence of hormone stimulus or oncogene mutation.
+TP set(['entire', 'we', 'hormone', 'work-01', 'activate-01', 'stimulus', '"Ras"', 'enzyme', 'name', 'mutate-01', 'mode', 'signal-01', 'new', 'cause-01', 'or', 'establish-01', 'sustain-01'])
+FN set(['lack-01', 'cancer'])
+FP set(['absent-01', 'even', 'oncogene'])
+0.85, 0.89, 0.87
+
+
+bio.bmtr_0004.20
+This chemical ligation strategy will likely be useful for the study of other monoubiquitinated proteins.
+TP set(['useful', 'this', 'study-01', 'strategy', 'chemical', 'likely', 'other', 'protein'])
+FN set(['1', 'ubiquitinate-01', 'ligate-01'])
+FP set(['amr-glue', 'ligation'])
+0.80, 0.73, 0.76
+
+
+bio.bmtr_0004.21
+Surprisingly, monoubiquitination did not alter the intrinsic activity of Ras, despite the size of the modification.
+TP set(['modify-01', 'alter-01', 'name', '"Ras"', '-', 'enzyme', 'size-01', 'intrinsic', 'act-02'])
+FN set(['surprise-01', '1', 'thing', 'ubiquitinate-01'])
+FP set(['do-02', 'amr-glue', 'surprising'])
+0.75, 0.69, 0.72
+
+
+bio.bmtr_0004.22
+Our modeling and NMR analyses indicated that Ubiquitin dynamically samples a broad surface area of Ras that alters switch region dynamics.
+TP set(['and', 'we', 'alter-01', '"ubiquitin"', 'area', 'broad', 'region', '"Ras"', 'dynamic', 'surface', 'sample-01', 'enzyme', 'protein', 'indicate-01', 'name'])
+FN set(['NMR', 'analyze-01', 'switch-01', 'model-01'])
+FP set(['dynamical', 'analysis', 'thing', 'switch', 'amr-glue', 'modeling'])
+0.71, 0.79, 0.75
+
+
+bio.bmtr_0004.23
+These results led us to examine the effect of monoubiquitination on the interaction of Ras with its cognate GEF and GAPs, which also target the switch domains.
+TP set(['and', 'domain', '"GEF"', 'cognate', '"GAP"', 'switch-01', 'this', 'examine-01', '"Ras"', 'target-01', 'we', 'also', 'enzyme', 'interact-01', 'affect-01', 'protein', 'thing', 'result-01', 'name'])
+FN set(['1', 'lead-03', 'ubiquitinate-01'])
+FP set(['amr-glue', 'lead-02', 'have-org-role-91'])
+0.86, 0.86, 0.86
+
+
+bio.bmtr_0004.7
+Therefore, mUbRas is insensitive to GAP-mediated regulation, similar to an oncogenic Ras-G12V mutation.
+TP set(['"GAP"', 'cancer', 'mediate-01', 'resemble-01', '"Ras"', '-', 'name', 'enzyme', 'protein', 'mutate-01', 'sensitive-41', '"G12V"', 'regulate-01', 'cause-01'])
+FN set(['1', 'ubiquitinate-01'])
+FP set(['"mUbRas"'])
+0.93, 0.88, 0.90
+
+
+bio.bmtr_0004.2
+Passage 1-1 (Results)
+TP set(['result-01', '"1-1"', 'passage'])
+FN set(['thing'])
+FP set([])
+1.00, 0.75, 0.86
+
+
+bio.bmtr_0004.6
+No increase in the rate of GTP hydrolysis was observed for mUbRas in the presence of the same GAP-to Ras ratio (Fig. 5b).
+TP set(['"GAP"', 'figure', 'increase-01', 'hydrolyze-01', '"Ras"', '-', 'observe-01', 'small-molecule', 'enzyme', '"5b"', '"GTP"', 'protein', 'rate', 'name'])
+FN set(['ratio-of', 'describe-01', '1', 'same-41', 'bind-01', 'ubiquitinate-01'])
+FP set(['"mUbRas"', 'ratio', 'presence', 'include-91', 'same', 'amr-glue'])
+0.70, 0.70, 0.70
+
+
+bio.bmtr_0004.4
+To this end we compared the rate of GTP hydrolysis for Ras and mUbRas in the presence of the catalytic domains of two GAPs, NF1 (NF1-333) and p120GAP(GAP-334).
+TP set(['and', 'this', 'domain', '"GAP"', '"NF1"', 'hydrolyze-01', '"Ras"', 'include-91', 'small-molecule', 'enzyme', 'we', 'catalyze-01', '"GTP"', 'compare-01', 'protein', 'rate', 'name'])
+FN set(['"GAP-334"', '1', '"NF1-333"', 'bind-01', 'ubiquitinate-01', '"p120GAP"'])
+FP set(['"mUbRas"', 'presence', '333', '2', 'amr-glue', 'end-01'])
+0.74, 0.74, 0.74
+
+
+bio.bmtr_0005.23
+Additionally, RAS/Raf/MAPK pathway activation stabilizes ASPP2 protein, although the underlying mechanism remains to be investigated.
+TP set(['name', 'activate-01', '"RAS/Raf/MAPK"', 'stabilize-01', 'mechanism', 'underlie-01', 'remain-01', '"ASPP2"', 'investigate-01', 'protein', 'pathway'])
+FN set(['and'])
+FP set(['additional', 'country'])
+0.85, 0.92, 0.88
+
+
+bio.bmtr_0005.22
+We show here that ASPP2 is phosphorylated by the RAS/Raf/MAPK pathway and that this phosphorylation leads to its increased translocation to the cytosol/nucleus and increased binding to p53, providing an explanation of how RAS can activate p53 pro-apoptotic functions (Figure 5).
+TP set(['and', 'figure', 'increase-01', 'cytosol', 'explain-01', 'protein', '"RAS"', 'enzyme', 'translocate-00', 'phosphorylate-01', '5', 'pathway', 'we', 'activate-01', 'lead-03', 'apoptosis', 'possible', 'here', 'favor-01', 'nucleus', '"ASPP2"', 'bind-01', 'name', 'show-01', '"p53"', '"RAS/Raf/MAPK"'])
+FN set(['slash', 'function-01', 'describe-01'])
+FP set(['function', 'provide-01', 'it', 'amr-glue', 'cause-01'])
+0.84, 0.90, 0.87
+
+
+bio.bmtr_0005.21
+Until now, it has been unclear how RAS could affect ASPP2 to enhance p53 function.
+TP set(['enhance-01', 'name', 'clear', '"RAS"', '-', 'possible', 'enzyme', '"ASPP2"', 'function-01', 'affect-01', 'protein', 'now', 'until', '"p53"'])
+FN set(['thing', 'cause-01'])
+FP set(['have-03', 'it'])
+0.88, 0.88, 0.88
+
+
+bio.bmtr_0005.20
+Moreover, the RAS-ASPP interaction enhances the transcription function of p53 in cancer cells [2].
+TP set(['enhance-01', 'name', 'cancer', 'interact-01', 'transcribe-01', '"RAS"', 'cell', 'enzyme', '"ASPP"', 'protein', '"p53"'])
+FN set(['and', 'cite-01', 'publication', 'describe-01', '2'])
+FP set(['function-01', 'moreover'])
+0.85, 0.69, 0.76
+
+
+bio.bmtr_0004.15
+These data support our in vitro findings that monoubiquitination increases the population of active, GTP-bound Ras through a defect in sensitivity to GAP-mediated regulation.
+TP set(['this', 'we', '"GAP"', 'increase-01', 'small-molecule', 'data', '"Ras"', 'defect', 'find-01', 'support-01', 'enzyme', 'mediate-01', '"GTP"', 'protein', 'population', 'bind-01', 'in-vitro', 'regulate-01', 'name'])
+FN set(['activate-01', 'sensitive-41', '1', 'ubiquitinate-01'])
+FP set(['sensitivity', 'thing', 'amr-glue', 'active'])
+0.83, 0.83, 0.83
+
+
+bio.bmtr_0004.14
+As seen in Figure 5c, monoubiquitinated K-Ras is less sensitive than the unmodified protein to GAP-mediated GTP hydrolysis.
+TP set(['"GAP"', 'figure', 'less', 'small-molecule', 'mediate-01', 'sensitive-41', 'hydrolyze-01', '"K-Ras"', 'enzyme', '"5c"', 'see-01', '"GTP"', 'protein', 'name'])
+FN set(['modify-01', '-', '1', 'ubiquitinate-01'])
+FP set(['amr-glue', 'unmodified'])
+0.88, 0.78, 0.82
+
+
+bio.bmtr_0004.17
+It was established recently that monoubiquitination increases the proportion of Ras that is in the activated (GTP-bound) state, that monoubiquitination enhances association with the downstream effectors Raf and PI3-Kinase, and that mutation of the primary site of monoubiquitination impairs oncogenic Ras-mediated tumorigenesis.
+TP set(['and', 'cancer', 'increase-01', 'mediate-01', 'primary', 'effector', 'associate-01', '"Raf"', 'cause-01', 'enhance-01', 'downstream', '"PI3-Kinase"', 'proportion', 'enzyme', '"GTP"', 'recent', 'activate-01', 'impair-01', 'bind-01', 'mutate-01', 'protein-segment', 'name', 'small-molecule', '"Ras"', 'establish-01'])
+FN set(['1', 'tumor', 'create-01', 'ubiquitinate-01'])
+FP set(['that', 'it', 'state', 'amr-glue'])
+0.86, 0.86, 0.86
+
+
+bio.bmtr_0004.16
+Passage 1-2 (Discussion/Conclusion)
+TP set(['"1-2"', 'passage'])
+FN set(['discuss-01', 'thing', 'slash', 'conclude-01'])
+FP set([])
+1.00, 0.33, 0.50
+
+
+bio.bmtr_0004.11
+These results indicate that variations in the linker length on this scale (1-2 bonds) do not influence the sensitivity of mUbRas to GAP downregulation.
+TP set(['vary-01', '"GAP"', 'downregulate-01', 'this', 'result-01', '-', 'name', '1', 'thing', 'enzyme', '2', 'protein', 'bond', 'indicate-01', 'influence-01'])
+FN set(['protein-segment', 'link-01', '"Ras"', 'sensitive-41', 'ubiquitinate-01', 'length', 'or'])
+FP set(['"mUbRas"', 'scale', 'sensitivity', 'include-91', 'long', 'amr-glue'])
+0.71, 0.68, 0.70
+
+
+bio.bmtr_0005.18
+Passage 1-2 (Discussion/Conclusion)
+TP set(['"1-2"', 'passage'])
+FN set(['discuss-01', 'thing', 'slash', 'conclude-01'])
+FP set([])
+1.00, 0.33, 0.50
+
+
+bio.bmtr_0004.13
+We immunoprecipitated Ras from HEK293T cells and compared the sensitivity of the monoubiquitinated and unmodified fractions of Ras to regulation by GAP.
+TP set(['and', 'we', '"GAP"', '"Ras"', 'enzyme', 'fraction', 'compare-01', 'cell-line', '"HEK293T"', 'protein', 'regulate-01', 'name'])
+FN set(['modify-01', 'sensitive-41', '-', '1', 'immunoprecipitate-00', 'ubiquitinate-01'])
+FP set(['amr-glue', 'unmodified', 'sensitivity'])
+0.80, 0.67, 0.73
+
+
+bio.bmtr_0004.12
+To validate the use of an in vitro system to dissect the mechanism of Ras regulation, we measured the sensitivity of mUbRas to GAP-mediated hydrolysis in a cellular reconstitution system.
+TP set(['we', 'name', 'hydrolyze-01', 'mediate-01', '"Ras"', 'system', 'measure-01', 'cell', 'dissect-01', 'enzyme', 'validate-01', 'use-01', 'in-vitro', 'protein', 'regulate-01', '"GAP"'])
+FN set(['have-purpose-91', 'sensitive-41', '1', 'reconstitute-01', 'ubiquitinate-01'])
+FP set(['"mUbRas"', 'sensitivity', 'mechanism', 'amr-glue', 'have-org-role-91'])
+0.76, 0.76, 0.76
+
+
+bio.bmtr_0005.19
+We and others have recently shown that ASPP2 can potentiate RAS signaling by binding directly via the ASPP2 N-terminus [2,6].
+TP set(['and', 'show-01', 'protein-segment', 'name', 'we', '"RAS"', 'direct', 'possible', 'enzyme', 'other', '"ASPP2"', '"N-terminus"', 'signal-01', 'protein', 'bind-01', 'recent'])
+FN set(['value-interval', 'cite-01', 'publication', 'potentiate-00', 'describe-01', 'person', '2', '6'])
+FP set(['via', 'amr-glue'])
+0.89, 0.67, 0.76
+
+
+bio.bmtr_0004.19
+A major advance was our ability to easily generate mUbRas, modified at a single site, in a form suitable for detailed biophysical studies.
+TP set(['capable-41', 'modify-01', 'name', 'form', 'generate-01', 'study-01', 'single', 'enzyme', 'we', 'easy', 'major'])
+FN set(['biophysical', 'advance', 'protein-segment', 'detail-01', '"Ras"', 'suit-01', '1', 'ubiquitinate-01'])
+FP set(['suitable-41', 'biophysics', 'site', 'detail', '"mUbRas"', 'have-org-role-91', 'advance-01', 'include-91'])
+0.58, 0.58, 0.58
+
+
+bio.bmtr_0004.18
+Here we show that monoubiquitination decreases the sensitivity of Ras to GAP-mediated hydrolysis.
+TP set(['show-01', '"Ras"', 'name', 'hydrolyze-01', 'mediate-01', 'decrease-01', 'we', 'here', 'enzyme', 'protein', '"GAP"'])
+FN set(['1', 'sensitive-41', 'ubiquitinate-01'])
+FP set(['amr-glue', 'sensitivity'])
+0.85, 0.79, 0.81
+
+
+bio.bmtr_0004.9
+To verify that the differences between the enzymatic and chemical ubiquitination linkers (seven bonds and five bonds, respectively) do not alter GAP-responsiveness, we placed an additional cysteine at the c-terminus of Ubiquitin (Ubiquitin-C77), thereby creating a linker one bond longer than the native linker.
+TP set(['and', 'alter-01', 'verify-01', 'protein', 'native', 'chemical', 'additional', 'place-01', '-', 'long', '1', 'enzyme', '5', '7', 'ubiquitinate-01', 'more', 'we', '"GAP"', '77', '"cysteine"', 'create-01', '"ubiquitin"', 'differ-02', 'name', 'amino-acid', 'bond'])
+FN set(['protein-segment', 'link-01', '"C-terminus"', 'respond-01', 'become-01', 'have-purpose-91'])
+FP set(['isomerize-00', 'c', 'amr-glue', 'bond-01', 'responsiveness', 'respective', 'terminus', 'do-04'])
+0.76, 0.81, 0.79
+
+
+bio.bmtr_0004.8
+We obtained similar results using K-Ras (Supplementary Figure 6), indicating that the effects of monoubiquitination on Ras are not isoform-specific.
+TP set(['we', 'obtain-01', 'name', 'figure', 'thing', 'result-01', 'resemble-01', '"Ras"', 'specific', '"K-Ras"', 'enzyme', '6', 'affect-01', 'use-01', 'indicate-01'])
+FN set(['isoform', '-', 'describe-01', '1', 'supplement-01', 'ubiquitinate-01'])
+FP set(['supplementary', 'amr-glue'])
+0.88, 0.71, 0.79
+
+
+bio.bmtr_0005.8
+The ASPP1 sites are at residues 671 and 746, and the ASPP2 sites are at residues 698 and 827 (Figure 1A).
+TP set(['residue', 'and', 'protein-segment', 'name', 'figure', '"1A"', '746', '671', '"ASPP2"', 'be-located-at-91', '827', '"ASPP1"', '698', 'protein'])
+FN set(['amino-acid', 'describe-01'])
+FP set(['site', 'include-91'])
+0.88, 0.88, 0.88
+
+
+bio.bmtr_0005.9
+We thus tested whether RAS activation may regulate ASPP2 phosphorylation.
+TP set(['we', 'name', 'activate-01', 'test-01', '"ASPP2"', '"RAS"', 'possible', 'enzyme', 'regulate-01', 'protein', 'phosphorylate-01', 'cause-01'])
+FN set(['interrogative'])
+FP set([])
+1.00, 0.92, 0.96
+
+
+bio.bmtr_0004.1
+Site-Specific Monoubiquitination Activates Ras by Impeding GTPase Activating Protein (PMC3537887)
+TP set(['specific', 'name', 'activate-01', '"Ras"', '"Activating"', '"GTPase"', 'enzyme', '"Protein"', 'protein', 'impede-01'])
+FN set(['protein-segment', '1', '"PMC3537887"', 'publication-91', 'ubiquitinate-01'])
+FP set(['amr-glue', 'site'])
+0.83, 0.67, 0.74
+
+
+bio.bmtr_0005.5
+As RAS is upstream of several signalling cascades [13], we queried whether the activity of ASPP2 is regulated by the activation of a RAS-mediated signalling pathway.
+TP set(['we', 'name', 'activate-01', 'query-01', 'mediate-01', 'pathway', 'cascade', 'enzyme', '"ASPP2"', 'upstream', 'signal-01', 'protein', 'several', 'act-02', 'regulate-01'])
+FN set(['relative-position', 'cite-01', 'be-located-at-91', 'cause-01', '13', 'publication', '"Ras"', 'describe-01'])
+FP set(['interrogative', 'amr-glue', '"RAS"'])
+0.83, 0.65, 0.73
+
+
+bio.bmtr_0004.3
+We next considered the effect of Ras monoubiquitination on GAP-mediated hydrolysis.
+TP set(['we', '"GAP"', 'hydrolyze-01', 'mediate-01', '"Ras"', 'next', '1', 'enzyme', 'affect-01', 'protein', 'ubiquitinate-01', 'name'])
+FN set(['consider-02'])
+FP set(['consider-01'])
+0.92, 0.92, 0.92
+
+
+bio.bmtr_0005.7
+Interestingly, we observed two conserved putative MAPK phosphorylation sites in ASPP1 and ASPP2.
+TP set(['and', 'protein-segment', 'name', 'conserve-01', 'observe-01', 'phosphorylate-01', '2', '"ASPP2"', 'protein', 'we', '"ASPP1"', '"MAPK"'])
+FN set(['think-01', 'interest-01', 'pathway'])
+FP set(['enzyme', 'amr-glue', 'interesting'])
+0.80, 0.80, 0.80
+
+
+bio.bmtr_0004.5
+At a GAP-to-Ras ratio of 1:500, we observed an order of magnitude increase in the rate of GTP hydrolysis for unmodified Ras relative to the intrinsic rate of GTP hydrolysis.
+TP set(['ratio-of', 'we', '"GAP"', 'increase-01', 'hydrolyze-01', '"Ras"', 'rate', 'small-molecule', 'enzyme', 'observe-01', '"GTP"', 'protein', 'intrinsic', 'name'])
+FN set(['modify-01', '-', 'equal-01', 'bind-01', '10', 'about', '"1/500"', 'product-of'])
+FP set(['have-rel-role-91', 'order-01', 'relative', 'amr-glue', '6.9', 'cause-01', 'unmodified', 'have-quant-91', '500'])
+0.61, 0.64, 0.62
+
+
+bio.bmtr_0005.1
+Phosphorylation of ASPP2 by RAS/MAPK Pathway Is Critical for Its Full Pro-Apoptotic Function (PMC3847091)
+TP set(['"RAS/MAPK"', 'full', 'name', 'apoptosis', 'favor-01', 'phosphorylate-01', 'critical', '"ASPP2"', 'function-01', 'protein', 'pathway'])
+FN set(['"PMC3847091"', 'publication-91'])
+FP set(['it'])
+0.92, 0.85, 0.88
+
+
+bio.bmtr_0005.2
+Passage 1-1 (Results)
+TP set(['result-01', '"1-1"', 'passage'])
+FN set(['thing'])
+FP set([])
+1.00, 0.75, 0.86
+
+
+bio.bmtr_0005.3
+It has recently been shown that oncogenic RAS can enhance the apoptotic function of p53 via ASPP1 and ASPP2.
+TP set(['and', 'show-01', 'enhance-01', '"p53"', 'cancer', 'apoptosis', 'possible', 'name', 'enzyme', '"ASPP2"', 'function-01', 'protein', 'recent', '"ASPP1"', 'cause-01'])
+FN set(['"Ras"'])
+FP set(['via', '"RAS"', 'it'])
+0.83, 0.94, 0.88
+
+
+bio.bmtr_0005.4
+Mechanistically ASPP1 and ASPP2 bind RAS-GTP and potentiates RAS signalling to enhance p53 mediated apoptosis [2].
+TP set(['and', 'enhance-01', 'macro-molecular-complex', 'small-molecule', 'mediate-01', 'name', 'mechanistic', 'enzyme', '"ASPP2"', 'apoptosis', '"GTP"', 'signal-01', 'protein', 'potentiate-00', '"ASPP1"', 'bind-01', '"p53"'])
+FN set(['publication', '"Ras"', 'describe-01', 'cite-01', '2'])
+FP set(['amr-glue', '"RAS"'])
+0.89, 0.77, 0.83
+
+
+bio.bmtr_0005.6
+One of the most studied downstream pathways of RAS signalling is the Raf-MAPK pathway.
+TP set(['name', 'downstream', 'study-01', 'most', 'enzyme', '"Raf-MAPK"', 'signal-01', 'pathway'])
+FN set(['"Ras"', 'include-91'])
+FP set(['1', '"RAS"'])
+0.80, 0.80, 0.80
+
+
+bio.bmtr_0004.10
+We measured the rate of GAP-mediated GTP hydrolysis and observed that the response of Ras ligated to Ubiquitin-C77 was identical to Ras ligated to Ubiquitin-G76C (Fig. 5b).
+TP set(['and', 'figure', 'mediate-01', 'measure-01', 'rate', 'protein', 'ligate-01', 'hydrolyze-01', 'enzyme', 'respond-01', '"GTP"', 'mutate-01', 'we', '"GAP"', '77', '"cysteine"', '"ubiquitin"', 'name', 'amino-acid', 'small-molecule', '"Ras"', 'thing', 'observe-01', '"G76C"', '"5b"'])
+FN set(['76', 'describe-01', 'identical-41'])
+FP set(['identical', 'include-91', 'ubiquitinate-01', 'cause-01'])
+0.86, 0.89, 0.88
+
+
+Precision 0.83
+Recall 0.77
+F1 0.79

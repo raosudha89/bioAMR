@@ -1,0 +1,2912 @@
+bio.ras_0003.7
+Tandem mass spectrometric analysis of tryptic fragments from the bands migrating at the positions expected for mono @- and di @- ubiquitinated Ras revealed ubiquitination at Lys residues 104 and 147 of K @-@ Ras , and Lys residues 117 , 147 and 170 for H @-@ Ras ( fig. S1C ) .
+TP set(['and', '"lysine"', 'figure', 'reveal-01', '"170"', 'protein', 'residue', '"117"', '"104"', 'ubiquitinate-01', '"ras"', '"h-ras"', 'analyze-01', '"147"', 'band', 'tandem', 'expect-01', 'name', 'amino-acid', 'migrate-01', 'describe-01', '"k-ras"', 'mass', 'position', 'spectrometry'])
+FN set(['be-located-at-91', 'fragment', '"2"', '"1"', '"trypsin"', '"s1c"', 'or'])
+FP set(['protein-segment', '"tryptic"', 'mono', '"di"', 's1c'])
+0.83, 0.78, 0.81
+
+Seen be-located-at-91 391  times
+Seen fragment 1  times
+Seen "2" 834  times
+Seen "1" 1424  times
+Seen or 1102  times
+
+
+bio.bmtr_0004.13
+We immunoprecipitated Ras from HEK293T cells and compared the sensitivity of the monoubiquitinated and unmodified fractions of Ras to regulation by GAP .
+TP set(['and', 'we', '"1"', '"gap"', 'ubiquitinate-01', '"ras"', 'name', 'fraction', 'immunoprecipitate-00', 'compare-01', 'protein', 'cell-line', 'regulate-01', '"hek293t"'])
+FN set(['"-"', 'sensitive-03', 'modify-01'])
+FP set(['sensitivity'])
+0.93, 0.82, 0.87
+
+Seen "-" 6793  times
+Seen sensitive-03 14  times
+Seen modify-01 17  times
+
+
+bio.bmtr_0004.12
+To validate the use of an in vitro system to dissect the mechanism of Ras regulation , we measured the sensitivity of mUbRas to GAP @-@ mediated hydrolysis in a cellular reconstitution system .
+TP set(['we', 'name', 'hydrolyze-01', 'mediate-01', '"ras"', 'system', 'measure-01', 'cell', 'dissect-01', 'validate-01', 'use-01', 'in-vitro', 'protein', 'regulate-01', '"gap"'])
+FN set(['sensitive-03', '"1"', 'have-purpose-91', 'reconstitute-01', 'ubiquitinate-01'])
+FP set(['"mubras"', '"reconstitution"', 'country', 'sensitivity', 'mechanism'])
+0.75, 0.75, 0.75
+
+Seen sensitive-03 14  times
+Seen "1" 1424  times
+Seen have-purpose-91 104  times
+Seen reconstitute-01 3  times
+Seen ubiquitinate-01 26  times
+
+
+bio.bel_0002.10
+In addition , we found that Rheb inhibits the association of B @-@ Raf with H @-@ Ras .
+TP set(['and', 'we', 'name', '"h-ras"', 'find-01', 'associate-01', '"b-raf"', 'inhibit-01', 'protein', '"rheb"'])
+FN set([])
+FP set(['gene'])
+0.91, 1.00, 0.95
+
+
+
+bio.bel_0002.11
+hKSR @-@ 2 selectively inhibited the Cot @-@ mediated activation of MEK by 60 % .
+TP set(['percentage-entity', 'name', 'activate-01', 'mediate-01', 'selective', '"mek"', '"hksr-2"', 'inhibit-01', '"60"', 'protein', '"cot"'])
+FN set([])
+FP set([])
+1.00, 1.00, 1.00
+
+
+
+bio.bel_0002.12
+In contrast , hKSR @-@ 2 up @-@ regulated the Rafmediated MEK activation by up to 70 % .
+TP set(['percentage-entity', 'name', 'activate-01', 'contrast-01', '"70"', '"mek"', '"hksr-2"', 'up-to', 'protein'])
+FN set(['"raf"', 'mediate-01', 'upregulate-01'])
+FP set(['regulate-01'])
+0.90, 0.75, 0.82
+
+Seen "raf" 32  times
+Seen mediate-01 124  times
+Seen upregulate-01 56  times
+
+
+bio.bel_0002.13
+GSK PI3K Phase 2 , part 1: List of non @-@ position specific phosphorylation effects on parent protein 's activity , derived from existing causal assertions of position @-@ specific phosphorylations on the parent protein activity .
+TP set(['"-"', 'name', 'parent', 'derive-01', 'assert-03', 'act-02', 'specific', 'affect-01', 'phosphorylate-01', '"pi3k"', 'part', 'phase', 'position', 'protein', '"2"'])
+FN set(['and', '"1"', '"gsk"', 'list-01', 'cause-01'])
+FP set(['position-01', 'exist-01', 'list', 'causal', 'ordinal-entity'])
+0.75, 0.75, 0.75
+
+Seen and 10176  times
+Seen "1" 1424  times
+Seen list-01 43  times
+Seen cause-01 2377  times
+
+
+bio.bel_0002.7
+Following expression of BRAFV600E in melanocytes , the majority of cells became senescent ( Figure 1D and data not shown ) , consistent with previous studies ( Michaloglou et al. , 2005 )
+TP set(['"-"', 'and', '"1d"', 'figure', 'consistent-01', 'protein', 'publication-91', 'previous', 'cell', 'majority', 'other', 'become-01', '"michaloglou"', 'date-entity', 'follow-01', 'data', 'show-01', 'name', 'describe-01', 'person', 'express-03', '"2005"', 'senescent'])
+FN set(['melanocyte', 'study', '"v600e"', '"b-raf"', 'mutate-01'])
+FP set(['"brafv600e"', 'study-01', '"melanocytes"'])
+0.88, 0.82, 0.85
+
+Seen study 22  times
+Seen "b-raf" 16  times
+Seen mutate-01 375  times
+
+
+bio.bel_0002.4
+The homologous site on B @-@ Raf , S445 , is constitutively phosphorylated , accounting for the higher basal activity of B @-@ Raf .
+TP set(['"serine"', 'basal', 'name', 'amino-acid', 'high', 'phosphorylate-01', 'constitutive', 'account-01', 'protein', 'more', 'act-02', '"445"', '"b-raf"'])
+FN set(['homologue'])
+FP set(['homology', 'protein-segment'])
+0.87, 0.93, 0.90
+
+
+
+bio.bel_0002.5
+In addition , introduction of B @-@ Raf enhances and sustains integrin @-@ mediated activation of ERK in wild @-@ type primary fibroblasts
+TP set(['and', 'enhance-01', 'name', 'activate-01', 'mediate-01', 'primary', 'fibroblast', '"b-raf"', 'introduce-02', '"erk"', 'wild-type', 'protein', 'sustain-01'])
+FN set(['integrin'])
+FP set(['"integrin"'])
+0.93, 0.93, 0.93
+
+Seen integrin 6  times
+
+
+bio.bel_0002.2
+We show that wild @-@ type B @-@ RAF forms a complex with C @-@ RAF in a RAS @-@ dependent manner , whereas the mutants bind independently of RAS .
+TP set(['"-"', 'show-01', 'depend-01', 'form-01', '"ras"', 'we', 'contrast-01', '"b-raf"', '"c-raf"', 'wild-type', 'protein', 'mutate-01', 'bind-01', 'name'])
+FN set(['macro-molecular-complex'])
+FP set(['complex'])
+0.93, 0.93, 0.93
+
+Seen macro-molecular-complex 192  times
+
+
+bio.bmtr_0001.21
+These results are consistent with a greater fraction of ubiquitinated K @-@ Ras being in the GTP state ( Fig . 2 , A and B ) .
+TP set(['and', 'great', 'name', 'figure', 'thing', 'this', '"2b"', 'describe-01', '"k-ras"', '"2a"', 'fraction', '"gtp"', 'consistent-01', 'protein', 'result-01', 'ubiquitinate-01', 'more'])
+FN set(['small-molecule', 'bind-01'])
+FP set(['chemical', 'state', 'be-located-at-91'])
+0.85, 0.89, 0.87
+
+Seen small-molecule 231  times
+Seen bind-01 246  times
+
+
+bio.bmtr_0001.20
+However , a much greater fraction of the ubiquitinated @-@ K @-@ Ras was pulled down by the GST @-@ RBD ( Fig . 2C and fig. S1D ) .
+TP set(['and', 'great', 'name', 'figure', 'contrast-01', '"gst-rbd"', '"s1d"', '"k-ras"', 'much', 'describe-01', 'fraction', 'protein', '"2c"', 'ubiquitinate-01', 'more'])
+FN set(['pull-00'])
+FP set(['down', 'protein-segment', 'pull-01'])
+0.83, 0.94, 0.88
+
+Seen pull-00 3  times
+
+
+bio-kappa_0001.8
+Phosphorylated Ksr can also function as a transactivator ; however , since Raf binding to Ksr induces limited kinase activity , in quiescent cells the constitutive association of Ksr with B @-@ Raf may serve to prevent C @-@ Raf binding to B @-@ Raf , safeguarding against undue activation of the pathway .
+TP set(['serve-01', 'associate-01', '"b-raf"', 'protein', 'prevent-01', 'cause-01', 'limit-01', 'kinase', 'cell', 'also', 'phosphorylate-01', '"c-raf"', 'pathway', 'induce-01', 'activate-01', '"ksr"', 'possible', 'quiescent', 'bind-01', 'safeguard-01', 'name', '"raf"', 'constitutive'])
+FN set(['"-"', 'due', 'transactivate-00', 'act-01'])
+FP set(['country', 'contrast-01', '"undue"', 'transactivator', 'function-01', 'act-02'])
+0.79, 0.85, 0.82
+
+Seen "-" 6793  times
+Seen due 6  times
+Seen transactivate-00 15  times
+Seen act-01 144  times
+
+
+bio-kappa_0001.9
+PSPs dephosphorylate phosphoserine and phosphothreonine residues .
+TP set(['and', 'residue', 'name', 'dephosphorylate-01'])
+FN set(['"threonine"', 'amino-acid', 'small-molecule', '"psp"', 'phosphorylate-01', '"serine"'])
+FP set(['"phosphothreonine"', '"psps"', 'person', 'protein', '"phosphoserine"'])
+0.44, 0.40, 0.42
+
+Seen "threonine" 22  times
+Seen amino-acid 326  times
+Seen small-molecule 231  times
+Seen phosphorylate-01 408  times
+Seen "serine" 88  times
+
+
+bio-kappa_0001.1
+Activation of Raf occurs via a complex , yet incompletely understood mechanism requiring membrane translocation , regulatory phosphorylation / dephosphorylation events and , crucially , allosteric activation in the context of a side @-@ to @-@ side dimer comprising two Raf molecules or a Raf and a Ksr molecule .
+TP set(['"-"', 'and', 'allosteric', 'understand-01', 'name', 'activate-01', 'or', 'crucial', 'comprise-01', 'mechanism', '"ksr"', 'require-01', 'phosphorylate-01', 'dephosphorylate-01', '"raf"', 'membrane', 'protein', 'translocate-00', '"2"', 'regulate-01', 'complete'])
+FN set(['have-part-91', 'complex', 'side-to-side', 'dimer'])
+FP set(['side', 'molecule', 'event', '"dimer"', 'context', 'yet', 'cause-01'])
+0.75, 0.84, 0.79
+
+Seen have-part-91 51  times
+Seen complex 27  times
+Seen dimer 5  times
+
+
+bio-kappa_0001.2
+Of the three Raf kinases , only B @-@ Raf is able to function as an allosteric activator in the context of the Raf heterodimers , a role independent of B @-@ Raf kinase activity .
+TP set(['"-"', 'allosteric', 'act-02', 'name', 'activate-01', 'depend-01', 'kinase', 'possible', 'only', '"raf"', '"b-raf"', 'protein', 'include-91', '"3"', 'heterodimer'])
+FN set(['have-part-91'])
+FP set([])
+1.00, 0.94, 0.97
+
+Seen have-part-91 51  times
+
+
+bio-kappa_0001.3
+The molecular basis for this has recently been elucidated by the Shaw lab , who has shown that the ability of acting as an activator depends on the presence of negative charges in the Raf N @-@ terminal acidic motif .
+TP set(['protein-segment', 'name', 'activate-01', 'this', 'depend-01', 'molecule', 'show-01', 'lab', 'negative', '"raf"', '"shaw"', 'elucidate-01', 'protein', 'acid', 'recent'])
+FN set(['motif', 'possible', 'mechanism', 'base-02', 'charge', '"n-terminus"', 'present'])
+FP set(['and', 'basis', 'capable-01', 'charge-05', 'amr-unknown', 'present-01', 'act-01'])
+0.68, 0.68, 0.68
+
+Seen motif 7  times
+Seen possible 2357  times
+Seen mechanism 36  times
+Seen base-02 102  times
+Seen charge 6  times
+Seen "n-terminus" 4  times
+Seen present 71  times
+
+
+bio-kappa_0001.4
+In B @-@ Raf , this motif is negatively charged due to the constitutive phosphorylation of Ser446 and @/@ or 447 , and to the presence of two aspartates at position 448 @/@ 9 ( Fig. 2A ) .
+TP set(['"serine"', 'and', 'protein-segment', 'and-or', 'name', 'figure', '"446"', 'this', 'amino-acid', 'describe-01', '"448"', '"2a"', 'phosphorylate-01', '"447"', '"b-raf"', 'be-located-at-91', 'protein', '"2"', 'constitutive', 'cause-01'])
+FN set(['motif', 'negative', '"aspartate"', 'charge-03', '"449"'])
+FP set(['position-01', 'downregulate-01', '"aspartates"', 'charge-05', '"9"'])
+0.80, 0.80, 0.80
+
+Seen motif 7  times
+Seen negative 44  times
+Seen charge-03 2  times
+
+
+bio-kappa_0001.5
+Allosteric activation by B @-@ Raf induces cis @-@ autophosporylation in the activation loop of the receiver kinase , i.e. C @-@ Raf , and renders it able to phosphorylate Mek .
+TP set(['and', 'allosteric', 'name', 'activate-01', 'phosphorylate-01', 'kinase', '"mek"', '"b-raf"', '"c-raf"', 'possible', 'protein', 'mean-01', 'loop', 'induce-01'])
+FN set(['receive-01', 'render-01'])
+FP set(['"cis"', '"autophosporylation"', '"receiver"', 'mutate-01'])
+0.78, 0.88, 0.82
+
+Seen receive-01 74  times
+Seen render-01 4  times
+
+
+bio-kappa_0001.6
+Mek , in turn , phosphorylates the N @-@ terminal acidic motif in C @-@ Raf , converting it to an allosteric activator of other Rafs ( Fig. 2B and C ) .
+TP set(['and', 'protein-segment', 'name', 'figure', 'activate-01', 'in-turn', '"mek"', 'allosteric', 'phosphorylate-01', 'other', 'describe-01', '"c-raf"', '"n-terminus"', 'convert-01', 'protein', 'acid', '"2b"'])
+FN set(['motif', '"raf"', '"2c"'])
+FP set(['c', '"rafs"', 'it'])
+0.85, 0.85, 0.85
+
+Seen motif 7  times
+Seen "raf" 32  times
+Seen "2c" 14  times
+
+
+bio-kappa_0001.7
+This model explains why C @-@ Raf mutants devoid of kinase activity cannot function as activators , and why B @-@ Raf can activate Mek directly as a homodimer .
+TP set(['"-"', 'and', 'name', 'activate-01', 'thing', 'this', 'direct', 'homodimer', 'explain-01', '"mek"', '"b-raf"', '"c-raf"', 'protein', 'mutate-01', 'model', 'possible', 'cause-01'])
+FN set(['kinase', 'act-01'])
+FP set(['"kinase"', '"devoid"', '"of"', 'amr-unknown', 'function-01', 'act-02'])
+0.74, 0.89, 0.81
+
+Seen kinase 148  times
+Seen act-01 144  times
+
+
+bio.bmtr_0001.8
+Tandem mass spectrometric analysis of tryptic fragments from the bands migrating at the positions expected for mono @- and di @-@ ubiquitinated Ras revealed ubiquitination at Lys residues 104 and 147 of K @-@ Ras , and Lys residues 117 , 147 and 170 for H @-@ Ras ( fig . S1C ) .
+TP set(['and', '"lysine"', 'figure', 'reveal-01', '"170"', 'protein', 'residue', '"117"', 'ubiquitinate-01', '"ras"', '"h-ras"', 'analyze-01', '"147"', 'band', 'tandem', 'expect-01', '"2"', 'name', 'protein-segment', 'amino-acid', '"104"', 'migrate-01', 'describe-01', '"k-ras"', 'mass', 'position', 'spectrometry', '"s1c"'])
+FN set(['"1"', 'hydrolyze-01', '"trypsin"', 'be-located-at-91', 'or'])
+FP set(['"tryptic"', 'mono'])
+0.93, 0.85, 0.89
+
+Seen "1" 1424  times
+Seen hydrolyze-01 11  times
+Seen be-located-at-91 391  times
+Seen or 1102  times
+
+
+bio.bmtr_0001.9
+The tryptic peptide with ubiquitination at Lys147 ( K147 ) was the most frequently observed peptide for both K @-@ Ras and H @-@ Ras , while Lys117 appeared as a secondary major ubiquitination site in H @-@ Ras .
+TP set(['"lysine"', 'most', 'name', '"117"', 'major', '"h-ras"', '"147"', 'protein-segment', 'contrast-01', '"k-ras"', 'observe-01', 'amino-acid', 'peptide', 'protein', 'ubiquitinate-01', 'frequent', 'secondary'])
+FN set(['hydrolyze-01', 'appear-01', '"trypsin"', 'or'])
+FP set(['and', 'both', 'appear-02', 'trypsin'])
+0.81, 0.81, 0.81
+
+Seen hydrolyze-01 11  times
+Seen appear-01 45  times
+Seen or 1102  times
+
+
+bio.bmtr_0001.1
+Sasaki et al. , “ Ubiquitination of Ras enhances activation and facilitates binding to select downstream effectors ” ( PMC3437993 )
+TP set(['and', 'effector', 'facilitate-01', 'enhance-01', 'name', 'activate-01', 'downstream', '"ras"', '"pmc3437993"', 'person', 'other', '"sasaki"', 'protein', 'bind-01', 'ubiquitinate-01', 'select'])
+FN set(['publication-91'])
+FP set(['"\xe2\x80\x9d"', 'describe-01'])
+0.89, 0.94, 0.91
+
+Seen publication-91 277  times
+
+
+bio.bmtr_0001.2
+We utilized an unbiased mass spectrometry @-@ based approach to identify ubiquitination sites of Ras .
+TP set(['utilize-01', '"-"', 'protein-segment', 'identify-01', 'name', '"ras"', 'we', 'bias-01', 'base-02', 'approach-02', 'mass', 'protein', 'spectrometry', 'ubiquitinate-01'])
+FN set([])
+FP set([])
+1.00, 1.00, 1.00
+
+
+
+bio.bmtr_0001.3
+His @-@ tagged ubiquitin and Flag @-@ tagged K @-@ Ras4B ( K @-@ Ras hereafter ) were expressed in HEK293T cells at levels similar to endogenous K @-@ Ras ( Fig . 1B ) and subjected to sequential affinity chromatography .
+TP set(['and', 'tag-01', '"histidine"', 'figure', 'chromatography', 'level', 'subject-01', '"ubiquitin"', 'resemble-01', '"k-ras4b"', 'describe-01', '"k-ras"', '"1b"', 'affinity', 'amino-acid', 'express-03', 'protein', '"hek293t"', '"flag"', 'cell-line', 'name'])
+FN set(['protein-segment', 'sequence', 'endogenous'])
+FP set(['sequential', 'hereafter', 'monocot'])
+0.88, 0.88, 0.88
+
+Seen protein-segment 164  times
+Seen sequence 13  times
+Seen endogenous 14  times
+
+
+bio.bmtr_0001.4
+His @-@ ubiquitinated proteins were purified by Co2+ metal affinity chromatography in 8M urea denaturing conditions .
+TP set(['"urea"', 'name', 'chromatography', 'metal', 'purify-01', '"co2+"', 'affinity', 'denature-00', 'protein', 'ubiquitinate-01'])
+FN set(['molar', 'amino-acid', '"histidine"', 'small-molecule', 'concentration-quantity', '"8"'])
+FP set(['chemical', 'condition'])
+0.83, 0.62, 0.71
+
+Seen molar 4  times
+Seen amino-acid 326  times
+Seen "histidine" 6  times
+Seen small-molecule 231  times
+Seen concentration-quantity 49  times
+Seen "8" 206  times
+
+
+bio.bmtr_0001.5
+His @-@ ubiquitinated K @-@ Ras was subsequently purified with anti @-@ Flag resin .
+TP set(['"histidine"', 'name', 'amino-acid', 'subsequent', 'resin', 'ubiquitinate-01', '"k-ras"', 'purify-01', 'counter-01', '"flag"', 'protein'])
+FN set(['protein-segment'])
+FP set([])
+1.00, 0.92, 0.96
+
+Seen protein-segment 164  times
+
+
+bio.bmtr_0001.6
+Following purification , mono @- and di @- ubiquitinated K @-@ Ras appeared to be the major ubiquitination forms , which is consistent with the endogenous K @-@ Ras ubiquitination pattern ( Fig . 1 , A and B ) .
+TP set(['and', 'name', 'figure', 'pattern', '"1a"', 'describe-01', 'endogenous', '"k-ras"', 'purify-01', '"1b"', 'follow-01', 'consistent-01', 'protein', 'ubiquitinate-01'])
+FN set(['or', '"1"', 'have-quant-91', 'appear-02', 'most', '"2"'])
+FP set(['major', 'form', 'mono', '"di"', 'appear-01'])
+0.74, 0.70, 0.72
+
+Seen or 1102  times
+Seen "1" 1424  times
+Seen have-quant-91 17  times
+Seen appear-02 98  times
+Seen most 771  times
+Seen "2" 834  times
+
+
+bio.bmtr_0001.7
+H @-@ Ras ubiquitination sites were also determined by the same approach .
+TP set(['protein-segment', 'name', '"h-ras"', 'ubiquitinate-01', 'approach-02', 'also', 'protein', 'determine-01'])
+FN set(['same'])
+FP set(['same-01'])
+0.89, 0.89, 0.89
+
+Seen same 39  times
+
+
+bio.bmtr_0003.8
+Serial deletions identified a minimal HER3 promoter retaining transcriptional response to vemurafenib and AZD6244 , which was located between -@ 401 and -@ 42 bp ( Fig . 5C ) .
+TP set(['and', 'name', 'figure', '"5c"', 'promote-01', 'identify-01', '"her3"', '"vemurafenib"', 'respond-01', '"azd6244"', 'describe-01', 'retain-01', 'protein', 'delete-01', 'molecular-physical-entity'])
+FN set(['"-42"', 'transcribe-01', 'distance-quantity', 'serial', 'small-molecule', '"-401"', 'thing', 'between', 'base-pair', 'minimal'])
+FP set(['series', '"401"', '"bp"', 'minimum', 'be-located-at-91', '"42"', 'chemical', 'person', 'say-01'])
+0.62, 0.60, 0.61
+
+Seen transcribe-01 99  times
+Seen distance-quantity 127  times
+Seen serial 3  times
+Seen small-molecule 231  times
+Seen thing 2212  times
+Seen between 187  times
+Seen minimal 3  times
+
+
+bio.bmtr_0003.9
+This region does not contain any predicted FoxO binding sites .
+TP set(['"-"', 'name', 'this', 'region', 'predict-01', 'contain-01', '"foxo"', 'protein', 'bind-01', 'any'])
+FN set(['protein-segment'])
+FP set(['site'])
+0.91, 0.91, 0.91
+
+Seen protein-segment 164  times
+
+
+bio.bmtr_0005.10
+An in vitro phophorylation assay was performed with a purified C @-@ terminus fragment of ASPP2 ( 693 @-@ 1128 ) containing both MAPK putative phosphorylation sites .
+TP set(['protein-segment', 'think-01', 'name', '"c-terminus"', 'phosphorylate-01', 'contain-01', '"1128"', '"aspp2"', 'assay-00', 'purify-01', 'in-vitro', '"693"', 'protein', '"mapk"'])
+FN set(['both', 'amino-acid', 'between'])
+FP set(['fragment', 'value-interval', 'perform-01', 'cite-01', '"phophorylation"', 'publication', 'describe-01', 'person'])
+0.64, 0.82, 0.72
+
+Seen both 105  times
+Seen amino-acid 326  times
+Seen between 187  times
+
+
+bio.bmtr_0003.2
+We next examined the mechanisms accounting for the increase in HER3 by MAPK pathway inhibitors in BRAF mutant thyroid cell lines .
+TP set(['thyroid', '"braf"', 'we', 'name', 'molecular-physical-entity', 'increase-01', 'examine-01', '"her3"', 'next', 'mutate-01', 'mechanism', 'cell-line', 'inhibit-01', 'account-01', 'protein', 'gene', 'pathway', '"mapk"'])
+FN set(['dna', 'encode-01'])
+FP set([])
+1.00, 0.90, 0.95
+
+Seen dna 47  times
+Seen encode-01 72  times
+
+
+bio.bmtr_0003.3
+Upregulation of HER3 has been found to mediate resistance to PI3K @/@ AKT ( 26 ) or HER2 ( 27 ) inhibitors in HER2 @-@ amplified breast cancer cell lines , which is caused in part through a FoxO3A @-@ dependent induction of HER3 gene transcription .
+TP set(['cancer', '"27"', 'cite-01', '"her3"', 'protein', 'cell-line', 'cause-01', 'publication', 'amplify-01', '"her2"', '"foxo3a"', 'molecular-physical-entity', 'depend-01', 'resist-01', 'part', 'breast', 'inhibit-01', 'name', 'describe-01', 'find-01', 'induce-01', '"26"', 'gene', 'or'])
+FN set(['"pi3k/akt"', 'encode-01', 'mediate-01', 'transcribe-01', 'upregulate-01', 'pathway'])
+FP set(['and', 'mediate-00', '"akt"', '"pi3k"'])
+0.86, 0.80, 0.83
+
+Seen encode-01 72  times
+Seen mediate-01 124  times
+Seen transcribe-01 99  times
+Seen upregulate-01 56  times
+Seen pathway 181  times
+
+
+bio.bmtr_0003.1
+Montero @-@ Conde et al. “ Relief of feedback inhibition of HER3 transcription by RAF and MEK inhibitors attenuates their antitumor effects in BRAF mutant thyroid carcinomas.” ( PMC3651738 )
+TP set(['thyroid', 'and', 'name', '"braf"', 'attenuate-01', 'transcribe-01', '"pmc3651738"', 'feedback', '"her3"', 'person', '"mek"', 'other', '"raf"', 'molecular-physical-entity', 'affect-01', 'inhibit-01', 'protein', '"montero-conde"', 'relieve-01', 'mutate-01'])
+FN set(['gene', 'dna', 'encode-01', 'tumor', 'carcinoma', 'counter-01', 'publication-91'])
+FP set(['"carcinomas.\xe2\x80\x9d"', 'describe-01'])
+0.91, 0.74, 0.82
+
+Seen gene 334  times
+Seen dna 47  times
+Seen encode-01 72  times
+Seen tumor 89  times
+Seen carcinoma 11  times
+Seen counter-01 226  times
+Seen publication-91 277  times
+
+
+bio.bmtr_0003.6
+The effects of the MEK inhibitor on total HER2 , HER3 protein and on pHER3 were dose dependent , and inversely associated with the degree of inhibition of pERK ( Fig . 5B ) .
+TP set(['and', 'depend-01', 'name', 'figure', '"her2"', '"5b"', 'associate-01', 'describe-01', '"mek"', 'inverse', '"her3"', '"erk"', 'affect-01', 'inhibit-01', 'protein', 'total', 'molecular-physical-entity'])
+FN set(['thing', 'phosphorylate-01', 'dose-01'])
+FP set(['degree', '"pher3"', 'dose'])
+0.85, 0.85, 0.85
+
+Seen thing 2212  times
+Seen phosphorylate-01 408  times
+Seen dose-01 6  times
+
+
+bio.bmtr_0003.7
+RAF or MEK inhibitors induced luciferase activity of a HER3 promoter construct spanning ~ 1 kb upstream of the transcriptional start site in 8505C cells .
+TP set(['relative-position', 'protein', 'luciferase', 'approximately', 'span-01', 'molecular-physical-entity', '"8505c"', 'transcribe-01', 'start-01', '"mek"', 'construct-01', 'upstream', 'distance-quantity', 'inhibit-01', '"1"', 'name', 'promote-01', '"her3"', '"raf"', 'induce-01', 'or', 'kilo-base-pair'])
+FN set(['cell', 'site', 'act-01'])
+FP set(['protein-segment', 'cell-line', 'act-02'])
+0.88, 0.88, 0.88
+
+Seen cell 807  times
+Seen site 98  times
+Seen act-01 144  times
+
+
+bio.bmtr_0003.4
+As shown in Fig. 5A , PLX4032 treatment increased HER3 and HER2 mRNAs in all six BRAF @-@ mutant thyroid cancer cell lines tested .
+TP set(['and', '"braf"', 'show-01', 'name', 'figure', 'increase-01', '"plx4032"', '"her2"', '"5a"', '"her3"', 'thyroid', 'protein', 'gene', 'cell-line', 'cancer', 'mutate-01'])
+FN set(['all', 'test-01', '"6"', 'dna', 'encode-01', 'small-molecule', 'treat-04', 'mrna'])
+FP set(['"mrna"', 'rna', 'treat-03', 'chemical', 'cause-01'])
+0.76, 0.67, 0.71
+
+Seen all 721  times
+Seen test-01 106  times
+Seen "6" 265  times
+Seen dna 47  times
+Seen encode-01 72  times
+Seen small-molecule 231  times
+Seen treat-04 119  times
+
+
+bio.bmtr_0003.5
+Similar results were found following treatment with the MEK inhibitor AZD6244 ( not shown ) .
+TP set(['"-"', 'show-01', 'name', 'treat-04', 'resemble-01', 'find-01', '"mek"', '"azd6244"', 'follow-01', 'inhibit-01', 'protein', 'result-01'])
+FN set(['thing', 'small-molecule'])
+FP set(['molecular-physical-entity'])
+0.92, 0.86, 0.89
+
+Seen thing 2212  times
+Seen small-molecule 231  times
+
+
+bio.bmtr_0005.8
+The ASPP1 sites are at residues 671 and 746 , and the ASPP2 sites are at residues 698 and 827 ( Figure 1A ) .
+TP set(['and', 'residue', 'protein-segment', 'name', 'figure', '"1a"', '"671"', '"698"', 'describe-01', '"aspp2"', 'be-located-at-91', '"746"', 'protein', '"aspp1"', '"827"'])
+FN set(['amino-acid'])
+FP set([])
+1.00, 0.94, 0.97
+
+Seen amino-acid 326  times
+
+
+bio.bmtr_0005.9
+We thus tested whether RAS activation may regulate ASPP2 phosphorylation .
+TP set(['we', 'name', 'activate-01', 'test-01', '"ras"', 'possible', 'phosphorylate-01', '"aspp2"', 'protein', 'regulate-01', 'cause-01'])
+FN set(['"interrogative"'])
+FP set([])
+1.00, 0.92, 0.96
+
+Seen "interrogative" 800  times
+
+
+bio.bmtr_0005.4
+Mechanistically ASPP1 and ASPP2 bind RAS @-@ GTP and potentiates RAS signalling to enhance p53 mediated apoptosis [2].
+TP set(['and', 'bind-01', 'name', 'apoptosis', '"ras"', 'mechanistic', '"aspp2"', 'mediate-01', '"gtp"', 'enhance-01', 'protein', 'potentiate-00', '"aspp1"', '"p53"'])
+FN set(['macro-molecular-complex', 'small-molecule', 'describe-01', 'cite-01', 'signal-07', '"2"', 'publication'])
+FP set(['chemical', 'signal-01', '"[2]."'])
+0.82, 0.67, 0.74
+
+Seen macro-molecular-complex 192  times
+Seen small-molecule 231  times
+Seen describe-01 1138  times
+Seen cite-01 287  times
+Seen signal-07 117  times
+Seen "2" 834  times
+Seen publication 514  times
+
+
+bio.bmtr_0005.5
+As RAS is upstream of several signalling cascades [13], we queried whether the activity of ASPP2 is regulated by the activation of a RAS @-@ mediated signalling pathway .
+TP set(['relative-position', 'we', 'several', 'name', 'activate-01', 'query-01', 'mediate-01', '"ras"', 'act-02', 'be-located-at-91', 'cascade', '"aspp2"', 'upstream', 'protein', 'cause-01', 'pathway', 'regulate-01', 'signal-07'])
+FN set(['"13"', 'publication', 'describe-01', 'cite-01'])
+FP set(['signal-01'])
+0.95, 0.82, 0.88
+
+Seen "13" 71  times
+Seen publication 514  times
+Seen describe-01 1138  times
+Seen cite-01 287  times
+
+
+bio.ras_0002.5
+In addition , scaffold proteins have been shown to guide activation of specific effector pathway( s ) . For example , SHOC2 / Sur @-@ 8 bridges Ras and Raf to specifically enhance the Raf / MEK / ERK pathway without enhancing PI3K / AKT signaling ( 9 , 10 ) .
+TP set(['and', '"-"', 'exemplify-01', 'effector', 'protein', 'signal-07', 'enhance-01', 'publication', 'scaffold', '"sur-8"', '"10"', 'pathway', 'guide-01', 'activate-01', '"shoc2"', '"ras"', 'cite-01', 'show-01', 'name', 'describe-01', 'specific', '"raf"', '"9"'])
+FN set(['"pi3k/akt"', 'macro-molecular-complex', '"raf/mek/erk"', 'multi-sentence', 'bridge-01'])
+FP set(['bridge', '"akt"', '"pi3k"', '"raf/ mek/ erk"', 'slash', '"s"'])
+0.79, 0.82, 0.81
+
+Seen macro-molecular-complex 192  times
+Seen multi-sentence 1173  times
+Seen bridge-01 10  times
+
+
+bio.bmtr_0005.7
+Interestingly , we observed two conserved putative MAPK phosphorylation sites in ASPP1 and ASPP2 .
+TP set(['and', 'we', 'think-01', 'name', 'conserve-01', 'protein-segment', 'phosphorylate-01', '"aspp2"', 'observe-01', 'protein', '"aspp1"', '"2"', '"mapk"'])
+FN set(['interest-01', 'pathway'])
+FP set(['interesting'])
+0.93, 0.87, 0.90
+
+Seen interest-01 96  times
+Seen pathway 181  times
+
+
+bio.ras_0002.3
+The enhancement of specific effector pathways plays a critical role in maintaining an appropriate biological response ( 8 ) .
+TP set(['effector', 'biology', 'enhance-01', 'publication', 'respond-01', 'play-02', 'describe-01', 'specific', 'cite-01', 'appropriate', 'critical', 'role', 'maintain-01', '"8"', 'pathway'])
+FN set(['thing'])
+FP set([])
+1.00, 0.94, 0.97
+
+Seen thing 2212  times
+
+
+bio.bmtr_0005.1
+Phosphorylation of ASPP2 by RAS @/@ MAPK Pathway Is Critical for Its Full Pro @-@ Apoptotic Function ( PMC3847091 )
+TP set(['"pmc3847091"', 'full', 'name', 'apoptosis', 'favor-01', 'phosphorylate-01', 'critical', '"aspp2"', 'function-01', 'protein', 'pathway'])
+FN set(['"ras/mapk"', 'publication-91'])
+FP set(['"ras/ mapk"', 'describe-01'])
+0.85, 0.85, 0.85
+
+Seen publication-91 277  times
+
+
+bio.ras_0002.1
+Activated Ras controls diverse signaling pathways that ultimately determine Ras - induced cellular responses such as cell proliferation , survival , differentiation and motility .
+TP set(['and', 'induce-01', 'name', 'activate-01', 'differentiate-01', '"ras"', 'determine-01', 'cell', 'control-01', 'respond-01', 'motility', 'proliferate-01', 'survive-01', 'protein', 'signal-07', 'diverse', 'pathway', 'ultimate'])
+FN set([])
+FP set([])
+1.00, 1.00, 1.00
+
+
+
+bio.bmtr_0005.3
+It has recently been shown that oncogenic RAS can enhance the apoptotic function of p53 via ASPP1 and ASPP2 .
+TP set(['and', 'show-01', 'enhance-01', 'name', 'cause-01', 'apoptosis', '"ras"', 'possible', '"aspp2"', 'function-01', 'protein', 'recent', '"aspp1"', 'cancer', '"p53"'])
+FN set([])
+FP set(['it'])
+0.94, 1.00, 0.97
+
+
+
+bio.bmtr_0001.12
+Interestingly , the ubiquitinated subfraction of wild @-@ type K @-@ Ras retained a significant amount of 32P @-@ GTP .
+TP set(['"gtp"', 'name', 'retain-01', '"k-ras"', 'amount', 'wild-type', 'protein', 'ubiquitinate-01'])
+FN set(['"32"', 'interest-01', 'significant-02', 'small-molecule', 'subfraction', 'molecular-mass', 'phosphorus'])
+FP set(['"32p"', 'interesting', 'chemical', '"subfraction"', 'significant'])
+0.62, 0.53, 0.57
+
+Seen "32" 21  times
+Seen interest-01 96  times
+Seen significant-02 66  times
+Seen small-molecule 231  times
+Seen molecular-mass 5  times
+Seen phosphorus 1  times
+
+
+bio.bmtr_0001.13
+These results are consistent with a model in which ubiquitination of Lys147 ( or Lys117 ) , destabilizes GDP binding , allowing spontaneous GDP @/@ GTP exchange .
+TP set(['this', '"lysine"', 'name', '"117"', '"gdp"', 'bind-01', 'exchange-01', '"147"', 'allow-01', 'ubiquitinate-01', 'thing', 'amino-acid', 'destabilize-01', '"gtp"', 'consistent-01', 'model', 'result-01', 'or'])
+FN set(['small-molecule', 'spontaneous'])
+FP set(['chemical', 'spontaneity'])
+0.90, 0.90, 0.90
+
+Seen small-molecule 231  times
+Seen spontaneous 3  times
+
+
+bio.bmtr_0001.10
+To examine the effect of ubiquitination on GTP loading , we purified wild @-@ type K @-@ Ras , oncogenic G12V @-@ K @-@ Ras mutant or the ubiquitinated subfraction of wild @-@ type K @-@ Ras from 32P @-@ orthophosphate labeled cells and utilized thin layer chromatography ( TLC ) and high performance liquid chromatography ( HPLC ) to assess the ratio of 32P @-@ GTP to 32P @-@ GDP that co @-@ purified with each form of K @-@ Ras .
+TP set(['and', 'layer', 'cancer', 'perform-01', 'high', 'affect-01', 'wild-type', 'protein', 'cause-01', '"gdp"', '"g12v"', 'cell', '"orthophosphate"', 'ubiquitinate-01', 'we', 'chromatography', 'assess-01', 'purify-01', '"gtp"', 'load-01', 'mutate-01', 'utilize-01', 'ratio-of', 'label-01', 'name', 'liquid', 'examine-01', '"k-ras"', 'thin', 'or'])
+FN set(['"32"', 'small-molecule', 'subfraction', 'molecular-mass', 'phosphorus'])
+FP set(['form', 'multi-sentence', '"chromatography"', '"tlc"', '"32p"', 'chemical', 'elicit-01', 'each', 'hplc'])
+0.77, 0.86, 0.81
+
+Seen "32" 21  times
+Seen small-molecule 231  times
+Seen molecular-mass 5  times
+Seen phosphorus 1  times
+
+
+bio.bmtr_0001.11
+As expected based on previous studies , wild @-@ type K @-@ Ras bound primarily 32P @-@ GDP , while G12V @-@ Ras bound 32P @-@ GTP ( Fig.2 , A and B ) .
+TP set(['and', 'wild-type', 'name', 'figure', '"2a"', '"gdp"', 'bind-01', '"g12v"', '"ras"', 'primary', 'describe-01', 'base-02', '"k-ras"', 'mutate-01', '"gtp"', 'expect-01', 'protein', 'contrast-01', '"2b"', 'previous'])
+FN set(['"32"', 'small-molecule', 'study', 'molecular-mass', 'phosphorus'])
+FP set(['chemical', '"32p"', 'study-01'])
+0.87, 0.80, 0.83
+
+Seen "32" 21  times
+Seen small-molecule 231  times
+Seen study 22  times
+Seen molecular-mass 5  times
+Seen phosphorus 1  times
+
+
+bio.bmtr_0001.16
+These results , along with the crystal structure , support a model in which mono @-@ ubiquitination at a Lys residue directly involved in GDP binding either enhances nucleotide exchange on K @-@ Ras , impairs GTP hydrolysis , or both .
+TP set(['"lysine"', 'bind-01', '"gdp"', 'direct', 'support-01', 'protein', 'residue', 'enhance-01', 'crystal', 'hydrolyze-01', 'nucleotide', 'exchange-01', '"k-ras"', 'ubiquitinate-01', 'impair-01', '"gtp"', 'result-01', 'structure', 'involve-01', '"1"', 'name', 'amino-acid', 'this', 'thing', 'model', 'or'])
+FN set(['and', 'small-molecule'])
+FP set(['both', 'resemble-01', 'chemical', 'either'])
+0.87, 0.93, 0.90
+
+Seen and 10176  times
+Seen small-molecule 231  times
+
+
+bio.bmtr_0001.17
+To corroborate this finding , we measure the activity of Ras by the GST @-@ RBD pull @-@ down assay .
+TP set(['we', 'name', 'this', '"ras"', 'measure-01', 'find-01', 'corroborate-01', 'pull-00', 'assay-00', 'protein', '"gst-rbd"', 'act-02'])
+FN set(['thing'])
+FP set(['downregulate-01'])
+0.92, 0.92, 0.92
+
+Seen thing 2212  times
+
+
+bio.bmtr_0001.14
+It could be argued that GTP loading occurs prior to ubiquitination and that the GTP bound form of K @-@ Ras , via interaction with effectors , is preferentially mono @-@ ubiquitinated via a feedback mechanism .
+TP set(['and', 'prefer-01', '"1"', 'feedback', 'argue-01', '"k-ras"', 'interact-01', 'possible', 'load-01', 'effector', 'prior', '"gtp"', 'protein', 'bind-01', 'ubiquitinate-01', 'name'])
+FN set(['small-molecule'])
+FP set(['form', 'mechanism', 'chemical', 'event'])
+0.80, 0.94, 0.86
+
+Seen small-molecule 231  times
+
+
+bio.bmtr_0001.15
+While it is difficult to eliminate this possibility , it is unlikely since , as shown in fig. S1B , the T35 mutant of K @-@ Ras , which fails to interact with downstream effectors ( fig . S1B ) undergoes comparable monobuiquitination to wild type Ras .
+TP set(['"-"', 'figure', 'effector', 'likely', 'wild-type', 'protein', 'cause-01', 'interact-01', 'difficult', 'downstream', '"t35"', '"ras"', 'eliminate-01', 'possible', 'mutate-01', 'show-01', 'name', 'this', 'contrast-01', 'describe-01', '"k-ras"', '"s1b"'])
+FN set(['comparable', '"1"', 'ubiquitinate-01'])
+FP set(['fail-01', 'undergo-01', 'it', 'compare-01', '"monobuiquitination"'])
+0.81, 0.88, 0.85
+
+Seen comparable 1  times
+Seen "1" 1424  times
+Seen ubiquitinate-01 26  times
+
+
+bio.bmtr_0001.18
+To ensure that ubiquitinated Ras was being detected , the protein pulled down by GST @-@ RBD was subjected to a second affinity purification on a cobalt column to purify the Flag @-@ His @-@ tagged K @-@ Ras .
+TP set(['column', 'tag-01', '"histidine"', 'name', 'amino-acid', 'cobalt', '"ras"', 'subject-01', '"gst-rbd"', '"2"', '"k-ras"', 'purify-01', 'affinity', 'detect-01', 'protein', 'ensure-01', '"flag"', 'ubiquitinate-01', 'ordinal-entity'])
+FN set(['and', 'protein-segment', 'pull-00'])
+FP set(['"-"', 'down', 'pull-01'])
+0.86, 0.86, 0.86
+
+Seen and 10176  times
+Seen protein-segment 164  times
+Seen pull-00 3  times
+
+
+bio.bmtr_0001.19
+As predicted , only a very small fraction of wild @-@ type K @-@ Ras was pulled down by the GST @-@ RBD ( Fig . 2C and fig. S1D ) , consistent with very little wild @-@ type K @-@ Ras being in the GTP state under these conditions ( Fig.2 , A and B ) .
+TP set(['and', 'figure', '"s1d"', 'wild-type', 'consistent-01', 'protein', 'little', '"2a"', 'only', 'fraction', '"2c"', 'very', '"gst-rbd"', 'pull-00', '"gtp"', 'name', 'this', 'predict-01', 'describe-01', '"k-ras"', 'small', '"2b"'])
+FN set(['small-molecule', 'bind-01'])
+FP set(['protein-segment', 'downregulate-01', 'being', 'chemical', 'state'])
+0.81, 0.92, 0.86
+
+Seen small-molecule 231  times
+Seen bind-01 246  times
+
+
+bio.bmtr_0005.6
+One of the most studied downstream pathways of RAS signalling is the Raf @-@ MAPK pathway .
+TP set(['name', 'downstream', 'study-01', '"ras"', 'include-91', 'most', '"raf-mapk"', 'protein', 'pathway'])
+FN set(['signal-07'])
+FP set(['signal-01'])
+0.90, 0.90, 0.90
+
+Seen signal-07 117  times
+
+
+bio.ras_0002.4
+The specificity in Ras - induced signaling is primarily determined by the balance between Ras affinity for each of its effectors and the local concentrations of those effectors .
+TP set(['concentrate-02', 'name', 'balance-01', '"ras"', 'primary', 'effector', 'affinity', 'induce-01', 'specificity', 'protein', 'each', 'local', 'determine-01', 'signal-07'])
+FN set([])
+FP set(['and', 'that'])
+0.88, 1.00, 0.93
+
+
+
+bio.bmtr_0004.24
+The analysis revealed that monoubiquitination abrogates GAP @-@ mediated GTP hydrolysis .
+TP set(['"1"', '"gap"', 'hydrolyze-01', 'mediate-01', 'analyze-01', 'reveal-01', '"gtp"', 'abrogate-01', 'protein', 'ubiquitinate-01', 'name'])
+FN set(['small-molecule'])
+FP set(['chemical'])
+0.92, 0.92, 0.92
+
+Seen small-molecule 231  times
+
+
+bio.bmtr_0004.25
+All other activities , including the ability to bind regulators , were largely preserved and our kinetic modeling suggests that the GAP defect will dominate .
+TP set(['and', 'all', '"gap"', 'we', 'include-01', 'defect', 'name', 'large', 'other', 'suggest-01', 'regulate-01', 'preserve-01', 'protein', 'bind-01', 'dominate-01', 'molecular-physical-entity'])
+FN set(['possible', 'model-01', 'kinetic', 'act-02'])
+FP set(['kinetics', 'activity', 'modeling', 'capable-01'])
+0.80, 0.80, 0.80
+
+Seen possible 2357  times
+Seen model-01 3  times
+Seen kinetic 2  times
+Seen act-02 184  times
+
+
+bio.bmtr_0004.26
+Furthermore , this outcome was specific to monoubiquitination at position 147 .
+TP set(['and', '"1"', 'this', '"147"', 'specific', 'outcome', 'ubiquitinate-01'])
+FN set(['amino-acid'])
+FP set(['position-01', 'name', 'protein'])
+0.70, 0.88, 0.78
+
+Seen amino-acid 326  times
+
+
+bio.bmtr_0004.27
+Thus our work establishes an entirely new mode of Ras activation in which signaling is sustained even in the absence of hormone stimulus or oncogene mutation .
+TP set(['entire', 'we', 'hormone', 'name', 'work-01', 'stimulus', 'signal-07', '"ras"', 'sustain-01', 'establish-01', 'mode', 'new', 'protein', 'cause-01', 'activate-01', 'or', 'mutate-01'])
+FN set(['lack-01', 'cancer'])
+FP set(['absent-01', 'oncogene'])
+0.89, 0.89, 0.89
+
+Seen lack-01 90  times
+Seen cancer 74  times
+
+
+bio.bmtr_0004.20
+This chemical ligation strategy will likely be useful for the study of other monoubiquitinated proteins .
+TP set(['"1"', 'this', 'study-01', 'ubiquitinate-01', 'chemical', 'likely', 'other', 'protein', 'strategy', 'ligate-01'])
+FN set(['useful'])
+FP set(['use-01', 'will-02'])
+0.83, 0.91, 0.87
+
+Seen useful 11  times
+
+
+bio.bmtr_0004.21
+Surprisingly , monoubiquitination did not alter the intrinsic activity of Ras , despite the size of the modification .
+TP set(['"-"', 'modify-01', '"1"', 'name', '"ras"', 'act-02', 'surprise-01', 'alter-01', 'size-01', 'intrinsic', 'ubiquitinate-01', 'protein'])
+FN set(['thing'])
+FP set([])
+1.00, 0.92, 0.96
+
+Seen thing 2212  times
+
+
+bio.bmtr_0004.22
+Our modeling and NMR analyses indicated that Ubiquitin dynamically samples a broad surface area of Ras that alters switch region dynamics .
+TP set(['and', 'we', 'alter-01', '"ubiquitin"', 'area', 'broad', 'analyze-01', '"ras"', 'dynamic', 'surface', 'sample-01', 'protein', 'indicate-01', 'region', 'name'])
+FN set(['switch-01', 'nmr', 'model-01'])
+FP set(['"nmr"', 'switch', '"dynamically"', 'modeling'])
+0.79, 0.83, 0.81
+
+Seen switch-01 18  times
+Seen model-01 3  times
+
+
+bio.bmtr_0004.23
+These results led us to examine the effect of monoubiquitination on the interaction of Ras with its cognate GEF and GAPs , which also target the switch domains .
+TP set(['and', 'also', 'we', '"1"', '"gap"', 'lead-03', 'this', 'examine-01', '"ras"', 'target-01', 'domain', 'thing', 'interact-01', 'affect-01', 'protein', '"gef"', 'result-01', 'ubiquitinate-01', 'name'])
+FN set(['switch-01', 'cognate'])
+FP set(['switch'])
+0.95, 0.90, 0.93
+
+Seen switch-01 18  times
+
+
+bio-kappa_0001.18
+Following ligand binding , Sos is brought from the cytoplasm to the activated receptor in a phosphotyrosine - dependent manner through adapter proteins such as Grb2 .
+TP set(['ligand', 'activate-01', '"grb2"', 'cytoplasm', 'depend-01', 'bring-01', 'phosphorylate-01', 'receptor', 'amino-acid', 'follow-01', 'protein', '"tyrosine"', 'bind-01', 'name'])
+FN set(['adapter', '"sos"'])
+FP set(['"sos-1"', '"adapter"'])
+0.88, 0.88, 0.88
+
+Seen adapter 1  times
+Seen "sos" 16  times
+
+
+bio-kappa_0001.19
+Grb2 contains SH3 domains that are bound constitutively to a carboxy - terminal proline - rich region of Sos , and the Grb2 ' 96 Sos complex is recruited to activated receptors by interactions between the SH2 domain of Grb2 and phosphotyrosine residues on the receptor .
+TP set(['and', '"sh3"', 'receptor', 'protein', '"domain"', '"proline"', '"sos"', 'phosphorylate-01', 'rich', 'recruit-01', '"sh2"', 'activate-01', '"grb2"', 'interact-01', 'residue', '"tyrosine"', 'bind-01', 'protein-segment', 'name', 'amino-acid', 'region', 'contain-01', 'constitutive'])
+FN set(['macro-molecular-complex', '"carboxy-terminus"'])
+FP set(['"terminus"', '"96"', 'country', 'complex', '"sos-1"', '"carboxy"'])
+0.79, 0.92, 0.85
+
+Seen macro-molecular-complex 192  times
+
+
+bio.bmtr_0005.2
+Passage 1 @-@ 1 ( Results )
+TP set(['result-01'])
+FN set(['thing', '"1-1"', 'passage'])
+FP set(['pass-01', '"sos-1"', 'protein', 'name'])
+0.20, 0.25, 0.22
+
+Seen thing 2212  times
+Seen passage 3  times
+
+
+bio-kappa_0001.12
+A similar role in C @-@ Raf activation has been described for the catalytic subunit of PP1C , which associates with C @-@ Raf in Ras @- and growth factor - stimulated cells .
+TP set(['and', '"factor"', 'name', '"pp1c"', 'resemble-01', '"ras"', 'describe-01', 'cell', 'role', '"c-raf"', '"growth"', 'stimulate-01', 'protein', 'activate-01'])
+FN set(['protein-segment', 'small-molecule', 'catalyze-01', 'bind-01'])
+FP set(['chemical', 'associate-01', 'catalysis', 'subunit'])
+0.78, 0.78, 0.78
+
+Seen protein-segment 164  times
+Seen small-molecule 231  times
+Seen catalyze-01 6  times
+Seen bind-01 246  times
+
+
+bio-kappa_0001.13
+In addition to promoting C @-@ Raf activation , PP2A is also able to dephosphorylate Erk - dependent sites on C @-@ Raf .
+TP set(['and', '"pp2a"', 'name', 'activate-01', '"erk"', 'depend-01', 'possible', '"c-raf"', 'protein', 'dephosphorylate-01'])
+FN set(['also', 'protein-segment', 'promote-02'])
+FP set(['promote-00', 'site'])
+0.83, 0.77, 0.80
+
+Seen also 595  times
+Seen protein-segment 164  times
+Seen promote-02 60  times
+
+
+bio-kappa_0001.10
+One of the most abundantly expressed PSPs , protein phosphatase 2A ( PP2A ) , can regulate the Raf / Mek / Erk pathway both positively and negatively .
+TP set(['and', 'name', 'downregulate-01', 'most', 'possible', '"protein"', '"phosphatase"', '"2a"', 'protein', 'pathway'])
+FN set(['"raf/mek/erk"', 'upregulate-01', '"psp"', 'abundant', 'small-molecule', 'include-91', 'express-03'])
+FP set(['"pp2a"', 'one', 'describe-01', 'abound-01', 'regulate-01', 'positive', '"psps"', '"raf/ mek/ erk"', 'figure', 'express-01'])
+0.50, 0.59, 0.54
+
+Seen upregulate-01 56  times
+Seen abundant 2  times
+Seen small-molecule 231  times
+Seen include-91 893  times
+Seen express-03 560  times
+
+
+bio-kappa_0001.11
+As a positive regulator , PP2A associates with C @-@ Raf and Ksr1 and dephosphorylates negative regulatory sites on both proteins , allowing their recruitment to the membrane and leading to Mek and Erk activation .
+TP set(['and', 'recruit-01', '"pp2a"', 'name', 'activate-01', 'lead-03', '"erk"', 'associate-01', 'dephosphorylate-01', '"mek"', '"ksr1"', '"c-raf"', 'membrane', 'protein', 'allow-01'])
+FN set(['protein-segment', 'downregulate-01', 'upregulate-01'])
+FP set(['both', 'positive', 'site', 'negative', 'regulate-01', 'cause-01'])
+0.71, 0.83, 0.77
+
+Seen protein-segment 164  times
+Seen downregulate-01 79  times
+Seen upregulate-01 56  times
+
+
+bio-kappa_0001.16
+A further negative regulator of the cascade , at the level of C @-@ Raf , is Protein phosphatase 5 ( PP5 ) , which associates with C @-@ Raf via its N @-@ terminal tetratricopeptide ( TPR ) domain in growth factor stimulated cells .
+TP set(['protein-segment', 'name', '"factor"', '"protein"', '"phosphatase"', 'cell', 'associate-01', 'stimulate-01', '"c-raf"', '"growth"', '"5"', 'further', 'protein', '"tetratricopeptide"'])
+FN set(['"domain"', 'downregulate-01', 'small-molecule', 'cascade', '"n-terminal"'])
+FP set(['"tpr"', 'pp5', 'be-located-at-91', 'regulate-01', 'level', 'cascade-01', 'negative', 'chemical', '"n-terminus"'])
+0.61, 0.74, 0.67
+
+Seen "domain" 36  times
+Seen downregulate-01 79  times
+Seen small-molecule 231  times
+Seen cascade 11  times
+Seen "n-terminal" 1  times
+
+
+bio-kappa_0001.17
+This interaction leads to the activation of PP5 catalytic activity and to the selective dephosphorylation of the activating serine residue at position 338 , terminating the signal .
+TP set(['"serine"', 'and', 'name', 'activate-01', 'lead-03', 'this', 'interact-01', 'selective', 'residue', '"pp5"', '"338"', 'amino-acid', 'protein', 'dephosphorylate-01', 'act-01', 'terminate-01'])
+FN set(['catalyze-01', 'signal'])
+FP set(['figure', 'describe-01', 'position', 'catalysis', 'signal-07'])
+0.76, 0.89, 0.82
+
+Seen catalyze-01 6  times
+Seen signal 14  times
+
+
+bio-kappa_0001.14
+Since the sites have been described alternatively as negative regulatory or activating , the significance of these dephosphorylation events for Raf activation is unclear .
+TP set(['"-"', 'name', 'activate-01', 'this', 'clear', 'describe-01', 'or', '"raf"', 'alternative', 'dephosphorylate-01', 'protein'])
+FN set(['protein-segment', 'downregulate-01', 'significance', 'cause-01'])
+FP set(['site', 'event', 'regulate-01', 'significant-02', 'since', 'negative'])
+0.65, 0.73, 0.69
+
+Seen protein-segment 164  times
+Seen downregulate-01 79  times
+Seen significance 1  times
+Seen cause-01 2377  times
+
+
+bio-kappa_0001.15
+As a negative regulator of the pathway , PP2A can dephosphorylate the adapter protein Shc , required downstream of some tyrosine kinase receptors for the activation of the Raf / Mek / Erk module ; and it can dephosphorylate Mek and Erk proteins , thus inhibiting the cascade directly .
+TP set(['and', '"kinase"', '"pp2a"', 'name', 'downregulate-01', 'downstream', '"erk"', 'adapter', 'some', 'possible', 'pathway', 'direct', 'require-01', '"mek"', '"shc"', 'inhibit-01', 'protein', '"tyrosine"', 'activate-01', 'dephosphorylate-01', 'relative-position'])
+FN set(['"raf/mek/erk"', '"module"', '"receptor"', 'cascade'])
+FP set(['cascade-01', 'module', 'receptor', 'molecular-physical-entity', 'slash', '"raf"', 'cause-01'])
+0.75, 0.84, 0.79
+
+Seen "receptor" 54  times
+Seen cascade 11  times
+
+
+bio.bel_0002.8
+disruption of the KSR1 @/@ CK2 interaction or inhibition of CK2 activity significantly reduces the growth @-@ factor @-@ induced phosphorylation of C @-@ Raf and B @-@ Raf on the activating serine site in the negative @-@ charge regulatory region ( N @-@ region ) .
+TP set(['and', '"serine"', '"b-raf"', 'protein', 'act-02', 'negative', 'phosphorylate-01', '"c-raf"', '"ck2"', '"ksr1"', 'reduce-01', 'activate-01', 'interact-01', 'disrupt-01', 'inhibit-01', 'regulate-01', 'protein-segment', 'name', 'amino-acid', 'region', 'induce-01', 'or'])
+FN set(['significant-02', 'small-molecule', '"factor"', 'charge-03', '"growth"'])
+FP set(['"n-ras"', '"growth-factor"', 'chemical', 'charge-05', 'significant'])
+0.81, 0.81, 0.81
+
+Seen significant-02 66  times
+Seen small-molecule 231  times
+Seen "factor" 69  times
+Seen charge-03 2  times
+Seen "growth" 44  times
+
+
+bio.ras_0002.2
+These multiple Ras functions depend on its binding to a range of functionally diverse effector molecules such as Raf , PI3K , AF6 and RASSFs ( 1 ) .
+TP set(['and', 'effector', 'depend-01', 'multiple', 'name', 'diverse', 'this', '"af6"', '"ras"', 'molecule', 'describe-01', 'cite-01', 'range', '"pi3k"', '"raf"', 'function-01', '"1"', 'protein', 'bind-01', 'publication'])
+FN set(['thing', '"rassf"'])
+FP set(['"rassfs"'])
+0.95, 0.91, 0.93
+
+Seen thing 2212  times
+
+
+bio.bmtr_0002.10
+In cells transfected with wild @-@ type EGFR , MEK inhibition led to feedback activation of phospho @-@ ERBB3 and phosho @-@ EGFR , recapitulating the results we had observed in our panel of cancer cell lines ( Figure 6A ) .
+TP set(['and', 'feedback', '"egfr"', 'wild-type', 'cell-line', 'protein', 'cancer', 'transfect-00', 'cell', 'phosphorylate-01', 'figure', 'we', '"erbb3"', 'activate-01', 'lead-03', '"mek"', '"6a"', 'inhibit-01', 'result-01', 'panel', 'name', 'recapitulate-01', 'describe-01', 'observe-01'])
+FN set(['thing'])
+FP set(['"phosho"'])
+0.96, 0.96, 0.96
+
+Seen thing 2212  times
+
+
+bio.bel_0002.9
+Sorafenib is a potent TKI of VEGFR @-@ 2 , VEGFR @-@ 3 , B @-@ RAF , and PDGFR @-@ B
+TP set(['and', 'name', 'potent', '"b-raf"', '"pdgfr-b"', '"vegfr-2"', '"vegfr-3"'])
+FN set(['small-molecule', '"sorafenib"', 'kinase', 'inhibit-01'])
+FP set(['protein-segment', 'protein', '"tki"'])
+0.70, 0.64, 0.67
+
+Seen small-molecule 231  times
+Seen "sorafenib" 3  times
+Seen kinase 148  times
+Seen inhibit-01 246  times
+
+
+bio.mskcc_0001.18
+Consistent with these data , we found that B @-@ Raf interacted with C @-@ Raf in an inducible and transient manner following growth factor treatment ( Fig . 3B and C ) .
+TP set(['and', 'we', 'name', 'figure', 'this', 'interact-01', '"factor"', 'describe-01', 'find-01', '"3b"', '"3c"', 'transient', '"b-raf"', '"c-raf"', '"growth"', 'follow-01', 'consistent-01', 'protein', 'data', 'treat-04', 'induce-01'])
+FN set(['small-molecule'])
+FP set(['chemical', 'phosphorylate-01'])
+0.91, 0.95, 0.93
+
+Seen small-molecule 231  times
+
+
+bio-kappa_0001.27
+In principle , these reactions are fast and fully reversible , so that the GEF merely acts as a catalyst to increase the rate at which equilibrium between the GDP @- and GTP - bound forms of the protein is reached .
+TP set(['and', 'full', 'name', 'increase-01', '"gdp"', 'react-01', 'fast', 'reach-01', 'this', 'rate', 'equilibrate-01', '"gtp"', 'protein', '"gef"', 'bind-01', 'mere', 'cause-01'])
+FN set(['in-principle', 'small-molecule', 'possible', 'reverse-01', 'catalyze-01', 'act-01'])
+FP set(['form-01', 'chemical', 'reversible', 'catalyst', 'act-02', 'principle'])
+0.74, 0.74, 0.74
+
+Seen small-molecule 231  times
+Seen possible 2357  times
+Seen reverse-01 28  times
+Seen catalyze-01 6  times
+Seen act-01 144  times
+
+
+bio-kappa_0001.26
+This series of reactions is reversed by rebinding of nucleotide , predominantly GTP , because of its higher concentration in the cell .
+TP set(['concentrate-02', 'name', 'cell', 'this', 'series', 'react-01', 'high', 'reverse-01', 'predominant', '"gtp"', 'more', 'nucleotide', 'cause-01'])
+FN set(['again', 'small-molecule', 'mean-01', 'bind-01'])
+FP set(['chemical', 'rebind-00'])
+0.87, 0.76, 0.81
+
+Seen again 140  times
+Seen small-molecule 231  times
+Seen mean-01 536  times
+Seen bind-01 246  times
+
+
+bio-kappa_0001.25
+The mechanism of GEF action involves a series of fast reaction steps , which lead from a binary protein - nucleotide complex via a trimeric GNBP - nucleotide - GEF complex to a binary nucleotide - free complex , which is stable in the absence of nucleotide .
+TP set(['binary', 'involve-01', 'name', 'free-04', 'series', 'react-01', 'mechanism', 'trimeric', 'step', 'complex', 'fast', 'stable', '"gnbp"', 'protein', '"gef"', 'nucleotide', 'act-02'])
+FN set(['absent', 'macro-molecular-complex', 'turn-02'])
+FP set(['absent-01', '"nucleotide"', 'lead-03'])
+0.85, 0.85, 0.85
+
+Seen absent 1  times
+Seen macro-molecular-complex 192  times
+Seen turn-02 35  times
+
+
+bio-kappa_0001.24
+It is also intrinsically very slow and thus has to be accelerated by GTPase - activating proteins ( GAPs ) .
+TP set(['slow', 'name', 'activate-01', 'very', 'intrinsic', 'it', '"gtpase"', 'also', 'obligate-01', 'protein', 'accelerate-01', 'cause-01'])
+FN set([])
+FP set(['and', '"gap"'])
+0.86, 1.00, 0.92
+
+
+
+bio-kappa_0001.23
+The switch - OFF process is entirely different and involves hydrolysis of GTP to GDP , the guanosine triphosphatase ( GTPase ) reaction , which is basically irreversible .
+TP set(['"-"', '"triphosphatase"', '"guanosine"', 'involve-01', 'and', 'entire', 'process', '"gdp"', 'differ-02', 'hydrolyze-01', 'basic', '"gtp"', 'protein', 'react-01', 'name'])
+FN set(['reverse-01', 'possible', 'deactivate-01', 'small-molecule'])
+FP set(['chemical', 'off', '"gtpase"', 'switch', 'amr-unknown'])
+0.75, 0.79, 0.77
+
+Seen reverse-01 28  times
+Seen possible 2357  times
+Seen deactivate-01 5  times
+Seen small-molecule 231  times
+
+
+bio-kappa_0001.22
+This switch - ON process involves the exchange of GDP for GTP , and is , at least in principle , reversible .
+TP set(['and', 'process', 'involve-01', 'name', 'this', 'exchange-01', '"gdp"', '"gtp"', 'at-least'])
+FN set(['in-principle', 'activate-01', 'small-molecule', 'possible', 'reverse-01'])
+FP set(['on', 'chemical', 'switch-01', 'reversible', 'principle', 'be-located-at-91'])
+0.60, 0.64, 0.62
+
+Seen activate-01 515  times
+Seen small-molecule 231  times
+Seen possible 2357  times
+Seen reverse-01 28  times
+
+
+bio-kappa_0001.21
+Activation requires dissociation of protein - bound GDP , an intrinsically slow process that is accelerated by guanine nucleotide ' 96 exchange factors ( GEFs ) .
+TP set(['accelerate-01', 'slow', 'name', 'activate-01', '"gdp"', 'bind-01', '"guanine"', 'require-01', '"nucleotide"', 'dissociate-01', 'protein', 'intrinsic'])
+FN set(['small-molecule', '"factor"', '"exchange"'])
+FP set(['process', '"gef"', '"96"', 'exchange-01', 'describe-01', 'chemical', 'factor'])
+0.63, 0.80, 0.71
+
+Seen small-molecule 231  times
+Seen "factor" 69  times
+Seen "exchange" 15  times
+
+
+bio-kappa_0001.20
+The guanine nucleotide @-@ binding switch in three dimensions .
+TP set(['"guanine"', 'protein', 'name', '"3"', 'dimension'])
+FN set(['switch', '"nucleotide-binding"'])
+FP set(['temporal-quantity', 'switch-01', '"nucleotide"', 'bind-01'])
+0.56, 0.71, 0.63
+
+Seen switch 10  times
+Seen "nucleotide-binding" 1  times
+
+
+bio.mskcc_0001.53
+Through mutational analysis , we find that feedback phosphorylation disrupts the abilities of B @-@ Raf to bind activated Ras and to heterodimerize with C @-@ Raf .
+TP set(['and', 'we', 'feedback', 'activate-01', 'analyze-01', '"ras"', 'name', 'find-01', 'phosphorylate-01', '"b-raf"', '"c-raf"', 'disrupt-01', 'protein', 'bind-01', 'heterodimerize-00', 'capable-01', 'mutate-01'])
+FN set([])
+FP set([])
+1.00, 1.00, 1.00
+
+
+
+bio.mskcc_0001.52
+As has been observed for C @-@ Raf , we find that the hyperphosphorylated B @-@ Raf protein is subsequently dephosphorylated in a manner requiring the activities of the PP2A phosphatase and Pin1 prolyl @-@ isomerase , indicating that the feedback phosphorylation @/@ dephosphorylation cycle is a conserved regulatory mechanism for the Raf proteins .
+TP set(['and', '"pin1"', 'we', '"pp2a"', 'name', 'resemble-01', 'feedback', 'observe-01', 'mechanism', 'act-02', 'find-01', 'require-01', 'phosphorylate-01', '"raf"', '"b-raf"', '"c-raf"', 'protein', 'indicate-01', 'dephosphorylate-01', 'regulate-01', 'cycle'])
+FN set(['hyperphosphorylate-00', 'conserve-01', 'after', 'phosphatase', 'prolyl-isomerase'])
+FP set(['subsequent', '"phosphatase"', 'conserved', '"prolyl"', '"isomerase"'])
+0.81, 0.81, 0.81
+
+Seen hyperphosphorylate-00 1  times
+Seen conserve-01 10  times
+Seen after 640  times
+Seen phosphatase 9  times
+
+
+bio.mskcc_0001.51
+These residues are phosphorylated by activated ERK in vitro ,
+TP set(['residue', 'name', 'activate-01', 'this', '"erk"', 'phosphorylate-01', 'in-vitro', 'protein'])
+FN set([])
+FP set([])
+1.00, 1.00, 1.00
+
+
+
+bio.mskcc_0001.50
+Through metabolic labeling experiments , we find here that in addition to the S750 and T753 sites , B @-@ Raf is feedback phosphorylated on two other sites , S151 and T401 .
+TP set(['"serine"', '"threonine"', 'and', '"151"', 'name', 'amino-acid', '"750"', 'we', 'label-01', '"401"', 'here', 'find-01', 'phosphorylate-01', '"b-raf"', '"753"', 'experiment-01', 'protein', 'feedback'])
+FN set(['metabolism'])
+FP set(['protein-segment', 'site', 'other', 'metabolize-01', '"2"'])
+0.78, 0.95, 0.86
+
+Seen metabolism 1  times
+
+
+bio.mskcc_0001.57
+Taken together , these findings suggest a model whereby the binding of a 14 @-@ 3 @-@ 3 dimer to the C @-@ terminal pS621 site of C @-@ Raf and the C @-@ terminal pS729 site of B @-@ Raf provides the stable docking event that then allows the two proteins to make additional contacts ( Fig . 9 ) .
+TP set(['"serine"', 'and', '"621"', 'provide-01', 'contact-01', '"b-raf"', '"14-3-3"', 'protein', 'dock-01', 'additional', 'thing', '"c-raf"', 'stable', 'allow-01', '"c-terminus"', '"729"', 'bind-01', 'protein-segment', 'name', 'amino-acid', 'take-01', 'together', 'find-01', 'this', 'suggest-01', 'model'])
+FN set(['phosphorylate-01', 'after', 'dimer'])
+FP set(['then', 'figure', 'multi-sentence', '"dimer"', 'have-condition-91', 'event', 'phosporylate-01', 'describe-01', '"2"', 'make-01', '"9"'])
+0.70, 0.90, 0.79
+
+Seen phosphorylate-01 408  times
+Seen after 640  times
+Seen dimer 5  times
+
+
+bio.bmtr_0003.20
+MAPK inhibition may dictate a chromatin redistribution of these repressors , and thus activate HER3 transcription .
+TP set(['dictate-01', 'name', 'activate-01', 'this', 'transcribe-01', 'possible', '"her3"', '"mapk"', 'inhibit-01', 'protein', 'cause-01'])
+FN set(['chromatin', 'repress-01', 'redistribute-01', 'molecular-physical-entity', 'pathway'])
+FP set(['and', '"redistribution"', '"repressors"', 'thing', '"chromatin"'])
+0.69, 0.69, 0.69
+
+Seen repress-01 27  times
+Seen molecular-physical-entity 387  times
+Seen pathway 181  times
+
+
+bio.mskcc_0001.55
+This finding is consistent with those of peptide binding studies conducted by Rushworth et al. ( 27 ) indicating that there are multiple points of contact between heterodimerized B @-@ Raf and C @-@ Raf proteins .
+TP set(['and', '"27"', 'cite-01', 'contact-01', '"b-raf"', 'consistent-01', 'multiple', 'protein', 'indicate-01', 'publication', 'person', 'conduct-01', 'other', '"c-raf"', 'peptide', 'study-01', 'bind-01', 'name', 'this', 'describe-01', 'find-01', '"rushworth"'])
+FN set(['thing', 'heterodimerize-00'])
+FP set(['point', 'that'])
+0.92, 0.92, 0.92
+
+Seen thing 2212  times
+
+
+bio.mskcc_0001.54
+Although phosphorylation of the S151 site appears to have the greatest effect on Ras binding , our results indicate that phosphorylation of all the feedback sites contributes to the inhibition of C @-@ Raf binding .
+TP set(['"serine"', 'all', 'feedback', 'appear-02', 'affect-01', 'protein', 'indicate-01', 'bind-01', 'phosphorylate-01', '"c-raf"', 'we', '"151"', '"ras"', 'protein-segment', 'most', 'contribute-01', 'inhibit-01', 'result-01', 'great', 'name', 'amino-acid', 'thing'])
+FN set([])
+FP set(['have-concession-91', 'site'])
+0.92, 1.00, 0.96
+
+
+
+bio-exp_0001.9
+Moreover , PLX4032 led to an increase in phosphorylation of FoxO1 @/@ 3A between 4 – 10 h after addition of compound ( not shown ) , which is known to promote its dissociation from DNA , and likely discards involvement of these factors as transcriptional regulators of HER3 in response to MAPK pathway inhibition .
+TP set(['and', '"-"', 'increase-01', '"plx4032"', 'compound', 'likely', 'inhibit-01', 'protein', 'dna', 'know-01', 'phosphorylate-01', 'respond-01', 'factor', '"10"', 'pathway', 'after', 'lead-03', 'transcribe-01', 'between', '"mapk"', '"4"', 'discard-01', 'regulate-01', 'show-01', 'involve-01', 'name', 'hour', 'this', 'promote-01', 'temporal-quantity', '"her3"', 'dissociate-01', 'add-02'])
+FN set(['"foxo1/3a"', 'molecular-physical-entity', 'small-molecule'])
+FP set(['"foxo1"', 'figure', 'describe-01', 'chemical', 'amr-unknown', '"3a"'])
+0.85, 0.92, 0.88
+
+Seen molecular-physical-entity 387  times
+Seen small-molecule 231  times
+
+
+bio-exp_0001.8
+This region does not contain any predicted FoxO binding sites .
+TP set(['"-"', 'name', 'this', 'region', 'predict-01', 'contain-01', '"foxo"', 'protein', 'bind-01', 'any'])
+FN set(['protein-segment'])
+FP set(['site'])
+0.91, 0.91, 0.91
+
+Seen protein-segment 164  times
+
+
+bio.bmtr_0002.3
+We used tandem mass spectrometry to measure the effects of AZD6244 on phosphorylation of this JM domain threonine residue in both EGFR @-@ mutant and HER2 @- amplified cancer models .
+TP set(['and', 'cancer', 'measure-01', '"azd6244"', 'protein', '"domain"', '"egfr"', 'amplify-01', '"her2"', 'phosphorylate-01', '"jm"', '"threonine"', 'we', 'residue', 'tandem', 'mutate-01', 'protein-segment', 'name', 'amino-acid', 'mass', 'use-01', 'model', 'spectrometry'])
+FN set(['this', 'small-molecule', 'affect-01'])
+FP set(['chemical', 'effect-03', 'multi-sentence'])
+0.88, 0.88, 0.88
+
+Seen this 1949  times
+Seen small-molecule 231  times
+Seen affect-01 150  times
+
+
+bio.bmtr_0002.2
+We hypothesized that the MEK @/@ ERK pathway may suppress trans @-@ phosphorylation of ERBB3 by directly phosphorylating the JM domains of EGFR and HER2 , and that this could be a dominant MEK inhibitor @-@ induced feedback leading to AKT activation in these cancers .
+TP set(['and', 'feedback', '"egfr"', 'direct', 'suppress-01', 'protein', '"domain"', 'cancer', '"her2"', 'phosphorylate-01', 'molecular-physical-entity', 'hypothesize-01', 'pathway', 'we', '"erbb3"', 'activate-01', 'lead-03', '"akt"', 'possible', '"mek"', 'inhibit-01', 'protein-segment', 'name', 'this', '"jm"', 'induce-01', 'dominate-01'])
+FN set(['"mek/erk"'])
+FP set(['"mek/ erk"', 'trans'])
+0.93, 0.96, 0.95
+
+
+
+bio.mskcc_0001.3
+To activate the Raf proteins , autoinhibition mediated by the N terminus must be relieved and the kinase domain must adopt the active catalytic conformation
+TP set(['and', 'protein-segment', 'name', 'activate-01', 'mediate-01', '"raf"', 'protein', 'relieve-01'])
+FN set(['domain', 'kinase', 'require-01', 'catalyze-01', '"n-terminus"', 'inhibit-01'])
+FP set(['"kinase"', '"terminus"', 'adopt-01', 'conform-01', 'catalysis', 'cause-01', '"domain"', '"autoinhibition"', 'obligate-01', '"n"'])
+0.44, 0.57, 0.50
+
+Seen domain 20  times
+Seen kinase 148  times
+Seen require-01 142  times
+Seen catalyze-01 6  times
+Seen "n-terminus" 4  times
+Seen inhibit-01 246  times
+
+
+bio.mskcc_0001.2
+14 @-@ 3 @-@ 3 dimers bind to phosphorylation sites present in both the N @- and C @-@ terminal regions and stabilize the autoinhibited state ( 22 ) .
+TP set(['and', 'protein-segment', 'publication', '"22"', 'stabilize-01', 'describe-01', 'name', 'cite-01', 'phosphorylate-01', '"14-3-3"', 'protein', 'bind-01', 'dimer', '"c-terminus"'])
+FN set(['"n-terminus"', 'inhibit-01'])
+FP set(['both', '"n-ras"', 'region', 'state', '"autoinhibited"', 'be-located-at-91'])
+0.70, 0.88, 0.78
+
+Seen "n-terminus" 4  times
+Seen inhibit-01 246  times
+
+
+bio.mskcc_0001.1
+We identify four S/TP sites of B @-@ Raf phosphorylated by activated ERK and find that feedback phosphorylation of B @-@ Raf inhibits binding to activated Ras and disrupts heterodimerization with C @-@ Raf , which is dependent on the B @-@ Raf pS729 @/@ 14 @-@ 3 @-@ 3 binding site .
+TP set(['and', '"serine"', 'feedback', '"4"', '"b-raf"', '"14-3-3"', 'protein', 'identify-01', 'phosphorylate-01', '"c-raf"', 'heterodimerize-00', 'we', '"ras"', 'activate-01', '"729"', 'depend-01', 'disrupt-01', 'inhibit-01', 'bind-01', 'protein-segment', 'name', 'amino-acid', '"erk"', 'find-01'])
+FN set(['"threonine"', 'or'])
+FP set(['phosporylate-01', '"s/ tp"'])
+0.92, 0.92, 0.92
+
+Seen "threonine" 22  times
+Seen or 1102  times
+
+
+bio.mskcc_0001.7
+In regard to C @-@ Raf , ERK @-@ dependent feedback phosphorylation has been shown to instigate a regulatory cycle whereby phosphorylation of the feedback sites down @-@ modulates C @-@ Raf signaling , after which the hyperphosphorylated C @-@ Raf protein is dephosphorylated and returned to a signaling @-@ competent state through dephosphorylation events involving protein phosphatase 2A ( PP2A ) and the Pin1 prolyl @-@ isomerase ( 8 ) .
+TP set(['and', 'feedback', 'cite-01', 'protein', 'signal-07', 'publication', '"protein"', '"phosphatase"', '"2a"', 'phosphorylate-01', '"c-raf"', '"8"', 'dephosphorylate-01', 'after', 'hyperphosphorylate-00', 'depend-01', 'protein-segment', '"pin1"', 'instigate-01', 'regulate-01', 'cycle', 'show-01', 'involve-01', 'name', '"erk"'])
+FN set(['downmodulate-00', 'activate-01', 'prolyl-isomerase'])
+FP set(['competent-01', 'figure', 'multi-sentence', 'event', 'regard-01', '"prolyl"', '"pp2a"', 'down-modulate-00', 'state', 'return-01', 'describe-01'])
+0.69, 0.89, 0.78
+
+Seen downmodulate-00 1  times
+Seen activate-01 515  times
+
+
+bio.mskcc_0001.6
+Strikingly , the Raf proteins themselves are also substrates of activated ERK .
+TP set(['"erk"', 'protein', '"raf"', 'name', 'activate-01'])
+FN set(['strike-04', 'catalyze-01'])
+FP set(['substrate', 'striking', 'also', 'they'])
+0.56, 0.71, 0.63
+
+Seen strike-04 3  times
+Seen catalyze-01 6  times
+
+
+bio.mskcc_0001.5
+Once activated , either by upstream signaling or by mutational events , all Raf proteins are capable of initiating the phosphorylation cascade that results in the sequential activation of MEK and ERK .
+TP set(['and', 'all', 'name', 'activate-01', '"erk"', 'phosphorylate-01', 'result-01', '"mek"', '"raf"', 'upstream', 'protein', 'mutate-01', 'initiate-01', 'or', 'capable-01', 'signal-07'])
+FN set(['cascade', 'follow-01'])
+FP set(['sequence', 'cascade-01', 'event'])
+0.84, 0.89, 0.86
+
+Seen cascade 11  times
+Seen follow-01 92  times
+
+
+bio.mskcc_0001.4
+Under normal signaling conditions , Ras activation helps mediate these events by recruiting the Raf proteins to the plasma membrane , which induces the release of 14 @-@ 3 @-@ 3 from the N @-@ terminal binding site and facilitates phosphorylation of the Raf kinase domain ( 19 ) .
+TP set(['mediate-01', 'cite-01', '"14-3-3"', 'protein', 'event', 'signal-07', 'recruit-01', 'publication', 'facilitate-01', 'phosphorylate-01', 'membrane', '"n-terminus"', 'release-01', 'plasma', 'activate-01', 'normal', '"ras"', '"19"', 'help-01', 'bind-01', 'name', 'this', 'describe-01', '"raf"', 'induce-01'])
+FN set(['domain', 'protein-segment', 'kinase'])
+FP set(['and', '"kinase"', 'site', '"domain"', 'have-condition-91'])
+0.83, 0.89, 0.86
+
+Seen domain 20  times
+Seen protein-segment 164  times
+Seen kinase 148  times
+
+
+bio-exp_0001.2
+Upregulation of HER3 has been found to mediate resistance to PI3K @/@ AKT ( 26 ) or HER2 ( 27 ) inhibitors in HER2 @-@ amplified breast cancer cell lines , which is caused in part through a FoxO3A @-@ dependent induction of HER3 gene transcription .
+TP set(['cancer', '"27"', 'cite-01', '"her3"', 'protein', 'cell-line', 'cause-01', 'publication', 'amplify-01', '"her2"', '"foxo3a"', 'molecular-physical-entity', 'depend-01', 'resist-01', 'part', 'breast', 'inhibit-01', 'name', 'describe-01', 'find-01', 'induce-01', '"26"', 'gene', 'or'])
+FN set(['"pi3k/akt"', 'encode-01', 'mediate-01', 'transcribe-01', 'upregulate-01', 'pathway'])
+FP set(['and', 'mediate-00', '"akt"', '"pi3k"'])
+0.86, 0.80, 0.83
+
+Seen encode-01 72  times
+Seen mediate-01 124  times
+Seen transcribe-01 99  times
+Seen upregulate-01 56  times
+Seen pathway 181  times
+
+
+bio.mskcc_0001.9
+Here we find that both normal and oncogenic B @-@ Raf proteins are phosphorylated on four S/TP sites ( S151 , T401 , S750 , and T753 ) by activated ERK .
+TP set(['and', '"750"', 'we', '"151"', 'name', 'activate-01', '"threonine"', '"401"', '"erk"', 'normal', 'here', 'find-01', 'phosphorylate-01', '"b-raf"', '"753"', 'protein', 'cause-01', '"serine"', 'cancer', 'amino-acid'])
+FN set(['or'])
+FP set(['protein-segment', 'describe-01', '"s/ tp"', '"4"'])
+0.83, 0.95, 0.89
+
+Seen or 1102  times
+
+
+bio.mskcc_0001.8
+For B @-@ Raf , two ERK @-@ dependent feedback sites , S750 and T753 , have been identified , and phosphorylation of these sites has been reported to have a negative regulatory effect
+TP set(['and', '"threonine"', 'identify-01', '"753"', 'name', 'amino-acid', '"750"', '"erk"', 'depend-01', 'phosphorylate-01', '"b-raf"', 'affect-01', 'protein', 'report-01', '"serine"', 'feedback'])
+FN set(['downregulate-01'])
+FP set(['site', 'have-03', '"2"', 'regulate-01', 'cause-01', 'protein-segment', 'this', 'negative'])
+0.67, 0.94, 0.78
+
+Seen downregulate-01 79  times
+
+
+bio-exp_0001.3
+As shown in Fig. 5A , PLX4032 treatment increased HER3 and HER2 mRNAs in all six BRAF @-@ mutant thyroid cancer cell lines tested .
+TP set(['and', '"braf"', 'show-01', 'name', 'figure', 'increase-01', '"plx4032"', '"her2"', '"5a"', '"her3"', 'treat-03', 'thyroid', 'protein', 'gene', 'cell-line', 'cancer', 'mutate-01'])
+FN set(['all', 'test-01', '"6"', 'dna', 'encode-01', 'small-molecule', 'include-91', 'mrna'])
+FP set(['"mrna"', 'rna', 'chemical', 'cause-01'])
+0.81, 0.68, 0.74
+
+Seen all 721  times
+Seen test-01 106  times
+Seen "6" 265  times
+Seen dna 47  times
+Seen encode-01 72  times
+Seen small-molecule 231  times
+Seen include-91 893  times
+
+
+bio.mskcc_0001.31
+As shown in Fig. 4A , the FBm or S729A mutation had no effect on transformation induced by the V600E or G469A B @-@ Raf protein , both of which possess high kinase activity .
+TP set(['"-"', 'show-01', '"4a"', 'transform-01', 'name', 'figure', 'induce-01', '"v600e"', '"b-raf"', 'affect-01', '"s729a"', 'protein', 'or', 'mutate-01'])
+FN set(['protein-segment', 'feedback', '"g469a"', 'kinase', 'have-part-91', 'high', 'act-01'])
+FP set(['"kinase"', '"high"', 'possess-01', '"fbm"', 'antibody', 'act-02'])
+0.70, 0.67, 0.68
+
+Seen protein-segment 164  times
+Seen feedback 15  times
+Seen kinase 148  times
+Seen have-part-91 51  times
+Seen high 282  times
+Seen act-01 144  times
+
+
+bio.mskcc_0001.30
+The proteins were then expressed in NIH 3T3 cells and examined for their abilities to alter cell morphology and induce focus formation .
+TP set(['and', 'then', 'alter-01', 'form-01', 'examine-01', 'focus', 'morphology', 'cell', '"3t3"', 'induce-01', '"nih"', 'express-03', 'protein', 'cell-line', 'name'])
+FN set(['"interrogative"', 'possible'])
+FP set(['ability'])
+0.94, 0.88, 0.91
+
+Seen "interrogative" 800  times
+Seen possible 2357  times
+
+
+bio.mskcc_0001.33
+The total number of foci observed and , often , the sizes of the foci were increased , and cells within the foci exhibited a more transformed appearance .
+TP set(['and', 'transform-01', 'often', 'total-01', 'increase-01', 'cell', 'observe-01', 'exhibit-01', 'more', 'size'])
+FN set(['appear-02', 'focus', 'number'])
+FP set(['focus-01', 'appear-01'])
+0.83, 0.77, 0.80
+
+Seen appear-02 98  times
+Seen focus 2  times
+Seen number 153  times
+
+
+bio.mskcc_0001.32
+However , mutation of the feedback sites significantly increased the transforming activities of B @-@ Raf proteins with intermediate or impaired kinase activity ( Fig . 4A ) .
+TP set(['kinase', 'protein-segment', '"4a"', 'transform-01', 'feedback', 'figure', 'increase-01', 'contrast-01', 'describe-01', 'name', 'intermediate', '"b-raf"', 'protein', 'impair-01', 'or', 'mutate-01'])
+FN set(['significant-02', 'act-01'])
+FP set(['significant', 'act-02'])
+0.89, 0.89, 0.89
+
+Seen significant-02 66  times
+Seen act-01 144  times
+
+
+bio.mskcc_0001.35
+Examination of activated phospho @-@ MEK levels revealed that the FBm and S729 mutations had no effect on MEK activation induced by the high @-@ activity V600E B @-@ Raf protein ; however , the FBm and S729A mutations increased and decreased , respectively , the abilities of the intermediate G466A and kinase @-@ impaired D594G B @-@ Raf proteins to activate MEK ( Fig . 4B ) , indicating a correlation between the transformation potential of these proteins and their ability to activate ERK cascade signaling in vivo .
+TP set(['and', '"-"', 'figure', 'increase-01', 'in-vivo', 'reveal-01', '"b-raf"', 'affect-01', 'protein', 'indicate-01', 'act-02', 'signal-07', 'respective', 'decrease-01', 'phosphorylate-01', 'intermediate', '"s729a"', '"g466a"', 'activate-01', 'correlate-01', 'impair-01', '"mek"', '"4b"', 'mutate-01', 'high', 'transform-01', 'name', 'level', '"erk"', 'contrast-01', 'describe-01', 'cascade', '"d594g"', 'induce-01', 'examine-01'])
+FN set(['"serine"', 'feedback', '"729"', 'possible', '"v600e"', 'protein-segment', 'amino-acid', 'kinase', 'have-part-91'])
+FP set(['"kinase"', '"fbm"', 'this', 'multi-sentence', '"s729"', 'capable-01'])
+0.85, 0.80, 0.82
+
+Seen "serine" 88  times
+Seen feedback 15  times
+Seen possible 2357  times
+Seen protein-segment 164  times
+Seen amino-acid 326  times
+Seen kinase 148  times
+Seen have-part-91 51  times
+
+
+bio.mskcc_0001.34
+In contrast , the S729A mutation reduced the transforming activities of the oncogenic proteins with intermediate or impaired kinase activity , causing a reduction in focus number and a flatter cell morphology ( Fig . 4A ) .
+TP set(['and', 'flat', '"4a"', 'cancer', 'figure', 'kinase', 'contrast-01', 'describe-01', 'number', 'cell', 'reduce-01', 'intermediate', 'impair-01', 'morphology', '"s729a"', 'protein', 'mutate-01', 'or', 'act-01', 'cause-01'])
+FN set(['transform-01', 'focus', 'more'])
+FP set(['name', 'focus-01', 'act-02', '"transforming"'])
+0.83, 0.87, 0.85
+
+Seen transform-01 45  times
+Seen focus 2  times
+Seen more 1171  times
+
+
+bio.mskcc_0001.37
+Together , these findings indicate a correlation between the changes in the transformation potentials of the intermediate and impaired oncogenic B @-@ Raf proteins and their abilities to heterodimerize and activate C @-@ Raf .
+TP set(['and', 'cancer', 'transform-01', 'name', 'activate-01', 'this', 'correlate-01', 'together', 'impair-01', 'find-01', 'thing', 'intermediate', '"b-raf"', '"c-raf"', 'heterodimerize-00', 'cause-01', 'indicate-01', 'protein', 'change-01'])
+FN set(['possible', 'capable-01'])
+FP set(['potential', 'ability'])
+0.90, 0.90, 0.90
+
+Seen possible 2357  times
+Seen capable-01 181  times
+
+
+bio.mskcc_0001.36
+Not unexpectedly , for all of the oncogenic B @-@ Raf proteins , the S729A mutation , which disrupts heterodimerization with C @-@ Raf , caused a >90 % decrease in C @-@ Raf activity levels ( Fig . 5B ) .
+TP set(['percentage-entity', 'all', 'decrease-01', 'act-02', 'cancer', 'figure', 'level', '"5b"', 'describe-01', 'name', '"b-raf"', '"c-raf"', 'disrupt-01', 'heterodimerize-00', 'mutate-01', 'expect-01', 'protein', 'cause-01'])
+FN set(['"90"', '"s729a"', 'more-than'])
+FP set(['"-"', '">90"'])
+0.90, 0.86, 0.88
+
+Seen "90" 32  times
+Seen more-than 143  times
+
+
+bio.mskcc_0001.39
+The mutant proteins were then examined for their abilities to heterodimerize with C @-@ Raf and to bind activated Ras under conditions where feedback phosphorylation was induced ( in cycling cells for the G466A mutants and in cells treated with PDGF for 30 min for the WT B @-@ Raf mutants ) .
+TP set(['and', 'feedback', 'then', '"b-raf"', 'wild-type', 'protein', 'treat-04', '"pdgf"', 'cell', 'phosphorylate-01', '"c-raf"', 'heterodimerize-00', 'mutate-01', '"g466a"', '"30"', 'activate-01', '"ras"', 'bind-01', 'minute', 'cycle', 'name', 'examine-01', 'temporal-quantity', 'induce-01'])
+FN set(['small-molecule', '"interrogative"', 'possible', 'mean-01'])
+FP set(['to', 'capable-01', 'describe-01'])
+0.89, 0.86, 0.87
+
+Seen small-molecule 231  times
+Seen "interrogative" 800  times
+Seen possible 2357  times
+Seen mean-01 536  times
+
+
+bio.mskcc_0001.38
+To investigate the contributions of the various feedback sites to the overall effect of feedback phosphorylation on B @-@ Raf function , we generated a panel of mutants in which specific feedback phosphorylation sites were incorporated into either WT B @-@ Raf or the intermediate @-@ activity G466A B @-@ Raf protein .
+TP set(['mutate-01', 'protein-segment', 'name', 'we', 'generate-01', 'overall', 'contribute-01', 'specific', 'affect-01', 'phosphorylate-01', 'intermediate', 'various', '"b-raf"', 'function-01', 'wild-type', 'investigate-01', 'protein', 'panel', 'or', 'feedback'])
+FN set(['"g466a"', 'incorporate-02', 'thing', 'act-01', 'cause-01'])
+FP set(['"-"', 'incorporate-01', 'either', 'be-located-at-91', 'act-02'])
+0.80, 0.80, 0.80
+
+Seen incorporate-02 5  times
+Seen thing 2212  times
+Seen act-01 144  times
+Seen cause-01 2377  times
+
+
+bio.bmtr_0002.21
+This supports the hypothesis that a dominant ERK feedback on ERBB3/PI3K/AKT is mediated though phosphorylation of T669 on EGFR ( or T677 HER2 ) .
+TP set(['"677"', 'or', 'name', '"669"', '"threonine"', 'this', '"erk"', '"her2"', 'support-01', 'phosphorylate-01', 'amino-acid', '"egfr"', 'mediate-01', 'protein', 'hypothesize-01', 'dominate-01', 'feedback'])
+FN set(['"erbb3/pi3k/akt"', 'pathway'])
+FP set(['"erbb3/ pi3k/ akt"', 'have-concession-91'])
+0.89, 0.89, 0.89
+
+Seen pathway 181  times
+
+
+bio.ras_0001.10
+Other less frequently observed mutations , such as those found in the G4 and G5 boxes , increase the rate of nucleotide exchange , thereby mimicking the GEFs and increasing the GTP - bound state ( 1 – 7 ) .
+TP set(['mimic-01', '"g4"', '"1"', 'name', 'rate', 'increase-01', 'nucleotide', 'exchange-01', 'less', '"7"', 'observe-01', 'other', '"box"', '"gtp"', '"g5"', 'protein', '"gef"', 'bind-01', 'frequent'])
+FN set(['value-interval', '"ras"', 'number', 'cite-01', 'cause-01', 'protein-segment', 'publication', 'small-molecule', 'attest-01', 'mutation', 'or'])
+FP set(['and', '"\xe2\x80\x93"', 'that', 'mutate-01', 'chemical', 'country', 'describe-01', 'find-01', 'state'])
+0.68, 0.63, 0.66
+
+Seen value-interval 46  times
+Seen "ras" 185  times
+Seen number 153  times
+Seen cite-01 287  times
+Seen cause-01 2377  times
+Seen protein-segment 164  times
+Seen publication 514  times
+Seen small-molecule 231  times
+Seen attest-01 1  times
+Seen or 1102  times
+
+
+bio.mskcc_0001.44
+As indicated in Fig. 7A , when PP2A was inhibited with okadaic acid treatment , slower @-@ migrating forms of the V600E , G466A , and D594G B @-@ Raf proteins were found to accumulate .
+TP set(['and', '"7a"', '"pp2a"', 'name', 'figure', '"g466a"', 'migrate-01', 'treat-04', '"acid"', '"okadaic"', '"v600e"', 'find-01', 'slow', '"d594g"', '"b-raf"', 'inhibit-01', 'protein', 'mutate-01', 'indicate-01', 'accumulate-01'])
+FN set(['small-molecule', 'more'])
+FP set(['form-01'])
+0.95, 0.91, 0.93
+
+Seen small-molecule 231  times
+Seen more 1171  times
+
+
+bio.mskcc_0001.45
+Moreover , given their constitutive phosphorylation on S/TP sites ( Fig . 3D ) , these oncogenic B @-@ Raf mutants were found to interact constitutively with Pin1 ( Fig . 7B ) , indicating that oncogenic B @-@ Raf proteins are dephosphorylated and recycled .
+TP set(['and', 'find-01', 'protein-segment', 'constitutive', 'name', 'cancer', '"7b"', 'interact-01', 'describe-01', '"pin1"', 'this', 'phosphorylate-01', '"b-raf"', '"3d"', 'figure', 'protein', 'mutate-01', 'indicate-01', 'dephosphorylate-01', 'cause-01'])
+FN set(['"s/tp"', 'recycle-01'])
+FP set(['recycled', '"s/ tp"'])
+0.91, 0.91, 0.91
+
+Seen recycle-01 3  times
+
+
+bio.mskcc_0001.46
+Consistent with the model that Pin1 influences B @-@ Raf signaling by facilitating the dephosphorylation of the feedback sites , overexpression of the Pin1 proteins had no effect on the transformation potential of G466A FBm @-@ B @-@ Raf , which lacks the sites of feedback phosphorylation .
+TP set(['"-"', 'transform-01', 'name', 'influence-01', 'facilitate-01', 'dephosphorylate-01', '"pin1"', 'affect-01', 'phosphorylate-01', '"b-raf"', 'express-03', 'consistent-01', 'protein', 'signal-07', 'model', 'feedback'])
+FN set(['"g466a"', 'protein-segment', 'possible', 'have-part-91', 'too', 'mutate-01'])
+FP set(['lack-01', '"fbm"', 'site', 'potential'])
+0.80, 0.73, 0.76
+
+Seen protein-segment 164  times
+Seen possible 2357  times
+Seen have-part-91 51  times
+Seen too 187  times
+Seen mutate-01 375  times
+
+
+bio.mskcc_0001.47
+Previous studies have found that both the C @-@ Raf and B @-@ Raf proteins are targets of ERK @-@ dependent feedback phosphorylation
+TP set(['and', 'name', '"erk"', 'study', 'depend-01', 'feedback', 'find-01', 'phosphorylate-01', '"b-raf"', '"c-raf"', 'protein', 'previous'])
+FN set(['target-01'])
+FP set(['target'])
+0.92, 0.92, 0.92
+
+Seen target-01 148  times
+
+
+bio.mskcc_0001.40
+As shown in Fig. 6A , only mutation of the S151 feedback site , which is in close proximity to the Ras binding domain ( residues 155 to 227 ) , was found to significantly increase binding to activated Ras .
+TP set(['"serine"', 'find-01', 'protein-segment', '"151"', 'name', 'activate-01', 'increase-01', '"155"', '"ras"', 'residue', 'show-01', '"227"', 'only', 'amino-acid', '"6a"', 'close-10', 'figure', 'protein', 'bind-01', 'mutate-01'])
+FN set(['domain', 'feedback', 'significant-02', 'between', 'mean-01'])
+FP set(['"domain"', '"feedback"', 'significant'])
+0.87, 0.80, 0.83
+
+Seen domain 20  times
+Seen feedback 15  times
+Seen significant-02 66  times
+Seen between 187  times
+Seen mean-01 536  times
+
+
+bio.mskcc_0001.41
+In contrast , mutation of S151A , T401A , and S750A T753A were all found to increase C @-@ Raf binding ( Fig . 6A ) , a finding consistent with peptide studies suggesting that there are multiple points of contact between heterodimerized B @- and C @-@ Raf proteins ( 27 ) .
+TP set(['and', 'figure', '"27"', '"s151a"', 'contrast-01', 'cite-01', 'contact-01', 'consistent-01', 'protein', 'publication', 'increase-01', '"c-raf"', 'heterodimerize-00', 'multiple', 'study-01', '"t753a"', '"6a"', 'bind-01', 'mutate-01', 'peptide', 'name', '"t401a"', 'describe-01', 'find-01', 'suggest-01'])
+FN set(['"b-raf"', '"s750a"'])
+FP set(['all', 'point', '"b"'])
+0.89, 0.93, 0.91
+
+Seen "b-raf" 16  times
+
+
+bio.mskcc_0001.42
+Interestingly , when the S729A mutation was introduced into the FBm mutant , binding to C @-@ Raf was abolished ( Fig . 6A ) , indicating that the increased heterodimerization observed when the feedback sites are mutated is still dependent on 14 @-@ 3 @-@ 3 binding .
+TP set(['protein-segment', 'name', 'figure', 'increase-01', 'indicate-01', 'depend-01', 'feedback', 'describe-01', 'abolish-01', 'observe-01', 'heterodimerize-00', '"6a"', '"c-raf"', '"s729a"', '"14-3-3"', 'protein', 'still', 'bind-01', 'introduce-02', 'mutate-01'])
+FN set(['"-"', 'interesting', 'have-part-91', '"b-raf"'])
+FP set(['interest-01', '"fbm"'])
+0.91, 0.83, 0.87
+
+Seen "-" 6793  times
+Seen interesting 30  times
+Seen have-part-91 51  times
+Seen "b-raf" 16  times
+
+
+bio.mskcc_0001.43
+Given that oncogenic B @-@ Raf proteins are targets of feedback phosphorylation , we next examined whether they might also be dephosphorylated and recycled in a manner involving the PP2A phosphatase and the Pin1 prolyl @-@ isomerase .
+TP set(['and', 'dephosphorylate-01', 'we', '"pp2a"', 'name', 'cancer', '"interrogative"', 'target-01', 'next', '"pin1"', 'also', 'phosphorylate-01', 'involve-01', '"b-raf"', 'examine-01', 'protein', 'feedback', 'cause-01'])
+FN set(['possible', 'phosphatase', 'recycle-01', 'prolyl-isomerase'])
+FP set(['give-01', '"phosphatase"', 'recycled', 'they', '"prolyl"', '"isomerase"'])
+0.75, 0.82, 0.78
+
+Seen possible 2357  times
+Seen phosphatase 9  times
+Seen recycle-01 3  times
+
+
+bio-exp_0001.6
+RAF or MEK inhibitors induced luciferase activity of a HER3 promoter construct spanning ~ 1 kb upstream of the transcriptional start site in 8505C cells .
+TP set(['relative-position', 'protein', 'luciferase', 'approximately', 'span-01', 'molecular-physical-entity', 'transcribe-01', 'start-01', '"mek"', 'construct-01', 'upstream', 'distance-quantity', 'inhibit-01', 'protein-segment', '"1"', 'name', 'promote-01', '"her3"', '"raf"', 'induce-01', 'or', 'kilo-base-pair'])
+FN set(['cell', '"8505s"', 'act-01'])
+FP set(['"8505c"', 'cell-line', 'act-02'])
+0.88, 0.88, 0.88
+
+Seen cell 807  times
+Seen act-01 144  times
+
+
+bio-exp_0001.7
+Serial deletions identified a minimal HER3 promoter retaining transcriptional response to vemurafenib and AZD6244 , which was located between -@ 401 and -@ 42 bp ( Fig. 5C ) .
+TP set(['and', 'name', 'figure', '"5c"', 'promote-01', 'identify-01', '"her3"', '"vemurafenib"', 'respond-01', '"azd6244"', 'describe-01', 'retain-01', 'protein', 'delete-01', 'molecular-physical-entity'])
+FN set(['"-42"', 'transcribe-01', 'distance-quantity', 'serial', 'small-molecule', '"-401"', 'thing', 'between', 'base-pair', 'minimal'])
+FP set(['series', '"401"', '"bp"', 'minimum', 'be-located-at-91', '"42"', 'chemical', 'person', 'say-01'])
+0.62, 0.60, 0.61
+
+Seen transcribe-01 99  times
+Seen distance-quantity 127  times
+Seen serial 3  times
+Seen small-molecule 231  times
+Seen thing 2212  times
+Seen between 187  times
+Seen minimal 3  times
+
+
+bio-exp_0001.4
+Similar results were found following treatment with the MEK inhibitor AZD6244 ( not shown ) .
+TP set(['"-"', 'show-01', 'name', 'treat-04', 'resemble-01', 'find-01', '"mek"', '"azd6244"', 'molecular-physical-entity', 'follow-01', 'inhibit-01', 'protein', 'result-01'])
+FN set(['thing'])
+FP set([])
+1.00, 0.93, 0.96
+
+Seen thing 2212  times
+
+
+bio-exp_0001.5
+The effects of the MEK inhibitor on total HER2 , HER3 protein and on pHER3 were dose dependent , and inversely associated with the degree of inhibition of pERK ( Fig. 5B ) .
+TP set(['and', 'depend-01', 'name', 'figure', '"her2"', '"5b"', 'associate-01', 'describe-01', '"mek"', 'inverse', '"her3"', '"erk"', 'affect-01', 'inhibit-01', 'protein', 'total', 'molecular-physical-entity'])
+FN set(['thing', 'phosphorylate-01', 'dose-01'])
+FP set(['degree', '"pher3"', 'dose'])
+0.85, 0.85, 0.85
+
+Seen thing 2212  times
+Seen phosphorylate-01 408  times
+Seen dose-01 6  times
+
+
+bio.mskcc_0001.48
+In the case of C @-@ Raf , six sites of feedback phosphorylation have been identified , five of which are direct targets of activated ERK ( 8 )
+TP set(['feedback', 'activate-01', '"erk"', 'identify-01', 'target-01', 'include-91', 'describe-01', 'cite-01', '"6"', 'phosphorylate-01', 'publication', '"c-raf"', '"5"', 'protein', '"8"', 'name'])
+FN set(['protein-segment', 'direct'])
+FP set(['case', 'be-located-at-91', 'sites'])
+0.84, 0.89, 0.86
+
+Seen protein-segment 164  times
+Seen direct 122  times
+
+
+bio.mskcc_0001.49
+For B @-@ Raf , previous work by Brummer et al. ( 3 ) identified the C @-@ terminal S750 and T753 residues as sites phosphorylated by activated ERK .
+TP set(['"serine"', 'and', '"753"', '"750"', '"b-raf"', 'protein', '"3"', 'previous', 'residue', 'work-01', 'identify-01', 'phosphorylate-01', 'other', '"threonine"', '"c-terminus"', 'activate-01', '"brummer"', 'protein-segment', 'name', 'amino-acid', '"erk"', 'person'])
+FN set(['cite-01', 'publication'])
+FP set([])
+1.00, 0.92, 0.96
+
+Seen cite-01 287  times
+Seen publication 514  times
+
+
+bio-exp_0001.1
+We next examined the mechanisms accounting for the increase in HER3 by MAPK pathway inhibitors in BRAF mutant thyroid cell lines .
+TP set(['thyroid', '"braf"', 'we', 'name', 'molecular-physical-entity', 'increase-01', 'examine-01', '"her3"', 'next', 'mutate-01', 'mechanism', 'cell-line', 'inhibit-01', 'account-01', 'protein', 'gene', 'pathway', '"mapk"'])
+FN set(['dna', 'encode-01'])
+FP set([])
+1.00, 0.90, 0.95
+
+Seen dna 47  times
+Seen encode-01 72  times
+
+
+bio.bmtr_0002.9
+To test this hypothesis , we transiently transfected CHO @-@ KI cells , which do not express ERBB receptors endogenously , with wild @-@ type ERBB3 with either wild @-@ type EGFR or EGFR T669A .
+TP set(['"-"', 'hypothesize-01', 'we', '"erbb3"', 'name', '"egfr"', '"cho-ki"', 'this', 'test-01', 'express-03', 'endogenous', 'thing', 'transient', 'receptor', '"erbb"', 'cell-line', '"t669a"', 'wild-type', 'protein', 'or', 'transfect-00'])
+FN set(['and', 'cell', 'mutate-01'])
+FP set(['do-02', 'either'])
+0.91, 0.88, 0.89
+
+Seen and 10176  times
+Seen cell 807  times
+Seen mutate-01 375  times
+
+
+bio.bmtr_0004.11
+These results indicate that variations in the linker length on this scale ( 1 @-@ 2 bonds ) do not influence the sensitivity of mUbRas to GAP downregulation .
+TP set(['"-"', 'link-01', '"1"', 'name', 'downregulate-01', 'this', 'indicate-01', '"gap"', 'thing', 'length', 'protein', 'vary-01', 'result-01', 'influence-01'])
+FN set(['ubiquitinate-01', 'sensitive-03', '"ras"', 'protein-segment', 'or', '"2"', 'bond'])
+FP set(['"mubras"', 'scale', 'sensitivity', 'describe-01', '"bond"'])
+0.74, 0.67, 0.70
+
+Seen ubiquitinate-01 26  times
+Seen sensitive-03 14  times
+Seen "ras" 185  times
+Seen protein-segment 164  times
+Seen or 1102  times
+Seen "2" 834  times
+Seen bond 3  times
+
+
+bio.bmtr_0002.8
+We hypothesized that MEK inhibition activates AKT by inhibiting ERK activity , which blocks an inhibitory threonine phosphorylation on the JM domains of EGFR and HER2 , thereby increasing ERBB3 phosphorylation .
+TP set(['"domain"', '"threonine"', 'we', '"erbb3"', 'name', 'activate-01', 'increase-01', '"her2"', 'block-01', '"akt"', 'protein-segment', 'act-02', '"mek"', 'hypothesize-01', 'amino-acid', '"egfr"', '"erk"', 'inhibit-01', 'protein', '"jm"', 'phosphorylate-01'])
+FN set(['or'])
+FP set(['and'])
+0.95, 0.95, 0.95
+
+Seen or 1102  times
+
+
+bio.bmtr_0005.23
+Additionally , RAS/Raf/MAPK pathway activation stabilizes ASPP2 protein , although the underlying mechanism remains to be investigated .
+TP set(['and', 'name', 'activate-01', 'stabilize-01', 'mechanism', 'underlie-01', 'remain-01', '"aspp2"', 'investigate-01', 'protein', 'pathway'])
+FN set(['"ras/raf/mapk"'])
+FP set(['have-concession-91', '"ras/ raf/ mapk"'])
+0.85, 0.92, 0.88
+
+
+
+bio.bmtr_0005.22
+We show here that ASPP2 is phosphorylated by the RAS/Raf/MAPK pathway and that this phosphorylation leads to its increased translocation to the cytosol @/@ nucleus and increased binding to p53 , providing an explanation of how RAS can activate p53 pro @-@ apoptotic functions ( Figure 5 ) .
+TP set(['and', 'figure', 'increase-01', 'explain-01', '"5"', 'protein', 'translocate-00', 'phosphorylate-01', 'pathway', 'we', 'activate-01', 'lead-03', 'apoptosis', '"ras"', 'possible', 'here', 'favor-01', 'nucleus', '"aspp2"', 'bind-01', 'name', 'show-01', '"p53"', 'describe-01', 'function-01'])
+FN set(['"ras/raf/mapk"', 'slash', 'cytosol'])
+FP set(['this', 'provide-01', 'thing', '"cytosol"', '"ras/ raf/ mapk"'])
+0.83, 0.89, 0.86
+
+Seen slash 183  times
+Seen cytosol 8  times
+
+
+bio.bmtr_0005.21
+Until now , it has been unclear how RAS could affect ASPP2 to enhance p53 function .
+TP set(['"-"', 'enhance-01', '"p53"', 'clear', '"ras"', 'possible', 'thing', '"aspp2"', 'function-01', 'affect-01', 'protein', 'now', 'until', 'name'])
+FN set(['cause-01'])
+FP set(['it'])
+0.93, 0.93, 0.93
+
+Seen cause-01 2377  times
+
+
+bio.bmtr_0005.20
+Moreover , the RAS @-@ ASPP interaction enhances the transcription function of p53 in cancer cells [2].
+TP set(['and', 'cancer', 'enhance-01', '"p53"', '"aspp"', 'interact-01', 'transcribe-01', '"ras"', 'cell', 'function-01', 'protein', 'name'])
+FN set(['cite-01', '"2"', 'describe-01', 'publication'])
+FP set(['"[2]."'])
+0.92, 0.75, 0.83
+
+Seen cite-01 287  times
+Seen "2" 834  times
+Seen describe-01 1138  times
+Seen publication 514  times
+
+
+bio.bmtr_0002.13
+We observed analogous results in CHO @-@ KI cells expressing wild @-@ type ERBB3 in combination with wild @-@ type or T677A mutant HER2 ( Figure 6B ) .
+TP set(['"t677a"', 'we', '"erbb3"', 'name', 'figure', '"cho-ki"', '"her2"', 'describe-01', 'or', '"6b"', 'thing', 'observe-01', 'express-03', 'protein', 'mutate-01', 'result-01', 'cell-line', 'wild-type'])
+FN set(['cell', 'analogous'])
+FP set(['analogue', 'combine-01'])
+0.90, 0.90, 0.90
+
+Seen cell 807  times
+Seen analogous 1  times
+
+
+bio.bmtr_0004.8
+We obtained similar results using K @-@ Ras ( Supplementary Figure 6 ) , indicating that the effects of monoubiquitination on Ras are not isoform @-@ specific .
+TP set(['"-"', 'isoform', 'we', 'obtain-01', 'name', 'figure', '"6"', 'indicate-01', 'resemble-01', '"ras"', 'describe-01', 'ubiquitinate-01', 'specific', '"k-ras"', 'use-01', 'affect-01', '"1"', 'protein', 'thing', 'result-01', 'supplement-01'])
+FN set([])
+FP set([])
+1.00, 1.00, 1.00
+
+
+
+bio.bmtr_0002.19
+As expected , addition of AZD6244 failed to further augment ERBB3 and AKT phosphorylation in cells expressing the 669A mutant .
+TP set(['and', '"erbb3"', 'name', 'add-02', '"akt"', 'cell', 'phosphorylate-01', '"azd6244"', 'augment-01', 'express-03', 'further', 'protein', 'expect-01', 'mutate-01'])
+FN set(['"-"', '"669"', 'amino-acid', 'small-molecule', 'pathway'])
+FP set(['chemical', '"669a"', 'fail-01'])
+0.82, 0.74, 0.78
+
+Seen "-" 6793  times
+Seen amino-acid 326  times
+Seen small-molecule 231  times
+Seen pathway 181  times
+
+
+bio.mskcc_0001.22
+When we next examined the effect of feedback phosphorylation on the ability of oncogenic B @-@ Raf to form heterodimers with C @-@ Raf , we found that the levels of endogenous C @-@ Raf associating with B @-@ Raf proteins of high ( V600E ) , intermediate ( G466A ) , and impaired ( D594G ) kinase activities all increased when the feedback sites were mutated , indicating that feedback phosphorylation also inhibits the heterodimerization of oncogenic B @-@ Raf proteins ( Fig . 3D ) .
+TP set(['and', 'feedback', 'cancer', 'increase-01', 'high', 'associate-01', '"b-raf"', 'affect-01', 'protein', 'indicate-01', 'cause-01', 'figure', 'next', 'also', 'phosphorylate-01', 'intermediate', '"c-raf"', 'heterodimerize-00', '"g466a"', 'we', 'impair-01', '"v600e"', 'inhibit-01', 'mutate-01', 'protein-segment', 'name', 'level', 'examine-01', 'describe-01', 'find-01', '"d594g"', '"3d"'])
+FN set(['kinase', 'possible', 'endogenous', 'act-01'])
+FP set(['"kinase"', 'all', 'form-01', 'multi-sentence', 'act-02', 'capable-01', 'heterodimer'])
+0.82, 0.89, 0.85
+
+Seen kinase 148  times
+Seen possible 2357  times
+Seen endogenous 14  times
+Seen act-01 144  times
+
+
+bio.mskcc_0001.23
+Previous studies have shown that , for both normal and oncogenic B @-@ Raf proteins to heterodimerize with C @-@ Raf , the C @-@ terminal 14 @-@ 3 @-@ 3 binding site of C @-@ Raf ( S621 ) must be intact ( 11 , 27 ) ( Fig . 3E ) .
+TP set(['and', '"serine"', '"621"', 'figure', '"27"', 'cite-01', '"b-raf"', '"14-3-3"', 'protein', 'intact', 'cause-01', 'cancer', '"3e"', '"c-raf"', 'heterodimerize-00', 'previous', '"c-terminus"', 'normal', 'protein-segment', 'bind-01', 'show-01', 'name', 'amino-acid', 'describe-01', '"11"'])
+FN set(['require-01', 'study'])
+FP set(['both', 'publication', 'value-interval', 'obligate-01', 'study-01', 'express-03'])
+0.81, 0.93, 0.86
+
+Seen require-01 142  times
+Seen study 22  times
+
+
+bio.mskcc_0001.20
+These findings support a model whereby feedback phosphorylation disrupts Raf heterodimerization .
+TP set(['model', 'name', 'support-01', 'this', 'find-01', 'thing', 'phosphorylate-01', '"raf"', 'disrupt-01', 'protein', 'heterodimerize-00', 'feedback'])
+FN set([])
+FP set(['whereby'])
+0.92, 1.00, 0.96
+
+
+
+bio.mskcc_0001.21
+Unlike WT B @-@ Raf , oncogenic B @-@ Raf proteins have been shown to heterodimerize constitutively with C @-@ Raf in a Ras @-@ independent manner ( 11 ) .
+TP set(['"-"', 'show-01', 'constitutive', 'name', 'cancer', 'publication', 'depend-01', '"ras"', 'cite-01', 'heterodimerize-00', '"b-raf"', '"c-raf"', 'wild-type', 'protein', '"11"', 'cause-01'])
+FN set(['contrast-01'])
+FP set(['resemble-01', 'describe-01'])
+0.89, 0.94, 0.91
+
+Seen contrast-01 1440  times
+
+
+bio.mskcc_0001.26
+In contrast , S729A B @-@ Raf failed to heterodimerize with C @-@ Raf in response to growth factor treatment , and mutation of this site disrupted the constitutive interaction of oncogenic B @-@ Raf proteins and C @-@ Raf ( Fig . 3F ) , indicating that heterodimerization with C @-@ Raf is dependent on the C @-@ terminal S729 14 @-@ 3 @-@ 3 binding site of B @-@ Raf .
+TP set(['and', '"serine"', 'figure', '"3f"', '"b-raf"', '"14-3-3"', 'protein', 'indicate-01', 'cause-01', 'cancer', 'fail-01', 'treat-04', 'respond-01', '"c-raf"', 'interact-01', 'heterodimerize-00', '"c-terminus"', '"729"', 'depend-01', 'disrupt-01', 'bind-01', 'mutate-01', 'protein-segment', 'name', 'amino-acid', '"factor"', 'contrast-01', 'describe-01', 'constitutive', '"growth"'])
+FN set(['small-molecule', '"s729a"'])
+FP set(['chemical', 'this', 'multi-sentence'])
+0.91, 0.94, 0.92
+
+Seen small-molecule 231  times
+
+
+bio.mskcc_0001.27
+Previous studies have found that all oncogenic B @-@ Raf proteins can activate C @-@ Raf and that heterodimerization with C @-@ Raf is required for kinase @-@ impaired oncogenic B @-@ Raf proteins to mediate ERK activation in vivo ( 31 ) .
+TP set(['and', 'cite-01', 'cancer', 'name', 'activate-01', 'mediate-01', 'study', '"31"', 'all', 'impair-01', 'in-vivo', 'find-01', 'require-01', '"b-raf"', '"c-raf"', '"erk"', 'protein', 'previous', 'heterodimerize-00', 'possible', 'cause-01'])
+FN set(['kinase', 'act-01'])
+FP set(['"kinase"', 'publication', 'describe-01'])
+0.88, 0.91, 0.89
+
+Seen kinase 148  times
+Seen act-01 144  times
+
+
+bio.mskcc_0001.24
+To determine whether binding of 14 @-@ 3 @-@ 3 to B @-@ Raf is also required for heterodimerization , B @-@ Raf proteins containing lanine substitutions in the two 14 @-@ 3 @-@ 3 binding sites , S365 and S729 ( 2 ) , were examined for their abilities to heterodimerize with C @-@ Raf in response to growth factor treatment .
+TP set(['"serine"', '"growth"', 'name', 'amino-acid', 'require-01', 'examine-01', '"factor"', '"365"', 'also', 'heterodimerize-00', 'respond-01', '"b-raf"', '"c-raf"', 'treat-04', '"14-3-3"', 'protein', 'bind-01', 'determine-01', '"729"', 'substitute-01'])
+FN set(['small-molecule', '"interrogative"', 'possible', '"alanine"'])
+FP set(['and', 'multi-sentence', 'cite-01', 'cause-01', 'publication', '"2"', 'chemical', 'capable-01', '"lanine"', 'protein-segment', 'contain-01', 'describe-01'])
+0.62, 0.83, 0.71
+
+Seen small-molecule 231  times
+Seen "interrogative" 800  times
+Seen possible 2357  times
+Seen "alanine" 5  times
+
+
+bio.mskcc_0001.25
+Not surprisingly , given that mutation of the S365 14 @-@ 3 @-@ 3 binding site enhances the membrane localization of B @-@ Raf ( 2 ) , increased heterodimerization with C @-@ Raf was observed for S365A B @-@ Raf compared to WT B @-@ Raf ( Fig . 3F ) .
+TP set(['"serine"', '"-"', 'figure', 'increase-01', '"3f"', 'cite-01', '"b-raf"', 'be-located-at-91', 'wild-type', '"14-3-3"', 'protein', 'cause-01', 'enhance-01', 'publication', '"c-raf"', 'membrane', 'heterodimerize-00', 'bind-01', '"2"', 'mutate-01', 'surprise-01', 'name', 'amino-acid', '"365"', 'describe-01', 'observe-01'])
+FN set(['"s365a"'])
+FP set(['protein-segment', 'compare-01'])
+0.93, 0.96, 0.95
+
+
+
+bio.bel_0002.6
+siRNA @-@ mediated depletion of B @-@ Raf reduced cell proliferation by up to 65 % through the inhibition of ERK1 @/@ 2 activation , irrespective of the mutational status of B @-@ Raf .
+TP set(['mediate-01', 'percentage-entity', 'reduce-01', 'name', 'activate-01', '"65"', 'cell', 'status', '"sirna"', '"b-raf"', 'up-to', 'proliferate-01', 'inhibit-01', 'protein', 'mutate-01', 'deplete-01'])
+FN set(['rna-region', '"erk1/2"'])
+FP set(['"erk1/ 2"'])
+0.94, 0.89, 0.91
+
+Seen rna-region 2  times
+Seen "erk1/2" 30  times
+
+
+bio.bmtr_0003.21
+The biochemical mechanisms involved in delocalization of CtBPs by MAPK inhibition have not been explored , but posttranslational modifications are known to regulate the repressive activity of CtBPs either by translocation to the cytoplasm or by targeting them for degradation ( 36 , 37 ) .
+TP set(['and', '"-"', 'modify-01', 'cytoplasm', 'cite-01', 'protein', 'publication', 'explore-01', 'mechanism', 'translocate-00', '"37"', 'after', 'target-01', '"mapk"', 'repress-01', 'degrade-01', 'inhibit-01', 'regulate-01', 'involve-01', 'name', 'contrast-01', 'describe-01', 'or', 'biochemical', '"36"'])
+FN set(['know-01', 'delocalize-00', 'pathway', 'translation', 'act-02', '"ctbp"'])
+FP set(['either', 'know-02', '"ctbps"'])
+0.89, 0.81, 0.85
+
+Seen know-01 461  times
+Seen delocalize-00 1  times
+Seen pathway 181  times
+Seen act-02 184  times
+
+
+bio.mskcc_0001.28
+Therefore , to further investigate both the impact of feedback phosphorylation and the contribution of heterodimerization to oncogenic B @-@ Raf function , we examined the transformation potential of oncogenic B @-@ Raf proteins containing mutations in either the feedback phosphorylation sites ( which exhibit increased heterodimerization ) or the S729 14 @-@ 3 @-@ 3 binding site ( which are unable to heterodimerize ) .
+TP set(['"-"', 'and', 'feedback', 'cancer', 'increase-01', '"b-raf"', '"14-3-3"', 'further', 'protein', 'cause-01', 'phosphorylate-01', 'exhibit-01', 'heterodimerize-00', 'impact-01', '"serine"', 'we', '"729"', 'possible', 'contribute-01', 'investigate-01', 'bind-01', 'mutate-01', 'protein-segment', 'transform-01', 'name', 'amino-acid', 'examine-01', 'function-01', 'or'])
+FN set(['infer-01'])
+FP set(['both', 'multi-sentence', 'site', 'contain-01', 'potential', 'either', 'amr-unknown'])
+0.81, 0.97, 0.88
+
+Seen infer-01 99  times
+
+
+bio.mskcc_0001.29
+For these studies , FBm or S729A mutations were incorporated into a number of oncogenic B @-@ Raf proteins that exhibit various levels of kinase activity .
+TP set(['name', 'cancer', 'level', 'this', 'number', 'exhibit-01', 'various', '"b-raf"', '"s729a"', 'protein', 'cause-01', 'or', 'mutate-01'])
+FN set(['"-"', 'feedback', 'incorporate-02', 'act-01', 'protein-segment', 'study', 'kinase', 'have-part-91'])
+FP set(['"kinase"', 'incorporate-01', '"fbm"', 'study-01', 'act-02'])
+0.72, 0.62, 0.67
+
+Seen "-" 6793  times
+Seen feedback 15  times
+Seen incorporate-02 5  times
+Seen act-01 144  times
+Seen protein-segment 164  times
+Seen study 22  times
+Seen kinase 148  times
+Seen have-part-91 51  times
+
+
+bio.bmtr_0004.19
+A major advance was our ability to easily generate mUbRas , modified at a single site , in a form suitable for detailed biophysical studies .
+TP set(['major', 'modify-01', 'name', 'form', 'generate-01', 'study-01', 'we', 'single', 'easy', 'protein', 'suitable-04', 'capable-01'])
+FN set(['"ras"', 'biophysical', '"1"', 'advance', 'protein-segment', 'detail-01', 'ubiquitinate-01'])
+FP set(['site', 'biophysics', 'detail', '"mubras"', 'advance-01'])
+0.71, 0.63, 0.67
+
+Seen "ras" 185  times
+Seen "1" 1424  times
+Seen advance 3  times
+Seen protein-segment 164  times
+Seen detail-01 26  times
+Seen ubiquitinate-01 26  times
+
+
+bio.bmtr_0004.18
+Here we show that monoubiquitination decreases the sensitivity of Ras to GAP @-@ mediated hydrolysis .
+TP set(['show-01', 'decrease-01', '"1"', 'name', 'hydrolyze-01', 'mediate-01', '"ras"', 'we', 'here', 'protein', 'ubiquitinate-01', '"gap"'])
+FN set(['sensitive-03'])
+FP set(['sensitivity'])
+0.92, 0.92, 0.92
+
+Seen sensitive-03 14  times
+
+
+bio.bel_0002.1
+Protein kinase A @-@ dependent phosphorylation of serine 43 within the regulatory domain of Raf @-@ 1 reciprocally potentiates its interaction with Rheb and decreases its interaction with H @-@ Ras .
+TP set(['"serine"', '"kinase"', 'and', 'reciprocal', '"raf-1"', 'name', 'amino-acid', '"h-ras"', '"43"', 'depend-01', 'decrease-01', '"protein"', 'phosphorylate-01', '"a"', 'interact-01', 'protein', 'potentiate-00', 'regulate-01', '"rheb"'])
+FN set(['domain'])
+FP set(['protein-segment'])
+0.95, 0.95, 0.95
+
+Seen domain 20  times
+
+
+bio.bmtr_0002.17
+When endogenous EGFR was replaced with EGFR ( exon19 del ) wild @-@ type at T669 , MEK inhibition led to significant feedback activation of ERBB3/PI3K/AKT signaling ( Figure 6C ) .
+TP set(['"threonine"', '"669"', 'name', 'figure', 'lead-03', 'feedback', '"mek"', 'describe-01', '"egfr"', 'amino-acid', 'replace-01', 'significant-02', 'wild-type', 'inhibit-01', 'protein', '"6c"', 'activate-01', 'signal-07'])
+FN set(['pathway', '"19"', 'exon', '"erbb3/pi3k/akt"', 'endogenous', 'delete-01'])
+FP set(['"exon19"', '"del"', '"erbb3/ pi3k/ akt"', 'monocot'])
+0.82, 0.75, 0.78
+
+Seen pathway 181  times
+Seen "19" 67  times
+Seen endogenous 14  times
+Seen delete-01 15  times
+
+
+bio.bmtr_0004.1
+Site @-@ Specific Monoubiquitination Activates Ras by Impeding GTPase Activating Protein ( PMC3537887 )
+TP set(['specific', 'protein-segment', '"1"', 'name', 'activate-01', '"ras"', '"gtpase"', '"pmc3537887"', 'protein', 'impede-01', 'ubiquitinate-01'])
+FN set(['"protein"', 'publication-91', '"activating"'])
+FP set([])
+1.00, 0.79, 0.88
+
+Seen "protein" 45  times
+Seen publication-91 277  times
+
+
+bio.bmtr_0002.12
+As a control , we treated CHO @-@ KI cells expressing EGFR T669A with HRG ligand to induce maximal ERBB3 phosphorylation ( Figure 6A ) , indicating that the lack of induction of phospho @-@ ERBB3 in EGFR T669A expressing cells following MEK inhibition was not simply due to the saturation of the system with phospho @-@ ERBB3 .
+TP set(['"-"', '"egfr"', 'simple', 'cell-line', 'indicate-01', 'protein', 'cause-01', 'figure', 'treat-04', 'system', 'cell', 'phosphorylate-01', 'control-01', 'induce-01', 'we', '"erbb3"', '"mek"', '"6a"', 'follow-01', 'inhibit-01', 'ligand', 'name', 'lack-01', '"cho-ki"', 'maximum', 'describe-01', '"t669a"', 'express-03'])
+FN set(['"hrg"', 'saturate-01', 'mutate-01'])
+FP set(['saturate-00'])
+0.97, 0.90, 0.93
+
+Seen mutate-01 375  times
+
+
+bio.bmtr_0002.11
+In contrast , the EGFR T669A mutant increased both basal EGFR and ERBB3 tyrosine phosphorylation that was not augmented by MEK inhibition .
+TP set(['"-"', 'and', '"erbb3"', 'name', '"egfr"', 'increase-01', 'augment-01', 'contrast-01', 'basal', '"mek"', 'amino-acid', '"t669a"', 'inhibit-01', 'protein', '"tyrosine"', 'phosphorylate-01', 'mutate-01'])
+FN set([])
+FP set([])
+1.00, 1.00, 1.00
+
+
+
+bio.mskcc_0001.12
+Complex formation between B @-@ Raf and Pin1 correlated with the phosphorylation of B @-@ Raf on S/TP sites ( Fig . 1C ) and this interaction could be blocked when the MEK inhibitor U0126 was used to prevent ERK activation and the S/TP phosphorylation of B @-@ Raf ( Fig . 1D ) .
+TP set(['and', '"1d"', 'figure', 'block-01', 'protein', 'prevent-01', 'phosphorylate-01', 'activate-01', 'correlate-01', 'possible', '"pin1"', '"mek"', '"u0126"', '"1c"', 'inhibit-01', 'form-01', 'protein-segment', 'name', '"erk"', 'describe-01', 'use-01', '"b-raf"'])
+FN set(['"s/tp"', 'macro-molecular-complex', 'small-molecule'])
+FP set(['this', 'interact-01', '"s/ tp"', 'complex', 'molecular-physical-entity'])
+0.81, 0.88, 0.85
+
+Seen macro-molecular-complex 192  times
+Seen small-molecule 231  times
+
+
+bio.bmtr_0005.16
+Of the two radioactive peaks , one represented the linker region between the GST and our ASPP2 fragment and the other corresponded to a fragment of the same mass as that containing the second putative phosphorylation site , serine 827 .
+TP set(['"serine"', 'and', '"827"', '"gst"', 'correspond-02', 'protein', 'include-91', 'represent-01', 'phosphorylate-01', 'other', 'we', 'link-01', 'think-01', 'peak', '"2"', 'protein-segment', 'radioactive', 'name', 'amino-acid', 'region', 'mass', 'ordinal-entity', '"aspp2"'])
+FN set(['equal-01'])
+FP set(['"1"', 'fragment', 'same-01', 'contain-01', 'person', 'fibroblast'])
+0.79, 0.96, 0.87
+
+Seen equal-01 88  times
+
+
+bio.bmtr_0005.17
+Hence ASPP2 can be phosphorylated at serine 827 by MAPK1 in vitro .
+TP set(['"serine"', 'name', 'amino-acid', '"827"', 'possible', 'phosphorylate-01', '"aspp2"', 'protein', 'cause-01', 'in-vitro', '"mapk1"'])
+FN set([])
+FP set([])
+1.00, 1.00, 1.00
+
+
+
+bio.bmtr_0005.14
+Each eluted fraction was measured for its radioactivity content ( Figure 1B , right panel ) .
+TP set(['figure', 'measure-01', 'describe-01', '"1b"', 'contain-01', 'fraction', 'each', 'elute-00', 'panel'])
+FN set(['thing', 'right', 'radioactive'])
+FP set(['radioactivity', 'right-04', 'it'])
+0.75, 0.75, 0.75
+
+Seen thing 2212  times
+Seen right 214  times
+Seen radioactive 15  times
+
+
+bio.ras_0003.1
+We utilized an unbiased mass spectrometry - based approach to identify ubiquitination sites of Ras .
+TP set(['utilize-01', '"-"', 'protein-segment', 'identify-01', 'name', '"ras"', 'we', 'bias-01', 'base-02', 'approach-02', 'mass', 'protein', 'spectrometry', 'ubiquitinate-01'])
+FN set([])
+FP set([])
+1.00, 1.00, 1.00
+
+
+
+bio.bmtr_0005.12
+As shown in Figure S1 , histone 2B phosphorylated by p38 SAPK had high levels of incorporated 32P , suggesting that p38 SAPK was active ; while under the same conditions , ASPP2 ( 693 @-@ 1128 ) fragment phosphorylated by p38 SAPK had very low levels of incorporated 32P , indicating that p38 SAPK is not an efficient kinase for ASPP2 phosphorylation .
+TP set(['"-"', 'figure', 'same-01', 'high', 'protein', 'indicate-01', 'phosphorylate-01', '"693"', 'activate-01', 'very', '"s1"', '"aspp2"', '"sapk"', 'low-04', 'show-01', 'name', '"p38"', 'level', 'contrast-01', '"1128"', 'efficient-01', 'suggest-01', '"2b"'])
+FN set(['"histone"', 'have-part-91', 'between', '"32"', 'incorporate-02', 'protein-segment', 'phosphorus', 'amino-acid', 'thing', 'molecular-mass'])
+FP set(['"kinase"', 'multi-sentence', 'have-03', '"32p"', 'fragment', 'under', 'histone', 'condition', 'describe-01', '"incorporated"'])
+0.70, 0.70, 0.70
+
+Seen have-part-91 51  times
+Seen between 187  times
+Seen "32" 21  times
+Seen incorporate-02 5  times
+Seen protein-segment 164  times
+Seen phosphorus 1  times
+Seen amino-acid 326  times
+Seen thing 2212  times
+Seen molecular-mass 5  times
+
+
+bio.bmtr_0005.13
+The phosphorylated ASPP2 fragment by MAPK1 was digested by trypsin and fractioned on a high performance liquid chromatography ( HPLC ) .
+TP set(['and', 'fraction-01', 'digest-01', 'liquid', '"mapk1"', 'chromatography', '"trypsin"', 'high', 'phosphorylate-01', '"aspp2"', 'protein', 'perform-01', 'name'])
+FN set(['protein-segment'])
+FP set(['fragment', 'hplc'])
+0.87, 0.93, 0.90
+
+Seen protein-segment 164  times
+
+
+bio.bel_0002.3
+Importantly , we show that wild @-@ type B @-@ RAF can also activate C @-@ RAF .
+TP set(['we', 'name', 'activate-01', 'show-01', 'possible', 'also', 'important', '"b-raf"', '"c-raf"', 'wild-type', 'protein'])
+FN set([])
+FP set([])
+1.00, 1.00, 1.00
+
+
+
+bio.bmtr_0005.11
+When compared to p38 SAPK , MAPK1 was clearly able to phosphorylate the ASPP2 fragment in vitro ( Figure 1B , left and middle panels ) .
+TP set(['and', 'name', '"p38"', 'clear', 'describe-01', 'middle', 'phosphorylate-01', '"1b"', '"aspp2"', 'left', 'figure', 'protein', '"sapk"', 'in-vitro', 'panel', '"mapk1"'])
+FN set(['protein-segment', 'possible'])
+FP set(['fragment', 'compare-01', 'capable-01'])
+0.84, 0.89, 0.86
+
+Seen protein-segment 164  times
+Seen possible 2357  times
+
+
+bio.ras_0003.6
+H @-@ Ras ubiquitination sites were also determined by the same approach .
+TP set(['protein-segment', 'name', '"h-ras"', 'same-01', 'ubiquitinate-01', 'approach-02', 'also', 'protein', 'determine-01'])
+FN set([])
+FP set([])
+1.00, 1.00, 1.00
+
+
+
+bio.bmtr_0002.20
+These results demonstrate that EGFR T669 phosphorylation is necessary for MEK @/@ ERK to suppress EGFR @-@ mediated activation of ERBB3 .
+TP set(['"threonine"', '"erbb3"', 'amino-acid', '"egfr"', 'need-01', 'this', 'demonstrate-01', '"669"', 'activate-01', 'thing', 'phosphorylate-01', 'suppress-01', 'mediate-01', 'protein', 'result-01', 'name'])
+FN set(['pathway', '"mek/erk"'])
+FP set(['"mek/ erk"'])
+0.94, 0.89, 0.91
+
+Seen pathway 181  times
+
+
+bio.bmtr_0005.18
+Passage 1 @-@ 2 ( Discussion/Conclusion )
+TP set([])
+FN set(['discuss-01', 'thing', 'slash', '"1-2"', 'conclude-01', 'passage'])
+FP set(['"sos-1"', 'name', '"discussion/ conclusion"', 'mean-01', 'pass-01', 'protein'])
+0.00, 0.00, 0.00
+
+Seen discuss-01 143  times
+Seen thing 2212  times
+Seen slash 183  times
+Seen conclude-01 31  times
+Seen passage 3  times
+
+
+bio.bmtr_0005.19
+We and others have recently shown that ASPP2 can potentiate RAS signaling by binding directly via the ASPP2 N @-@ terminus [2,6].
+TP set(['and', 'we', 'name', '"ras"', 'show-01', 'protein-segment', 'possible', 'direct', 'person', 'other', '"aspp2"', '"n-terminus"', 'protein', 'bind-01', 'recent'])
+FN set(['value-interval', 'cite-01', '"6"', '"2"', 'signal-07', 'publication', 'potentiate-00', 'describe-01'])
+FP set(['"[2,6]."', 'via', 'signal-01'])
+0.83, 0.65, 0.73
+
+Seen value-interval 46  times
+Seen cite-01 287  times
+Seen "6" 265  times
+Seen "2" 834  times
+Seen signal-07 117  times
+Seen publication 514  times
+Seen potentiate-00 2  times
+Seen describe-01 1138  times
+
+
+bio.mskcc_0001.17
+These findings are similar to what has been observed for C @-@ Raf ( 8 ) and suggest that feedback phosphorylation is a conserved mechanism used to disrupt the Ras @/@ Raf interaction .
+TP set(['and', 'feedback', 'this', 'interact-01', 'resemble-01', '"ras"', 'phosphorylate-01', 'mechanism', 'observe-01', 'suggest-01', 'disrupt-01', '"c-raf"', 'use-01', '"raf"', 'protein', 'name'])
+FN set(['find-01', 'publication', 'conserve-01', 'describe-01', 'cite-01', 'thing', '"8"'])
+FP set(['conserved', 'finding'])
+0.89, 0.70, 0.78
+
+Seen find-01 263  times
+Seen publication 514  times
+Seen conserve-01 10  times
+Seen describe-01 1138  times
+Seen cite-01 287  times
+Seen thing 2212  times
+Seen "8" 206  times
+
+
+bio.mskcc_0001.16
+Consistent with this model , we found that when purified activated ERK was incubated with kinase @-@ dead B @-@ Raf( K375M ) in vitro , ERK strongly phosphorylated B @-@ Raf on the S151 , S750 , and T753 sites , with phosphorylation of T401 also observed ( Fig . 2B ) .
+TP set(['and', '"serine"', '"753"', 'figure', '"750"', '"b-raf"', '"k375m"', 'consistent-01', 'protein', 'kinase', 'also', 'phosphorylate-01', '"threonine"', 'we', '"151"', 'activate-01', '"401"', 'purify-01', 'strong', 'in-vitro', 'incubate-01', 'mutate-01', 'name', 'amino-acid', 'this', '"erk"', 'describe-01', 'find-01', 'observe-01', 'function-01', 'model', '"2b"'])
+FN set(['"-"'])
+FP set(['protein-segment'])
+0.97, 0.97, 0.97
+
+Seen "-" 6793  times
+
+
+bio.mskcc_0001.15
+All four of these identified sites are followed by a proline residue , and their phosphorylation could be blocked by pretreating cells with the MEK inhibitor U0126 ( Fig . 2A ) , suggesting that these residues are feedback targets of the proline @-@ directed kinase , ERK .
+TP set(['and', 'all', 'feedback', 'figure', 'block-01', 'protein', 'residue', '"proline"', 'identify-01', 'cell', '"2a"', 'phosphorylate-01', 'direct-01', 'possible', '"mek"', '"u0126"', '"4"', 'follow-01', 'inhibit-01', 'name', 'amino-acid', 'this', '"erk"', 'describe-01', 'suggest-01'])
+FN set(['protein-segment', 'small-molecule', 'treat-04', 'kinase', 'before'])
+FP set(['"pretreating"', 'target-01', 'site', 'molecular-physical-entity'])
+0.86, 0.83, 0.85
+
+Seen protein-segment 164  times
+Seen small-molecule 231  times
+Seen treat-04 119  times
+Seen kinase 148  times
+Seen before 400  times
+
+
+bio.mskcc_0001.14
+Eluting in HPLC fractions 78 to 79 was a peptide phosphorylated on S750 and T753 , the previously identified ERK sites , and eluting in fractions 26 and 58 to 59 were peptides phosphorylated at S151 and T401 , respectively .
+TP set(['and', '"serine"', '"753"', '"750"', '"151"', 'protein', 'elute-00', 'previous', '"59"', 'identify-01', 'phosphorylate-01', 'fraction', 'between', '"79"', '"threonine"', 'peptide', '"78"', '"401"', '"58"', 'name', 'amino-acid', '"erk"', '"26"'])
+FN set(['protein-segment', 'hplc'])
+FP set(['respective', 'publication', 'site', 'describe-01', 'cite-01'])
+0.82, 0.92, 0.87
+
+Seen protein-segment 164  times
+
+
+bio.mskcc_0001.13
+Together , these findings indicate that Pin1 is needed for the efficient dephosphorylation of B @-@ Raf and are consistent with the model that S/TP phosphorylation inhibits Raf signaling .
+TP set(['find-01', 'name', 'need-01', 'this', 'model', 'together', '"pin1"', 'thing', 'phosphorylate-01', 'efficient-01', '"raf"', '"b-raf"', 'consistent-01', 'inhibit-01', 'protein', 'indicate-01', 'dephosphorylate-01', 'signal-07'])
+FN set(['and', '"s/tp"', 'protein-segment'])
+FP set(['"s/ tp"'])
+0.95, 0.86, 0.90
+
+Seen and 10176  times
+Seen protein-segment 164  times
+
+
+bio.ras_0003.4
+His - ubiquitinated K @-@ Ras was subsequently purified with anti - Flag resin .
+TP set(['name', '"histidine"', 'subsequent', 'resin', '"k-ras"', 'purify-01', 'amino-acid', 'counter-01', 'ubiquitinate-01', 'protein'])
+FN set(['protein-segment', '"flag"'])
+FP set(['flag'])
+0.91, 0.83, 0.87
+
+Seen protein-segment 164  times
+
+
+bio.mskcc_0001.11
+The Pin1 prolyl @-@ isomerase binds specifically to phosphorylated S/TP ( pS/TP ) motifs ( 33 ) , and isomerization of the pS @/@ TP bond is required for PP2A to efficiently dephosphorylate certain proteins , such as cdc25C , Myc , and C @-@ Raf ( 16 ) .
+TP set(['and', 'specific', '"cdc25c"', '"pp2a"', 'name', '"myc"', 'certain', 'describe-01', '"33"', 'cite-01', '"pin1"', 'require-01', 'phosphorylate-01', 'efficient-01', 'publication', '"c-raf"', 'protein', 'bond', 'bind-01', 'dephosphorylate-01', '"16"'])
+FN set(['protein-segment', 'isomerize-00', '"s/tp"', 'prolyl-isomerase'])
+FP set(['motif', '"s/ tp"', '"ps/ tp"', '"isomerization"', '"prolyl"', '"isomerase"'])
+0.78, 0.84, 0.81
+
+Seen protein-segment 164  times
+
+
+bio.mskcc_0001.10
+Previously , we found that in response to growth factor treatment , signaling from C @-@ Raf is downregulated by ERK @-@ dependent feedback phosphorylation on S/TP sites and that C @-@ Raf is subsequently dephosphorylated and returned to a signaling @-@ competent state through the activities of PP2A and the Pin1 prolyl @-@ isomerase ( 8 )
+TP set(['and', 'feedback', 'downregulate-01', 'cite-01', 'protein', 'previous', 'publication', 'treat-04', 'phosphorylate-01', 'respond-01', '"c-raf"', '"8"', 'dephosphorylate-01', 'we', '"pp2a"', 'depend-01', '"pin1"', 'signal-07', 'name', '"erk"', '"factor"', 'describe-01', 'find-01', '"growth"'])
+FN set(['"serine"', 'prolyl-isomerase', '"threonine"', 'activate-01', 'after', 'amino-acid', 'small-molecule', 'or'])
+FP set(['competent-01', 'site', 'signal-01', 'subsequent', 'state', 'chemical', '"prolyl"', '"s/ tp"', 'return-01', 'activity'])
+0.71, 0.75, 0.73
+
+Seen "serine" 88  times
+Seen "threonine" 22  times
+Seen activate-01 515  times
+Seen after 640  times
+Seen amino-acid 326  times
+Seen small-molecule 231  times
+Seen or 1102  times
+
+
+bio-exp_0001.14
+Finally , CtBP1 and CtBP2 chromatin immunoprecipitation assays showed decreased binding to the HER3 promoter after treatment with PLX4032 ( Fig. 5F ) .
+TP set(['and', 'show-01', 'after', 'name', 'figure', '"plx4032"', 'treat-04', 'promote-01', 'decrease-01', 'describe-01', '"her3"', 'assay-00', 'protein', '"ctbp1"', 'bind-01', 'final', '"ctbp2"', 'molecular-physical-entity'])
+FN set(['chromatin', 'small-molecule', 'immunoprecipitate-00', '"5f"'])
+FP set(['"immunprecipitation"', 'chemical', '"chromatin"', '5f'])
+0.82, 0.82, 0.82
+
+Seen small-molecule 231  times
+Seen immunoprecipitate-00 47  times
+Seen "5f" 1  times
+
+
+bio-exp_0001.15
+These findings were confirmed in a second cell line ( Supplementary Fig. S5A ) .
+TP set(['figure', 'this', 'describe-01', '"2"', 'find-01', 'thing', 'cell-line', '"s5a"', 'supplement-01', 'confirm-01', 'ordinal-entity'])
+FN set([])
+FP set(['name'])
+0.92, 1.00, 0.96
+
+
+
+bio.bmtr_0002.14
+Together these results support the hypothesis that inhibition of ERK @-@ mediated phosphorylation of a conserved JM domain threonine residue leads to feedback activation of EGFR , HER2 , and ERBB3 ( Figure 7 ) .
+TP set(['and', 'feedback', '"egfr"', 'mediate-01', 'support-01', '"7"', 'together', 'protein', 'conserve-01', '"domain"', 'figure', '"her2"', 'phosphorylate-01', 'hypothesize-01', '"jm"', '"threonine"', '"erbb3"', 'activate-01', 'lead-03', 'residue', 'inhibit-01', 'result-01', 'protein-segment', 'name', 'amino-acid', 'this', '"erk"', 'describe-01', 'thing'])
+FN set([])
+FP set([])
+1.00, 1.00, 1.00
+
+
+
+bio-exp_0001.10
+The minimal HER3 promoter region regulated by MAPK inhibitors overlaps with sequences previously described to be immunoprecipitated using antibodies against the ZFN217 transcription factor and CtBP1 @/@ CtBP2 corepressors ( 28–30 ) .
+TP set(['and', 'sequence', '"her3"', 'protein', '"ctbp1"', '"ctbp2"', 'previous', 'molecular-physical-entity', 'immunoprecipitate-00', 'factor', 'transcribe-01', '"mapk"', 'inhibit-01', 'regulate-01', 'name', 'region', 'overlap-01', 'describe-01', '"zfn217"', 'use-01', 'oppose-01', 'antibody', 'promote-01'])
+FN set(['value-interval', 'cite-01', 'publication', 'pathway', 'minimal', '"30"', 'corepressor', '"28"', 'or'])
+FP set(['minimum', '"corepressors"', '"28\xe2\x80\x9330"'])
+0.88, 0.72, 0.79
+
+Seen value-interval 46  times
+Seen cite-01 287  times
+Seen publication 514  times
+Seen pathway 181  times
+Seen minimal 3  times
+Seen "30" 129  times
+Seen "28" 66  times
+Seen or 1102  times
+
+
+bio-exp_0001.11
+CtBPs have also been described to negatively regulate transcriptional activity of the HER3 promoter in breast carcinoma cell lines ( 30 ) .
+TP set(['name', 'downregulate-01', 'publication', 'transcribe-01', '"30"', 'breast', 'describe-01', 'cite-01', 'also', 'carcinoma', '"her3"', 'cell-line', 'protein', 'promote-01', 'act-01', 'molecular-physical-entity'])
+FN set(['"ctbp"'])
+FP set(['obligate-01', '"ctbps"'])
+0.89, 0.94, 0.91
+
+
+
+bio-exp_0001.12
+Silencing of CtBP1 , and to a lesser extent CtBP2 , increased basal HER3 in 8505C cells , and markedly potentiated the effects of PLX4032 ( Fig. 5D and 5E ) .
+TP set(['and', 'name', 'figure', 'less', '"plx4032"', 'potentiate-00', '"8505c"', 'increase-01', 'describe-01', 'basal', '"5d"', '"5e"', '"her3"', 'affect-01', 'marked', 'protein', '"ctbp1"', 'silence-01', '"ctbp2"', 'more'])
+FN set(['cell', 'small-molecule'])
+FP set(['chemical', 'extent', 'cell-line'])
+0.87, 0.91, 0.89
+
+Seen cell 807  times
+Seen small-molecule 231  times
+
+
+bio-exp_0001.13
+Knockdown of these factors modestly increased basal and PLX4032 - induced HER2 levels , which likely contributes to the remarkable increase in pHER3 we observed ( Fig. 5D and 5E ) .
+TP set(['and', 'figure', 'increase-01', '"plx4032"', 'likely', 'protein', 'knock-02', 'remarkable', '"her2"', '"5e"', 'factor', 'we', 'basal', 'contribute-01', 'name', 'level', 'this', 'modest', 'describe-01', '"5d"', 'observe-01', 'induce-01'])
+FN set(['phosphorylate-01', 'small-molecule', '"her3"'])
+FP set(['chemical', 'country', '"pher3"'])
+0.88, 0.88, 0.88
+
+Seen phosphorylate-01 408  times
+Seen small-molecule 231  times
+Seen "her3" 5  times
+
+
+bio.bmtr_0004.17
+It was established recently that monoubiquitination increases the proportion of Ras that is in the activated ( GTP @-@ bound ) state , that monoubiquitination enhances association with the downstream effectors Raf and PI3 @-@ Kinase , and that mutation of the primary site of monoubiquitination impairs oncogenic Ras @-@ mediated tumorigenesis .
+TP set(['and', 'cancer', 'increase-01', 'mediate-01', 'primary', 'effector', 'associate-01', 'protein', 'cause-01', 'enhance-01', 'activate-01', 'proportion', 'mutate-01', 'ubiquitinate-01', 'downstream', '"pi3-kinase"', '"ras"', 'impair-01', '"gtp"', 'create-01', 'bind-01', 'recent', 'protein-segment', '"1"', 'name', 'establish-01', 'tumor', '"raf"'])
+FN set(['small-molecule'])
+FP set(['it', 'chemical', 'state', 'be-located-at-91'])
+0.88, 0.97, 0.92
+
+Seen small-molecule 231  times
+
+
+bio.ras_0001.8
+RasGEFs bind to Ras and lower the transition energy for the nucleotide exchange of the bound GDP for the more abundant cytosolic GTP , whereas RasGAPs bind to Ras and catalyze GTP hydrolysis .
+TP set(['and', '"gdp"', 'name', 'hydrolyze-01', 'energy', '"ras"', 'contrast-01', 'cytosol', 'transition-01', 'catalyze-01', '"gtp"', 'protein', 'abundant', 'bind-01', 'exchange-01', 'more'])
+FN set(['macro-molecular-complex', 'small-molecule', '"rasgef"', 'lower-05', '"rasgap"'])
+FP set(['"rasgaps"', '"rasgefs"', 'chemical', 'low', 'nucleotide'])
+0.76, 0.76, 0.76
+
+Seen macro-molecular-complex 192  times
+Seen small-molecule 231  times
+Seen lower-05 12  times
+
+
+bio.ras_0001.9
+The most prevalent oncogenic mutations in Ras ( Gly12 and Gly13 in the G1 box , and Gln61 in the G3 box ) preserve the GTP bound state by inhibiting intrinsic GTPase activity and by interfering with the ability of GAPs .
+TP set(['and', '"gtpase"', 'prevail-02', 'name', 'cancer', 'intrinsic', '"ras"', '"gap"', '"g1"', 'most', '"box"', 'interfere-01', '"g3"', 'preserve-01', '"gtp"', 'inhibit-01', 'protein', 'bind-01', 'act-02', 'capable-01', 'cause-01'])
+FN set(['"gln61"', 'protein-segment', 'small-molecule', 'mutation', '"gly13"', '"gly12"'])
+FP set(['"12"', '"glycine"', 'chemical', '"61"', 'state', '"13"', 'mutate-01', 'amino-acid', 'country', 'describe-01', '"glutamine"'])
+0.66, 0.78, 0.71
+
+Seen protein-segment 164  times
+Seen small-molecule 231  times
+
+
+bio.mskcc_0001.19
+In addition , when B @-@ Raf feedback phosphorylation was prevented , either by U0126 treatment or by mutation of all the feedback sites , an increase in the basal level of heterodimerization with C @-@ Raf was observed , and heterodimerization in response to growth factor treatment was increased and prolonged ( Fig . 3B and C ) .
+TP set(['and', 'all', 'prolong-01', 'feedback', 'figure', 'increase-01', '"b-raf"', 'protein', 'prevent-01', 'treat-04', '"3c"', 'phosphorylate-01', 'respond-01', '"c-raf"', 'heterodimerize-00', 'basal', '"u0126"', 'mutate-01', 'name', 'level', '"factor"', 'describe-01', '"3b"', 'observe-01', '"growth"', 'or'])
+FN set(['protein-segment', 'small-molecule'])
+FP set(['chemical', 'site'])
+0.93, 0.93, 0.93
+
+Seen protein-segment 164  times
+Seen small-molecule 231  times
+
+
+bio.ras_0001.1
+The most frequently mutated oncogenes in the deadliest cancers responsible for human mortality are KRAS , PIK3CA and BRAF .
+TP set(['oncogene', 'frequent', 'mutate-01'])
+FN set(['and', '"braf"', 'kill-01', 'name', 'cancer', '"pik3ca"', 'most', 'human', 'gene', '"kras"'])
+FP set([])
+1.00, 0.23, 0.38
+
+Seen and 10176  times
+Seen "braf" 10  times
+Seen kill-01 219  times
+Seen name 28717  times
+Seen cancer 74  times
+Seen "pik3ca" 1  times
+Seen most 771  times
+Seen human 187  times
+Seen gene 334  times
+Seen "kras" 7  times
+
+
+bio.ras_0001.2
+Importantly the signaling enzymes encoded by PIK3CA and BRAF are , in part , regulated by direct binding to activated forms of the Ras proteins suggesting that dysregulation of this key step in signaling is critical for tumor formation .
+TP set(['and', '"braf"', 'form-01', 'activate-01', 'encode-01', 'direct', '"ras"', '"pik3ca"', 'name', 'tumor', 'critical', 'suggest-01', 'regulate-01', 'part', 'protein', 'gene', 'bind-01', 'important', 'signal-07'])
+FN set(['macro-molecular-complex', 'impair-01'])
+FP set(['step-01', 'dysregulation', 'this', 'key', 'signal-01'])
+0.79, 0.90, 0.84
+
+Seen macro-molecular-complex 192  times
+Seen impair-01 26  times
+
+
+bio.ras_0001.3
+Ras acts as a molecular switch that is activated upon GTP loading and deactivated upon hydrolysis of GTP to GDP .
+TP set(['name', 'activate-01', '"gdp"', '"ras"', 'molecule', 'load-01', 'hydrolyze-01', 'switch', '"gtp"', 'protein', 'deactivate-01'])
+FN set(['small-molecule'])
+FP set(['chemical'])
+0.92, 0.92, 0.92
+
+Seen small-molecule 231  times
+
+
+bio.ras_0001.4
+This switch mechanism is common to a wide variety of GTP - binding proteins and is mediated by a conserved structure called the G - domain that consists of five conserved G boxes .
+TP set(['wide', '"g"', 'name', 'this', 'protein-segment', 'mechanism', 'share-01', '"gtp"', 'switch', '"box"', '"5"', 'protein', 'bind-01', 'conserve-01', 'structure'])
+FN set(['various', '"g-domain"', 'small-molecule'])
+FP set(['and', '"domain"', 'call-01', 'variety', 'mediate-01', 'chemical', 'consist-01'])
+0.68, 0.83, 0.75
+
+Seen various 68  times
+Seen small-molecule 231  times
+
+
+bio.ras_0001.5
+Under physiological conditions , the rate of GDP or GTP release from the G - domain is slow .
+TP set(['protein-segment', 'name', '"gdp"', 'or', '"gtp"', 'release-01', 'physiology'])
+FN set(['"g-domain"', 'small-molecule', 'slow-05'])
+FP set(['"domain"', 'rate-01', '"g"', 'slow', 'chemical', 'cause-01'])
+0.54, 0.70, 0.61
+
+Seen small-molecule 231  times
+Seen slow-05 4  times
+
+
+bio.ras_0001.6
+As a consequence the GDP produced by GTP hydrolysis on Ras is trapped and the bulk of cellular Ras accumulates in the GDP - bound ‘off’ state , despite the high GTP / GDP ratio in the cytosol ( 1 – 3 ) .
+TP set(['and', 'bulk', '"1"', 'name', 'cell', '"gdp"', '"ras"', 'high', 'hydrolyze-01', 'cytosol', 'trap-01', '"gtp"', 'protein', 'accumulate-01', 'bind-01', '"3"', 'cause-01'])
+FN set(['value-interval', 'deactivate-01', 'cite-01', 'ratio-of', 'publication', 'small-molecule', 'include-91', 'attest-01'])
+FP set(['"\xe2\x80\x93"', 'have-concession-91', 'ratio', '"\xe2\x80\x98off\xe2\x80\x99"', 'state', 'describe-01', 'chemical', 'produce-01', 'slash'])
+0.65, 0.68, 0.67
+
+Seen value-interval 46  times
+Seen deactivate-01 5  times
+Seen cite-01 287  times
+Seen ratio-of 6  times
+Seen publication 514  times
+Seen small-molecule 231  times
+Seen include-91 893  times
+Seen attest-01 1  times
+
+
+bio.ras_0001.7
+Growth factors can turn on Ras by activating Guanine nucleotide Exchange Factors ( GEFs ) or by inhibiting the GTPase Activating Proteins ( GAPs ) or by both mechanisms .
+TP set(['"ras"', 'name', 'activate-01', '"guanine"', '"factor"', 'possible', '"exchange"', '"gtpase"', '"nucleotide"', '"growth"', 'inhibit-01', 'protein', 'or'])
+FN set(['and', 'small-molecule', 'turn-on-13'])
+FP set(['both', 'turn-01', '"gap"', 'describe-01', 'mechanism', '"gef"'])
+0.68, 0.81, 0.74
+
+Seen and 10176  times
+Seen small-molecule 231  times
+Seen turn-on-13 1  times
+
+
+bio.mskcc_0001.56
+Interestingly , these peptide binding studies also indicate that homodimerized B @-@ Raf and C @-@ Raf proteins have multiple contact points ( 27 ) , suggesting that feedback phosphorylation of the Raf proteins may disrupt Raf homodimers as well
+TP set(['and', 'as-well', 'feedback', '"27"', 'homodimer', 'cite-01', 'contact-01', '"b-raf"', 'multiple', 'protein', 'indicate-01', 'publication', 'interesting', 'also', 'phosphorylate-01', '"c-raf"', 'suggest-01', 'peptide', 'study-01', 'possible', 'disrupt-01', 'bind-01', 'name', 'this', 'describe-01', '"raf"'])
+FN set(['homodimerize-00'])
+FP set(['point'])
+0.96, 0.96, 0.96
+
+
+
+bio.bmtr_0002.7
+Mutation of T669 and T677 abrogates MEK inhibitor @-@ induced suppression of ERBB3 Activation
+TP set(['and', '"threonine"', '"erbb3"', 'abrogate-01', 'name', 'amino-acid', '"677"', '"669"', 'induce-01', '"mek"', 'suppress-01', 'molecular-physical-entity', 'inhibit-01', 'protein', 'activate-01', 'mutate-01'])
+FN set([])
+FP set([])
+1.00, 1.00, 1.00
+
+
+
+bio.bmtr_0002.6
+Together these data indicate that loss of this inhibitory threonine phosphorylation on the JM domains of EGFR and HER2 occurs in cancer cell lines following MEK inhibition , presumably due to differential subcellular localization and @/@ or binding proteins .
+TP set(['cancer', 'cell-line', 'indicate-01', 'protein', 'cause-01', '"domain"', '"egfr"', '"her2"', 'data', 'phosphorylate-01', '"jm"', '"threonine"', 'protein-segment', '"mek"', 'follow-01', 'inhibit-01', 'bind-01', 'differ-02', 'name', 'amino-acid', 'this', 'together', 'or'])
+FN set(['presume-01', 'cell', 'lose-01', 'location', 'and-or'])
+FP set(['and', 'localize-01', 'subcellular', 'lose-02', 'event'])
+0.82, 0.82, 0.82
+
+Seen presume-01 14  times
+Seen cell 807  times
+Seen lose-01 17  times
+Seen location 86  times
+Seen and-or 23  times
+
+
+bio.bmtr_0002.5
+Phospho @-@ specific antibodies confirmed that treatment with AZD6244 inhibited phosphorylation of T669 of EGFR and the analogous T677 of HER2 ( Figure 5A ) .
+TP set(['and', '"threonine"', '"669"', 'figure', '"egfr"', '"677"', 'treat-04', 'amino-acid', '"5a"', 'specific', 'phosphorylate-01', '"azd6244"', 'describe-01', '"her2"', 'inhibit-01', 'protein', 'antibody', 'analogous', 'confirm-01', 'name'])
+FN set(['small-molecule'])
+FP set(['chemical'])
+0.95, 0.95, 0.95
+
+Seen small-molecule 231  times
+
+
+bio.bmtr_0002.4
+Targeting both the phosphorylated and non @-@ phosphorylated peptide forms , we detected a 66 % average decrease in EGFR T669 phosphorylation and a 75 % decrease in HER2 T677 phosphorylation upon treatment with AZD6244 ( Figure 5B , Supplemental Figure 8 ) .
+TP set(['"-"', 'and', 'figure', '"threonine"', '"azd6244"', 'detect-01', 'protein', '"egfr"', '"669"', 'treat-04', 'decrease-01', 'phosphorylate-01', '"75"', '"8"', '"677"', 'we', 'target-01', 'average-01', 'percentage-entity', 'name', 'amino-acid', 'describe-01', '"66"', '"5b"', 'supplement-01', '"her2"'])
+FN set(['protein-segment', 'small-molecule'])
+FP set(['chemical', 'peptide', 'form-01'])
+0.90, 0.93, 0.91
+
+Seen protein-segment 164  times
+Seen small-molecule 231  times
+
+
+bio.bmtr_0003.18
+These corepressors have been previously linked to inhibition of HER3 transcription through promoter regions that show overlapping occupancy with ZNF217 , a transcription factor also involved in HER3 regulation ( 30 ) .
+TP set(['occupy-01', 'cite-01', '"her3"', 'protein', 'previous', '"znf217"', 'publication', 'also', 'factor', 'link-01', 'transcribe-01', '"30"', 'inhibit-01', 'regulate-01', 'show-01', 'involve-01', 'name', 'this', 'region', 'overlap-01', 'describe-01', 'promote-01'])
+FN set(['and', 'corepressor'])
+FP set(['"corepressors"'])
+0.96, 0.92, 0.94
+
+Seen and 10176  times
+
+
+bio.bmtr_0003.19
+Accordingly , knockdown of CTBPs acutely induced HER3 expression and phosphorylation in thyroid cancer cells .
+TP set(['and', 'thyroid', 'knock-02', 'name', 'cancer', 'acute', 'phosphorylate-01', '"her3"', 'cell', 'accordingly', 'induce-01', 'express-03', 'protein'])
+FN set(['"ctbp"'])
+FP set(['"ctbps"'])
+0.93, 0.93, 0.93
+
+
+
+bio.bmtr_0002.1
+Turke et al. “ MEK inhibition leads to PI3K @/@ AKT activation by relieving a negative feedback on ERBB receptors ” ( PMC3515079 )
+TP set(['and', '"turke"', 'name', 'activate-01', 'lead-03', 'negative', '"pmc3515079"', 'person', '"mek"', 'other', 'receptor', '"erbb"', 'inhibit-01', 'protein', 'relieve-01', 'pathway', 'feedback'])
+FN set(['"pi3k/akt"', 'publication-91'])
+FP set(['"pi3k/ akt"', '"\xe2\x80\x9d"', 'describe-01'])
+0.85, 0.89, 0.87
+
+Seen publication-91 277  times
+
+
+bio.bmtr_0003.14
+Knockdown of these factors modestly increased basal and PLX4032 @-@ induced HER2 levels , which likely contributes to the remarkable increase in pHER3 we observed ( Fig . 5D and 5E ) .
+TP set(['and', 'figure', 'increase-01', '"plx4032"', 'likely', 'protein', 'knock-02', 'remarkable', '"her2"', '"5e"', 'factor', 'we', 'basal', 'contribute-01', 'name', 'level', 'this', 'modest', 'describe-01', '"5d"', 'observe-01', 'induce-01'])
+FN set(['phosphorylate-01', 'small-molecule', '"her3"'])
+FP set(['chemical', 'country', '"pher3"'])
+0.88, 0.88, 0.88
+
+Seen phosphorylate-01 408  times
+Seen small-molecule 231  times
+Seen "her3" 5  times
+
+
+bio.bmtr_0003.15
+Finally , CtBP1 and CtBP2 chromatin immunoprecipitation assays showed decreased binding to the HER3 promoter after treatment with PLX4032 ( Fig . 5F ) .
+TP set(['and', 'show-01', '"ctbp1"', 'name', 'figure', '"plx4032"', 'treat-04', 'promote-01', 'decrease-01', '"her3"', 'after', 'describe-01', 'assay-00', 'protein', '"5f"', 'bind-01', 'final', '"ctbp2"', 'molecular-physical-entity'])
+FN set(['chromatin', 'immunoprecipitate-00', 'small-molecule'])
+FP set(['chemical', '"chromatin"', '"immunprecipitation"'])
+0.86, 0.86, 0.86
+
+Seen immunoprecipitate-00 47  times
+Seen small-molecule 231  times
+
+
+bio.bmtr_0003.16
+These findings were confirmed in a second cell line ( Supplementary Fig. S5A ) .
+TP set(['figure', 'this', 'describe-01', '"2"', 'find-01', 'thing', 'cell-line', '"s5a"', 'supplement-01', 'confirm-01', 'ordinal-entity'])
+FN set([])
+FP set(['name'])
+0.92, 1.00, 0.96
+
+
+
+bio.bmtr_0003.17
+The increase in expression of HER3 after MAPK inhibition is due to activation of gene transcription , which was associated with a reduction of binding of the transcriptional repressors CTBP1 and CTBP2 to the HER3 gene promoter .
+TP set(['and', 'gene', 'name', 'activate-01', 'increase-01', 'promote-01', 'after', '"her3"', 'associate-01', 'reduce-01', '"mapk"', 'express-03', 'inhibit-01', 'protein', '"ctbp1"', 'bind-01', 'transcribe-01', '"ctbp2"', 'cause-01'])
+FN set(['encode-01', 'molecular-physical-entity', 'repress-01', 'pathway'])
+FP set([])
+1.00, 0.83, 0.90
+
+Seen encode-01 72  times
+Seen molecular-physical-entity 387  times
+Seen repress-01 27  times
+Seen pathway 181  times
+
+
+bio.bmtr_0003.10
+Moreover , PLX4032 led to an increase in phosphorylation of FoxO1 @/@ 3A between 4–10h after addition of compound ( not shown ) , which is known to promote its dissociation from DNA , and likely discards involvement of these factors as transcriptional regulators of HER3 in response to MAPK pathway inhibition .
+TP set(['"-"', 'and', 'increase-01', '"plx4032"', 'likely', 'protein', 'discard-01', 'know-01', 'phosphorylate-01', 'respond-01', 'factor', 'pathway', 'lead-03', 'transcribe-01', 'after', '"mapk"', 'compound', 'inhibit-01', 'regulate-01', 'show-01', 'involve-01', 'dna', 'name', 'this', 'promote-01', '"her3"', 'dissociate-01', 'add-02'])
+FN set(['"foxo1/3a"', '"4"', 'hour', 'small-molecule', 'temporal-quantity', 'molecular-physical-entity', 'between', '"10"'])
+FP set(['"foxo1"', 'figure', 'describe-01', 'chemical', 'amr-unknown', '"3a"', '"4\xe2\x80\x9310h"'])
+0.80, 0.78, 0.79
+
+Seen "4" 407  times
+Seen hour 133  times
+Seen small-molecule 231  times
+Seen temporal-quantity 1357  times
+Seen molecular-physical-entity 387  times
+Seen between 187  times
+Seen "10" 362  times
+
+
+bio.bmtr_0003.11
+The minimal HER3 promoter region regulated by MAPK inhibitors overlaps with sequences previously described to be immunoprecipitated using antibodies against the ZFN217 transcription factor and CtBP1 @/@ CtBP2 corepressors ( 28–30 ) .
+TP set(['and', 'sequence', '"her3"', 'protein', '"ctbp1"', '"ctbp2"', 'previous', 'molecular-physical-entity', 'immunoprecipitate-00', 'factor', 'transcribe-01', '"mapk"', 'inhibit-01', 'regulate-01', 'name', 'region', 'overlap-01', 'describe-01', '"zfn217"', 'use-01', 'oppose-01', 'antibody', 'promote-01'])
+FN set(['value-interval', 'cite-01', 'publication', 'pathway', 'minimal', '"30"', 'corepressor', 'or', '"28"'])
+FP set(['minimum', '"corepressors"', '"28\xe2\x80\x9330"'])
+0.88, 0.72, 0.79
+
+Seen value-interval 46  times
+Seen cite-01 287  times
+Seen publication 514  times
+Seen pathway 181  times
+Seen minimal 3  times
+Seen "30" 129  times
+Seen or 1102  times
+Seen "28" 66  times
+
+
+bio.bmtr_0003.12
+CtBPs have also been described to negatively regulate transcriptional activity of the HER3 promoter in breast carcinoma cell lines ( 30 ) .
+TP set(['name', 'publication', 'transcribe-01', '"30"', 'breast', 'describe-01', 'cite-01', 'also', 'carcinoma', '"her3"', 'cell-line', 'protein', 'promote-01', 'act-01', 'molecular-physical-entity'])
+FN set(['negative', 'regulate-01', '"ctbp"'])
+FP set(['obligate-01', 'downregulate-01', '"ctbps"'])
+0.83, 0.83, 0.83
+
+Seen negative 44  times
+Seen regulate-01 110  times
+
+
+bio.bmtr_0003.13
+Silencing of CtBP1 , and to a lesser extent CtBP2 , increased basal HER3 in 8505C cells , and markedly potentiated the effects of PLX4032 ( Fig . 5D and 5E ) .
+TP set(['and', 'name', 'figure', 'less', '"plx4032"', 'potentiate-00', '"8505c"', 'increase-01', 'describe-01', 'basal', '"5d"', '"5e"', '"her3"', 'affect-01', 'marked', 'protein', '"ctbp1"', 'silence-01', '"ctbp2"', 'more'])
+FN set(['cell', 'small-molecule'])
+FP set(['chemical', 'extent', 'cell-line'])
+0.87, 0.91, 0.89
+
+Seen cell 807  times
+Seen small-molecule 231  times
+
+
+bio.bmtr_0004.9
+To verify that the differences between the enzymatic and chemical ubiquitination linkers ( seven bonds and five bonds , respectively ) do not alter GAP @-@ responsiveness , we placed an additional cysteine at the c @-@ terminus of Ubiquitin ( Ubiquitin @-@ C77 ) , thereby creating a linker one bond longer than the native linker .
+TP set(['"-"', 'alter-01', 'verify-01', '"7"', '"5"', 'protein', 'native', 'place-01', '"77"', 'chemical', 'ubiquitinate-01', 'we', 'link-01', 'differ-02', '"cysteine"', 'create-01', '"ubiquitin"', '"gap"', 'protein-segment', '"1"', 'name', 'amino-acid', 'bond'])
+FN set(['"c-terminus"', 'long', 'respond-01', 'become-01', 'have-purpose-91', 'more', 'additional'])
+FP set(['and', '"terminus"', '"linkers"', 'any-longer', 'responsiveness', 'respective', '"enzymatic"', 'cause-01', 'add-02', '"c"', '"bond"'])
+0.68, 0.77, 0.72
+
+Seen "c-terminus" 4  times
+Seen long 180  times
+Seen respond-01 158  times
+Seen become-01 250  times
+Seen have-purpose-91 104  times
+Seen more 1171  times
+Seen additional 31  times
+
+
+bio.bmtr_0004.15
+These data support our in vitro findings that monoubiquitination increases the population of active , GTP @-@ bound Ras through a defect in sensitivity to GAP @-@ mediated regulation .
+TP set(['we', '"1"', 'name', 'activate-01', 'increase-01', 'this', 'mediate-01', 'protein', '"ras"', 'defect', '"gap"', 'find-01', 'support-01', 'bind-01', '"gtp"', 'in-vitro', 'data', 'ubiquitinate-01', 'regulate-01', 'population'])
+FN set(['sensitive-03', 'small-molecule'])
+FP set(['chemical', 'sensitivity'])
+0.91, 0.91, 0.91
+
+Seen sensitive-03 14  times
+Seen small-molecule 231  times
+
+
+bio.ras_0003.8
+The tryptic peptide with ubiquitination at Lys147 ( K147 ) was the most frequently observed peptide for both K @-@ Ras and H @-@ Ras , while Lys117 appeared as a secondary major ubiquitination site in H @-@ Ras .
+TP set(['and', '"lysine"', 'most', 'name', '"117"', 'major', '"h-ras"', '"147"', 'protein-segment', 'contrast-01', '"k-ras"', 'observe-01', 'amino-acid', 'peptide', 'protein', 'ubiquitinate-01', 'frequent', 'secondary'])
+FN set(['hydrolyze-01', 'appear-01', '"trypsin"'])
+FP set(['both', 'trypsin', 'appear-02'])
+0.86, 0.86, 0.86
+
+Seen hydrolyze-01 11  times
+Seen appear-01 45  times
+
+
+bio.bmtr_0002.18
+However , replacement with the EGFR ( exon19 del ) T669A mutant led to increased tyrosine phosphorylation of both EGFR and ERBB3 , and activation of PI3K @/@ AKT signaling , mimicking the effect of MEK inhibition ( Figure 6C ) .
+TP set(['and', '"egfr"', 'increase-01', 'affect-01', 'protein', 'have-concession-91', 'signal-07', 'figure', 'phosphorylate-01', 'replace-01', '"6c"', 'pathway', 'mimic-01', '"erbb3"', 'activate-01', 'lead-03', '"mek"', 'inhibit-01', '"tyrosine"', 'mutate-01', 'name', 'amino-acid', 'describe-01', '"t669a"'])
+FN set(['"pi3k/akt"', '"19"', 'exon', 'delete-01'])
+FP set(['both', '"pi3k/ akt"', '"del"'])
+0.89, 0.86, 0.87
+
+Seen "19" 67  times
+Seen delete-01 15  times
+
+
+bio.bmtr_0004.14
+As seen in Figure 5c , monoubiquitinated K @-@ Ras is less sensitive than the unmodified protein to GAP @-@ mediated GTP hydrolysis .
+TP set(['sensitive-03', '"1"', 'name', 'figure', 'less', '"5c"', 'see-01', 'hydrolyze-01', '"k-ras"', 'mediate-01', '"gtp"', 'protein', 'ubiquitinate-01', '"gap"'])
+FN set(['"-"', 'modify-01', 'small-molecule'])
+FP set(['chemical', '"unmodified"'])
+0.88, 0.82, 0.85
+
+Seen "-" 6793  times
+Seen modify-01 17  times
+Seen small-molecule 231  times
+
+
+bio.ras_0003.2
+His - tagged ubiquitin and Flag - tagged K @-@ Ras4B ( K @-@ Ras hereafter ) were expressed in HEK293T cells at levels similar to endogenous K @-@ Ras ( Fig. 1B ) and subjected to sequential affinity chromatography .
+TP set(['and', 'tag-01', '"histidine"', 'chromatography', 'subject-01', 'level', 'resemble-01', '"k-ras4b"', 'describe-01', 'name', '"k-ras"', '"1b"', 'affinity', 'amino-acid', 'express-03', 'figure', 'protein', '"ubiquitin"', 'cell-line', '"hek293t"'])
+FN set(['protein-segment', 'sequence', '"flag"', 'endogenous'])
+FP set(['hereafter', 'flag', 'sequential', 'monocot'])
+0.83, 0.83, 0.83
+
+Seen protein-segment 164  times
+Seen sequence 13  times
+Seen endogenous 14  times
+
+
+bio.ras_0003.3
+His - ubiquitinated proteins were purified by Co2+ metal affinity chromatography in 8M urea denaturing conditions .
+TP set(['"urea"', 'name', 'amino-acid', 'metal', 'ubiquitinate-01', 'purify-01', '"co2+"', 'affinity', 'chromatography', 'denature-00', 'protein', '"histidine"'])
+FN set(['molar', 'small-molecule', 'concentration-quantity', '"8"'])
+FP set(['chemical', 'condition'])
+0.86, 0.75, 0.80
+
+Seen molar 4  times
+Seen small-molecule 231  times
+Seen concentration-quantity 49  times
+Seen "8" 206  times
+
+
+bio.bmtr_0004.3
+We next considered the effect of Ras monoubiquitination on GAP @-@ mediated hydrolysis .
+TP set(['we', '"1"', '"gap"', 'hydrolyze-01', 'mediate-01', '"ras"', 'next', 'affect-01', 'protein', 'ubiquitinate-01', 'name'])
+FN set(['consider-02'])
+FP set(['consider-01'])
+0.92, 0.92, 0.92
+
+Seen consider-02 56  times
+
+
+bio.bmtr_0004.2
+Passage 1 @-@ 1 ( Results )
+TP set(['result-01'])
+FN set(['thing', '"1-1"', 'passage'])
+FP set(['pass-01', '"sos-1"', 'protein', 'name'])
+0.20, 0.25, 0.22
+
+Seen thing 2212  times
+Seen passage 3  times
+
+
+bio.bmtr_0004.5
+At a GAP @-@ to @-@ Ras ratio of 1 @:@ 500 , we observed an order of magnitude increase in the rate of GTP hydrolysis for unmodified Ras relative to the intrinsic rate of GTP hydrolysis .
+TP set(['we', 'name', 'increase-01', 'hydrolyze-01', '"ras"', 'observe-01', 'rate', '"gtp"', 'protein', 'intrinsic', '"gap"'])
+FN set(['"-"', 'modify-01', 'equal-01', 'bind-01', 'ratio-of', 'about', '"1/500"', 'small-molecule', 'product-of', '"10"'])
+FP set(['value-interval', 'ratio', 'relative-05', '"1"', '"500"', 'chemical', 'magnitude', 'order'])
+0.58, 0.52, 0.55
+
+Seen "-" 6793  times
+Seen modify-01 17  times
+Seen equal-01 88  times
+Seen bind-01 246  times
+Seen ratio-of 6  times
+Seen about 84  times
+Seen small-molecule 231  times
+Seen product-of 111  times
+Seen "10" 362  times
+
+
+bio.bmtr_0004.4
+To this end we compared the rate of GTP hydrolysis for Ras and mUbRas in the presence of the catalytic domains of two GAPs , NF1 ( NF1 @-@ 333 ) and p120GAP( GAP @-@ 334 ) .
+TP set(['and', 'we', '"gap"', '"nf1"', 'this', '"ras"', 'domain', 'hydrolyze-01', 'rate', '"gtp"', 'compare-01', 'protein', '"p120gap"', 'name'])
+FN set(['"nf1-333"', 'bind-01', '"1"', '"gap-334"', 'small-molecule', 'include-91', 'catalyze-01', 'ubiquitinate-01'])
+FP set(['"mubras"', '"334"', '"2"', 'present', 'cause-01', '"333"', 'describe-01', 'chemical', 'catalysis', 'end-01'])
+0.58, 0.64, 0.61
+
+Seen bind-01 246  times
+Seen "1" 1424  times
+Seen small-molecule 231  times
+Seen include-91 893  times
+Seen catalyze-01 6  times
+Seen ubiquitinate-01 26  times
+
+
+bio.bmtr_0004.7
+Therefore , mUbRas is insensitive to GAP @-@ mediated regulation , similar to an oncogenic Ras @-@ G12V mutation .
+TP set(['"-"', 'sensitive-03', '"gap"', 'cancer', 'mediate-01', '"g12v"', '"ras"', 'mutate-01', 'protein', 'cause-01', 'resemble-01', 'regulate-01', 'name'])
+FN set(['"1"', 'ubiquitinate-01'])
+FP set(['"mubras"', 'infer-01'])
+0.87, 0.87, 0.87
+
+Seen "1" 1424  times
+Seen ubiquitinate-01 26  times
+
+
+bio.ras_0003.5
+Following purification , mono @- and di @- ubiquitinated K @-@ Ras appeared to be the major ubiquitination forms , which is consistent with the endogenous K @-@ Ras ubiquitination pattern ( Fig. 1 , A and B ) .
+TP set(['and', 'major', '"1"', 'name', 'figure', 'pattern', 'describe-01', 'endogenous', '"k-ras"', 'purify-01', 'form', 'follow-01', 'consistent-01', 'protein', 'ubiquitinate-01'])
+FN set(['or', '"1a"', 'appear-02', '"1b"', '"2"'])
+FP set(['mono', '"di"', 'appear-01', '"2b"'])
+0.79, 0.75, 0.77
+
+Seen or 1102  times
+Seen "1a" 23  times
+Seen appear-02 98  times
+Seen "1b" 21  times
+Seen "2" 834  times
+
+
+bio.bmtr_0004.16
+Passage 1 @-@ 2 ( Discussion/Conclusion )
+TP set([])
+FN set(['discuss-01', 'thing', 'slash', '"1-2"', 'conclude-01', 'passage'])
+FP set(['"sos-1"', 'name', '"discussion/ conclusion"', 'mean-01', 'pass-01', 'protein'])
+0.00, 0.00, 0.00
+
+Seen discuss-01 143  times
+Seen thing 2212  times
+Seen slash 183  times
+Seen conclude-01 31  times
+Seen passage 3  times
+
+
+bio.bmtr_0004.6
+No increase in the rate of GTP hydrolysis was observed for mUbRas in the presence of the same GAP @-@ to Ras ratio ( Fig . 5b ) .
+TP set(['"-"', 'ratio-of', '"gap"', 'figure', 'increase-01', 'hydrolyze-01', '"ras"', 'observe-01', 'describe-01', 'same-01', 'rate', '"5b"', '"gtp"', 'protein', 'name'])
+FN set(['"1"', 'small-molecule', 'bind-01', 'ubiquitinate-01'])
+FP set(['"mubras"', 'chemical', 'present', 'cause-01'])
+0.79, 0.79, 0.79
+
+Seen "1" 1424  times
+Seen small-molecule 231  times
+Seen bind-01 246  times
+Seen ubiquitinate-01 26  times
+
+
+bio.bmtr_0002.16
+Of note , this is the same EGFR @-@ mutant cell line in which we observed that EGFR T669 is phosphorylated in MEK @-@ dependent manner ( Figure 5 , Supplemental Figure 8A ) .
+TP set(['"threonine"', 'we', '"669"', '"egfr"', 'figure', 'this', 'depend-01', '"mek"', 'describe-01', 'name', 'phosphorylate-01', 'amino-acid', 'observe-01', '"8a"', '"5"', 'supplement-01', 'same-01', 'cell-line', 'protein', 'mutate-01'])
+FN set(['and', 'note-02'])
+FP set(['"of"', 'person', 'note-01'])
+0.87, 0.91, 0.89
+
+Seen and 10176  times
+Seen note-02 16  times
+
+
+bio.bmtr_0002.15
+To determine if this feedback model explains the activation of PI3K signaling in EGFR @-@ mutant cancers , we used shRNA to knockdown endogenous EGFR ( which carries an exon 19 deletion ) in the HCC827 NSCLC cell line and replaced with either EGFR ( exon 19 del ) wild @-@ type at T669 , or EGFR ( exon 19 del ) carrying a T669A mutation .
+TP set(['and', 'feedback', '"egfr"', '"shrna"', 'explain-01', 'wild-type', 'cell-line', 'protein', 'signal-07', 'knock-02', 'cancer', '"669"', 'replace-01', '"hcc827"', '"threonine"', 'we', 'activate-01', '"nsclc"', '"pi3k"', 'determine-01', 'delete-01', 'mutate-01', 'carry-01', 'name', 'amino-acid', '"19"', '"t669a"', 'use-01', 'model', 'or'])
+FN set(['macro-molecular-complex', '"interrogative"', 'exon', 'endogenous'])
+FP set(['multi-sentence', 'rna', '"del"', '"exon"', 'describe-01', 'this', 'monocot', 'gene'])
+0.79, 0.88, 0.83
+
+Seen macro-molecular-complex 192  times
+Seen "interrogative" 800  times
+Seen endogenous 14  times
+
+
+bio.bmtr_0005.15
+The fractions representing these radioactive peaks were analysed by mass spectrometry .
+TP set(['radioactive', 'this', 'analyze-01', 'represent-01', 'mass', 'fraction', 'spectrometry'])
+FN set(['peak'])
+FP set(['peak-01'])
+0.88, 0.88, 0.88
+
+Seen peak 2  times
+
+
+bio.bmtr_0004.10
+We measured the rate of GAP @-@ mediated GTP hydrolysis and observed that the response of Ras ligated to Ubiquitin @-@ C77 was identical to Ras ligated to Ubiquitin @-@ G76C ( Fig . 5b ) .
+TP set(['and', 'figure', 'mediate-01', 'identical-01', 'measure-01', 'rate', 'protein', 'ligate-01', 'hydrolyze-01', '"77"', 'respond-01', 'mutate-01', 'we', '"ras"', '"cysteine"', '"gtp"', '"ubiquitin"', 'name', '"gap"', 'amino-acid', 'describe-01', 'observe-01', '"g76c"', '"5b"'])
+FN set(['thing', 'small-molecule', '"76"'])
+FP set(['chemical'])
+0.96, 0.89, 0.92
+
+Seen thing 2212  times
+Seen small-molecule 231  times
+Seen "76" 3  times
+
+
+Precision 0.83
+Recall 0.84
+F1 0.83
+Seen concepts accuracy 0.66
+Avg unseen concepts 0.05
