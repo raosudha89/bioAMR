@@ -1,0 +1,5 @@
+#!/bin/bash
+#PBS -l nodes=10:ppn=5
+#PBS -l walltime=00:30:00
+cd /nfs/isd/sudharao/Documents/gitRepo/bioAMR
+python scripts/create_training_examples.py /nfs/nlg/semmt/projects/bigmech/bio-resources/PubMedCentral-Corpus/articles.C-H/ ../../bioAMR/biopax_model/ > output/training_examples_job_C-H_1000000
