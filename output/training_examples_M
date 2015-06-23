@@ -1,0 +1,631 @@
+/lfs1/sudharao/PubMedCentral-Corpus/articles.I-N/Med_Sci_Monit/Med_Sci_Monit_2014_Feb_13_20_238-246.nxml
+('TFDP1', 'HOXA9', 'increases')
+Expression constructs for HOXA9, HOXA10, ID2 and TFDP1 (in pCMV-XL5/4 vectors) were obtained from Origene (Wiesbaden, Germany).
+
+('Myb', 'MYB', 'increases')
+To examine whether it is the c-Myb protein that is responsible for increased migration and Matrigel invasiveness of MDA-MB-231MYBup cells, we specifically silenced c-
+To elucidate the mechanism by which c-Myb regulates MMP9, MMP1, and cathepsin D in MYBup cells, we first examined whether c-Myb can activate transcription of 
+To confirm the role of cathepsin D in c-Myb-induced cell migration/invasion, we performed RNAi-mediated silencing of cathepsin D in MDA-MB-231MYBup cells, resulting in effective reduction of the endogenous cathepsin D protein (Figure 
+Constructs encoding human (pcDNA3-hcMYB) and mouse c-Myb proteins (pcDNA3-mcMYB) were kindly provided by J. Bies [
+
+('MYC', 'EN1', 'increases')
+Lal et al showed that miR-24 suppresses several key genes that regulate cell-cycle progression like MYC and E2F2 and several genes downstream of E2F2 and MYC i.e., AURKB, CCNA2, CDK4, CDC2 and FEN1 [
+For example, miR-24 regulates expression of E2F2, MYC, AURKB, CCNA2, CDC2, CDK4, and FEN1 by recognizing seedless but highly complementary sequences (
+
+('PI3K', 'SHP2', 'binds')
+Association of Grb2, PI3K, or SHP2 with GAB1 in response to EGF, insulin, or their combination.
+
+('ATF3', 'JUN', 'increases')
+Transcriptional activation of ATF3, FOSL2, JUN, and KLF7.
+
+('Raf', 'MEK', 'adds_modification')
+The Raf/MEK/ERK and PI3K/Akt pathways are prominent effectors of oncogenic Ras.
+The Raf/MEK/ERK pathway is among the most thoroughly studied downstream effectors of activated Ras (
+In this context, MEK reportedly binds to paxillin, and growth factor treatment induces the recruitment of Raf and ERK to this complex.
+Growth factors bind to RTKs and stimulate both the Ras/Raf/MEK/ERK and PI3K pathways.
+It has been shown that stress induced by the isolation procedure and plating of the cells can activate signaling pathways including the PI3K/Akt and the Raf/MEK/ERK pathway (Fausto 
+We set the total protein abundances for MKKK (Raf), MKK (MEK) and ERK for our model on the basis of previous estimates (
+We obtained five small molecule antagonists of the kinases Phosphatidylinositol 3-kinase (PI3K), Raf, Akt, Phospholipase C (PLC), and MEK1.
+We also noted that changes in the phosphorylation status of several kinases and regulators acting upstream of ERK1/2, such as Pak1, Raf1, Map3k1, MEK1, MEK2, Ksr1, Rras2 and Ywhae (14-3-3 epsilon), were detected in cells treated with PD184352 (
+In the current model, reaction compartments were used to encode cytosolic and membrane-bound Ras and to represent protein phosphatase 2A (PP2A), an enzyme that dephosphorylates Raf, MEK and Akt in IERMv1.0 (
+Although some signaling cascades such as Ras/PI3K/PTEN/Akt/mTOR, Ras/Raf/MEK/ERK and p53 have been implicated in regulation of tumor radioresistance, the detail mechanism is still largely unknown.
+EGFR-mediated Ras-Raf-MEK-ERK and PI3K-PTEN-AKT pathways plays an important role in transmission of signals from membrane receptors to downstream targets that regulate apoptosis, cell growth and angiogenesis.
+There is a high level of ERK1/2 phosphorylation in WM9 cells, indicating an activated Ras-Raf-MEK-ERK1/2 MAPK pathway.
+Little is known about the hypoxic induction of members of the Ras/Raf/MEK/ERK signalling pathway.
+Activation of the Raf/MEK/ERK pathway has been often associated with the promotion of cell proliferation but also represents, in addition to the PI3K/Akt pathway, an important survival signaling pathway in many tumor cells
+[
+Also contributory to the control of G1 is the Ras effector pathway Raf/MEK/ERK MAP kinase.
+Two of the better-understood EGFR signal transduction pathways involved in cell proliferation are the Ras-Raf-MEK-p44/p42 MAP kinase pathway and the PI3K/Akt pathway [
+Regulation c-Raf phosphorylation at Ser259 has a role in the anti-apoptotic pathways mediated by Akt or Raf/MEK/ERK proteins.
+Raf and MEK have been shown to be the upstream regulators of Erk1/2 [
+Androgen-independent advanced prostate cancer cell lines such as DU145 and PC3 typically express low levels of activated Raf, MEK, and ERK [
+The EGFR-Ras-Raf-MEK-ERK signaling pathway has been the subject of intense research and pharmaceutical scrutiny to identify novel target-based approaches for cancer treatment (24).
+Several genetic alterations of cancer cause induction of cellular proliferation through the epidermal growth factor receptor (EGFR)-Ras-Raf-mitogen activated protein kinase/extracellular signal-regulated kinase (MAPK/ERK; MEK)-ERK-MAPK pathway, including EGFR amplifications (colorectal, pancreatic and lung cancers) and mutations (lung adenocarcinomas and glioblastoma), and activating mutations of Ras (pancreatic, papillary thyroid, colon and lung cancers) and Raf (melanoma, papillary thyroid and colon cancers) [
+Although a great body of evidence shows the importance of Ras and its downstream signaling mediators (Raf-MEK-ERK) on colorectal tumor development, the precise role of MEK remains undefined.
+In addition, we have found that prosaptide TX14A stimulates prostate cancer cell proliferation, migration, and invasion, activates the Raf-MEK-ERK-Elk-1 signaling cascade of the mitogen-activated protein kinase (MAPK) pathway, and inhibits the growth-inhibitory effects of sodium selenite administered at apoptogenic concentrations [
+A common feature of many human epithelial cancers is a constitutive activation of the Ras/Raf/MEK/Erk signal transduction pathway [
+Phosphatidylethanolamine-binding protein (PEBP) has been reported to act as a negative regulator of the ERK cascade (Raf-MEK-ERK) by binding to Raf-1 kinase.
+Finally, ODN administration also leads to increased levels of phospho-ERK and activation of the Raf/MEK/ERK signaling pathway [
+SHIP2 is able to activate Ras through Grb2 and SOS, leading to the phosphorylation and activation of Raf-1/MEK-1/MAP kinases [
+The upstream MAPK kinase-kinases Raf phosphorylate MAPK/ERK-kinases (MEKs).
+In many different cell types, IR activation turns on downstream signaling pathways involving Ras and PI3K, which subsequently activate the Akt kinase and/or the Raf-MEK-ERK cascade.
+It has been shown that one role of Shc in cells is to promote the formation of a Shc-Grb2-SOS complex, which can activate the Ras-Raf-MEK-ERK kinase cascade [
+Raf can then phosphorylate MEK, which activates ERK through phosphorylation in two different residues.
+The p16INK4A cyclin-dependent kinase inhibitor has been implicated in replicative senescence, the state of permanent growth arrest induced by cumulative cell divisions or constitutive Ras-Raf-MEK signaling in somatic cells.
+This, in turn, induces Raf-1 kinase translocation to the plasma membrane and Raf-1-mediated phosphorylation of MEK proteins (MEK1 and 2).
+In many cell types in culture, sustained
+expression of activated Ras or its downstream effector 
+can elicit cell cycle arrest and differentiation, and some
+reseachers revealed that the biological effects of the
+Ras/Raf/MEK/ERK pathway were activated via LIF/JAK/STAT
+pathway [
+   MEK is the key regulatory protein kinase activation in the Ras/Raf/MEK/ERK pathway (
+   Compelling evidence arising from malignant transformation studies in which MEK SMIs were employed in vitro has also implicated Raf/MEK/ERK [
+The discovery of promising specific targets for intervention in the inflammatory arthritis process have included, S1P, IL-7R, Syk, Raf/MEK/ERK 1/2, MK5/PRAK, miRNA, PI3K/PTEN/Akt, NF-
+The phosphorylation (i.e., activation) of A-Raf, B-Raf or c-RAF, by MAPKKK (i.e., MAP3K) results in MAP2K-mediated phosphorylation of MEK 1/2 and downstream activation of ERK 1/2 (reviewed in [
+Finally, we have found that automated imaging of fluorescent protein reporters provides a powerful means of interrogating GnRHR signalling to the Raf/MEK/ERK and Ca
+The best-characterized member of this family is KSR1, which promotes activation of the Raf/MEK/ERK kinase cascade (
+On growth factor stimulation, many receptor-type or non-receptor-type tyrosine kinases are activated, followed by the activation of the Ras/Raf/MEK/ERK signaling cascades, which regulate various aspects of cellular function, including the proliferation, differentiation, and oncogenic transformation of high eukaryotes (
+The following antibodies were also used in this study: anti-Raf1, anti-MEK1, and anti-pan ERK antibody were purchased from BD Transduction Laboratories (San Jose, CA); anti-Pan Ras (AB-3) antibody was from Calbiochem; anti-FLAG M5 antibody was purchased from Sigma; anti-Myc (9E10) antibody was from Santa Cruz Biotechnology (Santa Cruz, CA); antibodies against phospho-Raf1 (Ser
+(D) The activity of Ras as measured by Bos' pulldown analysis and the activities of MEK, Raf1, and ERK as measured by phospho-specific antibodies in C were normalized to the maximum values during the time course and are shown by line plots.
+In agreement with the suppression of Raf1 activation by Shoc2 knockdown, the activation of both MEK and ERK was also suppressed by Shoc2 knockdown in cells stimulated with EGF or 007 plus ionomycin (
+(B) The activity of Raf1 and MEK as measured with the phospho-specific antibodies was normalized to the maximum values of scramble siRNA-transfected EGF-stimulated cells.
+We further provide evidence that inhibition of PKD blocks mitotic Raf-1 and mitogen-activated protein kinase kinase (MEK) activation, and, as a consequence, mitotic Golgi fragmentation, which could be rescued by expression of active MEK1.
+The best-characterized kinase cascade involved in mitotic Golgi fragmentation is the Raf-MEK-Erk pathway, playing a role before prophase in late G2.
+Our previous results indicate that PKD is upstream of the Raf-1/MEK pathway in mitotic Golgi fragmentation.
+In intact cells we further show that PKD is critical for Golgi fragmentation in the late G2 phase of the cell cycle and mitotic entry by activating the Raf-1/MEK1 pathway.
+The importance of the Raf-1/MEK1 pathway in Golgi mitotic checkpoint control is underscored by the fact that expression of active MEK1 in PKD1/2-depleted cells rescued the block in Golgi membrane fragmentation and mitotic entry.
+Raf-1 is immediately upstream of MEK1 (
+Immunoblot of pERK1/2 serves as a control for Raf-MEK-ERK activation after the addition of 4-OHT.
+Since the etiology of pilocytic astrocytoma (PA) is associated to several major cellular signaling pathways we investigated whether some of the annotated genes belong to pathways specific to PA. We found genes that are involved in Ras-Raf-MEK-ERK signaling, p53 signaling, RB signaling, Wnt signaling.
+The Raf kinase, MAP kinase kinase (MEK) and MAPK combine to form a pathway that links extracellular signals to the phosphorylation of cellular proteins to regulate cell proliferation and differentiation [
+Here we first demonstrate that asperolide A, a very recently reported marine-derived tetranorditerpenoid, leads to the inhibition of NCI-H460 lung carcinoma cell proliferation by G2/M arrest with the activation of the Ras/Raf/MEK/ERK signaling and p53-dependent p21 pathway.
+The Ras family, containing H-(or Ha-) Ras, K-(or Ki-) Ras, and N-Ras, which transmits extracellular signals to the interior of the cells via switching the inactive GDP-bound state to the active GTP-bound state, are commonly thought of as oncogenes; the Ras/Raf/MEK/MAPK pathway is thought to be functional downstream of EGFR (Epidermal growth-factor receptor), which has been associated with a more aggressive disease or poor prognosis in variety of cancer systems including lung cancer [
+And c-Raf (Raf-1), the main effector recruited by GTP-bound Ras to activate the MEK-MAP kinase pathway, was also enhanced activity by phosphorylation at Ser338 (
+Above all, these results suggest that the Ras/Raf/MEK/ERK signaling pathway may be involved in asperolide A-induced p53-p21-mediated G2/M-phase arrest and growth inhibition in NCI-H460 cells.
+In order to further explore whether the Ras/Raf/MEK/ERK pathway is required by G2/M phase cell cycle arrest induced by asperolide A in NCI-H460 cells, cells were transfected with a dominant negative Ras (RasN17) and then treated with asperolide A for 48 h. The percentage of G2/M phase cells came to normal level and asperolide A-induced increase of p-ERK, p-p53, p21 and decrease of CDC2, cyclin B1 were completely reversed by transfection with RasN17.
+All above strongly suggest it is the Ras/Raf/MEK/ERK signaling pathway that is participating in p53-p21 stabilization in order to induce G2/M arrest in human NCI-H460 lung carcinoma cells.
+We characterize the probable effect of asperolide A on Ras/Raf/MEK/ERK signaling pathway in 
+In summary, our data indicate that: (a) asperolide A inhibit cell-cycle progression at the G2/M phase by decreasing the levels of CDC2, cdc25c and cyclinB; (b) asperolide A-induced G2/M arrest is mediated by p53-dependent p21 induction which is regulated by Ras/Raf/MEK/ERK signaling pathway; and (c) 
+Binding of SOS to GRB2 in the plasma membrane sequentially activates Ras, Raf, MEK1/2, and ERK1/2 [
+Raf/MEK/ERK pathway is the best proven MAPK signaling pathway [
+A recent study suggests that Raf/MEK/ERK signaling is activated by proper accumulation of HA/lipid-raft association within the cellular membrane [
+The protein kinase C (PKC) is an upstream molecule of Raf, which transmits signals to the downstream molecules for the activation of the Raf/MEK/ERK pathway [
+
+('TCF3', 'RUNX1', 'increases')
+TCF3: transcription factor 3; PBX1: pre B-cell leukemia transcription factor 1; BCR: breakpoint cluster region; ABL1: Abelson murine leukemia viral oncogene homolog 1; MLL: myeloid/lymphoid or mixed lineage leukemia gene; ETV6: ets variant gene 6; RUNX1: runt-related transcription factor 1; RUNX1T1: runt-related transcription factor 1 translocated to, 1; MYC: v-myc avian myelocytomatosis viral oncogene homolog; IGH: IgG heavy chain locus; BCL6: B-cell lymphoma 6; SCL: stem cell leukemia hematopoietic transcription factor; TCRA: T-cell antigen receptor, alpha subunit; LMO2: lim domain only 2, t: therapy related.
+The Myc network and the mRNA export machinery are perturbed in ETV6-RUNX1 and TCF3-PBX1 subtypes of leukemia.
+To determine whether the structure of the network is modified after ETV6-RUNX1 or TCF3-PBX1 fusions, we analyzed network topology perturbations using three metrics: characteristic path length (cpl), edge betweenness centrality (ebc), and edge-clustering coefficient (ecc).
+Comparison of local metrics between perturbed edges and the rest of the network for (A) ETV6-RUNX1 and (B) TCF3-PBX1 fusion.
+Taken together, our network topology analysis suggests that ETV6-RUNX1 chromosomal translocation may lead to disruption of molecular interactions important for B-cell communication circuits, whereas TCF3-PBX1 fusion only slightly modifies the structure of the network.
+We ranked nodes based on the proportion of their perturbed interactions in HBCI, and highlighted the 10 most deregulated nodes in ETV6-RUNX1 and TCF3-PBX1 fusion subtypes of ALL.
+The 10 top perturbed pathways after (A) ETV6-RUNX1 and (B) TCF3-PBX1 gene fusion.
+TCF3-PBX1 (gift of David P. LeBrun, Queen's University, Kingston, Canada) and ETV6-RUNX1 (gift of Guy Leclerc, University of Miami, Miami, FL) cDNA clones were also subcloned by Gateway technology into pDEST1899 Flag N-ter vector.
+
+('BRAF', 'MEK1', 'adds_modification')
+Our data indicate that serpinE2 is up-regulated by oncogenic activation of Ras, BRAF and MEK1 and contributes to pro-neoplastic actions of ERK signaling in intestinal epithelial cells.
+Small-molecule inhibitors targeting BRAF reduced MEK1/2-ERK1/2 pathway activation and cell survival; yet, viable cell subpopulations persisted.
+
+('RB1', 'MYC', 'increases')
+Interestingly "transcription from Pol II promoter" was, indeed, one of the biological process identified by EASE analysis as significantly enriched in the list of U87-MG down-regulated genes, where we found the repression of many transcription factors mRNAs such as AHR; CHD1; CNOT2; DEK; ELL2; EPAS1; ETV1; FOXC2; FOXM1; GLI3; GTF2F2; HIPK2; HIRA; ID1; MNAT1; MYC; NCOA6; NCOR1; NR2F2; PBX3; RB1; RBBP8; SMARCA5; TCF4; TFDP1 and TRIP13.
+
+('MYC', 'FOXO3', 'increases')
+FOXO3-induced MYC-mediated gene repression possibly entails an important mechanism by which FOXO indirectly represses gene expression.
+We observe an increase in MXI1 expression, a previously reported FOXO3-induced negative regulator of MYC function (
+
+('STAT1', 'IRF1', 'increases')
+The results obtained by qRT-PCR confirmed the upregulation of BIRC3, CASP1, IRF1, SOD2, and STAT1 by the 24 hours cytokine treatment of Melligen cells.
+Effects on cell proliferation, survival and cell migration were determined in PC3, DU145 and/or LNCaP cells depleted of DTX3L, ARTD8, ARTD9, STAT1 and/or IRF1 compared to their proficient control cells, respectively.
+Quantification of ARTD9, DTX3L, IRF1, STAT1 and pSTAT1 protein levels. 
+Sub-cellular localization of endogenous STAT1 in DU145 and LNCaP cells and quantification of IRF1 protein levels in PC3, DU145 and LNCaP cells. 
+
+('PI3K', 'PDK1', 'increases_activity')
+These signalling cascades include a series of activation events involving Syk, Src, PI3K, PDK1, AKT, IKK, and I
+The CA inhibition was likely due to the inhibition of PI3K and PDK1, important for NF-
+PDK1 and its downstream target, Akt, are serine-theronine kinases that recognize the PI3K generated second messenger, PIP
+Akt/PKB kinase activity depends on two Ras-mediated effector pathways: PI3K, which promotes the PIP3-dependent recruitment of Akt/PKB to the plasma membrane and regulates PDK1 phosphorylation of the Akt/PKB activation loop, and TORC2, which mediates Akt/PKB phosphorylation on the C-terminal hydrophobic motif (
+SGK3-mediated activation of NHE3 is dependent on PI3K and PDK1.
+We showed that both SGK2 and SGK3 contribute to NHE3 activation, but SGK3 uniquely colocalizes with NHE3 to recycling endosomes, enabling acute regulation of NHE3 via the PI3K-PDK1 pathway.
+They are all activated through similar mechanisms involving upstream kinases PI3K and PDK1.
+Several growth factors, including follicle stimulating hormone (FSH), stimulate PI3K to activate phosphoinositide-dependent protein kinase-1 (PDK1) resulting in phosphorylation of Akt and downstream transcription factors including the forkhead winged helix box O1 (FOXO1) triggering follicle activation and development (
+
+('ETS2', 'ETS1', 'increases')
+In conclusion, we found that four out of four testable, known interactors (i.e., NFKB1, ETS1, ETS2, and SP3) and nine out of nine Y1H-detected interactions showed at least one site-specific, reproducibly detected binding peak, providing strong support for the observed Y1H interactions as well as the utility of the MARE assay to resolve DNA binding patterns for specific TFs with DNA elements of interest.
+
+('STAT6', 'STAT5A', 'increases')
+The basal expression of phosphorylated Yes, Src and STAT5A, and the expression after radiotherapy of phosphorylated AKT, MSK1/2, Src, Lyn, Fyn, Hck, and STAT6, were correlated with radiosensitivity in the panel of HNSCC lines.
+
+('DAG', 'PKC', 'increases_activity')
+They integrate several types of intracellular stimuli, including PLC and PKC activity, DAG levels, intracellular calcium levels and PIP
+PKC isozymes are divided into three groups: classic (activated by DAG and Ca
+It has been shown that activation of PKC by PDBu or diacylglycerol (DAG) enhances excitatory synaptic transmission in the hippocampus [
+In summary, the current study demonstrates that DAG is an endogenous ligand for activating TRPV1 by binding at the capsaicin binding site but by acting independently of PKC and lipoxygenase pathway.
+PLC activation also leads to the production diacylglycerol (DAG) which in turn activates protein kinase C (PKC).
+Classical and novel PKCs contain a diacylglycerol (DAG)-binding C1 domain and are therefore regulated by activation of pathways that lead to DAG generation.
+Atypical PKCs are DAG-insensitive and regulated in a different manner [
+Several studies have implicated the DAG-sensitive classical and novel PKC isoforms in promoting malignant features of breast cancer cells.
+Several studies have suggested that DAG-sensitive PKC isoforms contribute to the progression of breast cancer and the malignant characteristics of breast cancer cells.
+Many biochemical mechanisms have been proposed to explain the structural and functional abnormalities associated with overexposure of the vascular tissues to hyperglycemia including advanced glycation end products (AGEs), increase in aldose reductase (AR) activity, free radicals acummulation (reactive oxygen intermediate pathway, ROI), resulting in oxidative stress and protein-kinase C activation (PKC) through diacylglycerol accumulation (DAG).
+Various metabolic pathways triggered by hyperglycemia are involved, such as the polyol pathway, hexosamine pathway, and diacylglycerol (DAG)-protein kinase C (PKC) pathway [
+To mimic the consequences of DAG overproduction associated with hyperglycemia, we treated PC and EC with PMA (a DAG analog) and determined the effects of PKC activation on the downstream HuR/VEGF pathway, similarly to a previous in vitro work on pericytes grown alone [
+Protein kinase C (PKC) is associated with phosphorylation of serine/threonine residues in insulin receptors and is generated due to the synthesis of diacylglycerol (DAG) under the high intracellular concentration of glucose [
+The hyperglycemia induced activation of the diacylglycerol (DAG)-protein kinase C (PKC) pathway has multiple adverse effects on the vascular function.
+Hyperglycemia increases the levels of DAG, which in turn activates PKC.
+DAG is the physiological activator of PKCs, and some PKC isoforms can activate PKDs (
+Several signaling pathways activate PLCs to generate DAGs, physiological activators of PKCs (
+A continuous hydrophobic surface generated by the phorbol ester or DAG facilitates the insertion of the C1 domain into lipid bilayers, which in cPKCs and nPKCs is followed by a conformational rearrangement that leads to kinase activation (
+It is well established that C1 domains play a fundamental role in targeting PKC isozymes and other molecules from the cytosol to membranes both in response to phorbol esters and DAG generated upon receptor activation (
+Our studies also provide evidence for a marked selectivity of C1 domains for binding to p23/Tmp21, because some C1 domains from PKC isozymes and potentially other phorbol ester/DAG receptors have the ability to bind p23/Tmp21.
+Whether this is also true for other PKC isozymes or phorbol ester/DAG receptors such as PKD and RasGRP isozymes remains to be determined.
+PMA activates critical DAG-dependent targets, including PKC and RasGRP1 (
+mGlu: Metabotropic glutamate; SCA1: Spinocerebellar ataxia type-1; PAM: Positive allosteric modulator; NAM: Negative allosteric modulator; ATXN1: Ataxin-1; InsP3: Inositol-1,4,5-trisphosphate; DAG: Diacylglicerol; PKC: Protein kinase C; AMPA: 2-amino-3-(3-hydroxy-5-methyl-isoxazol-4-yl)propanoic acid; LTD: Long term depression.
+
+('LMO2', 'GATA1', 'increases')
+(B) Real-time PCR performed on Hel cells treated with cinnamon extracts showing decreased expression of Stat5b and of the erythroid markers GATA1, LMO2, HbA1, and RhAG; CD44 monocyte differentiation marker expression is increased after treatment with cinnamon extracts; ACTB was used as control housekeeping gene.
+
+('PI3K', 'FAK', 'adds_modification')
+Activated ERK phosphorylates paxillin on S83, promoting its association with activated FAK and PI3K and increasing cell spreading (
+However, we found that luteolin treatment did not interrupt the phosphorylation of ERK as well as affected to a lesser extent on other key regulatory pathway such as MAPK-p38, FAK, and JNK, whereas possible due to luteolin produced the reduction of PI3K/AKT activation.
+EGF stimulation of HER2-overexpressing cells promoted migration by phosphorylation of proteins that belong to different pathways, including PI3K, MAPK, catenins and FAK.
+More specifically, EGF stimulation of HER2-overexpressing cells promoted migration by the phosphorylation of proteins from multiple pathways (e.g., PI3K, MAPK, catenins, and FAK), whereas HRG stimulation of HER2-overexpressing cells activated only a very specific subset of proteins in the canonical migration pathway, in particular FAK, Src, paxillin, and p130Cas.
+Adhesion-dependent FAK activation leads to induction of downstream signaling pathways such as MEK/ERK, a major driver pathway for cell proliferation, or PI3K/Akt, a major cell survival and motility inducer.
+We found that 4HPR inhibited phosphorylated FAK, a protein tyrosine kinase localized at the cell membrane that signals through the PI3K/AKT pathway.
+CXCL13-CXCR5 interaction regulated LNCaP and PC3 cell migration and invasion through extracellular signal-regulated kinase 1/2 (ERK1/2) activation that was primarily dependent on the PI3Kp110 isoform(s), Src, and focal adhesion kinase (FAK), but not DOCK2.
+To determine whether activated PI3Ks, Src, and FAK promoted invasiveness of PCa cells, we used corresponding pharmacological inhibitors and assessed their effect on cell invasion.
+ATCC: American Type Culture Collection; BCA: bicinchoninic acid; DOCK2: dedicator of cytokinesis 2; ERK1/2: extracellular signal-regulated kinase 1/2; FAK: focal adhesion kinase; FBS: fetal bovine serum; HRP: horseradish peroxidase; JNK-MAPK: Janus kinase - mitogen activated protein kinase; MMP: matrix metalloproteinase; PCa: prostate cancer; PI3K: phosphoinositide-3 kinase; PIP2: phosphoinositide 4,5-biphosphate; PIP3: phosphoinositide 3,4,5-triphosphate; PTEN: phosphatase and tensin homolog deleted on chromosome ten; RPMI: Roswell Park Memorial Institute; SDS-PAGE: sodium dodecyl sulfate-polyacrylamide gel electrophoresis; TTBS: Tris-Tween Buffered Saline.
+PI3K and Shc interact with phospho-Y397 of FAK, leading to activation of pro-survival proteins such as Akt.
+Previous studies revealed that growth factors stimulate angiogenesis via activating kinase signaling pathways, including PI3K/AKT, ERK1/2, FAK and p38/MAPK, to regulate endothelial cell migration, survival and vascular permeability (
+An association with FAK and Src has long been established for PI3K (for example [
+We also observed a striking increase in FAK phosphorylation with PI3K inhibition (
+Furthermore, we show that TIM4 uses integrins as coreceptors to effect target engulfment via a FAK-, PI3K-, and RhoA/Rac1/Rac2-dependent pathway.
+Similar to FAK, the PI3K/Akt pathway has been shown to regulate both EMT and survival in a variety of settings and can be regulated by matrix stiffness (
+The effect of dihydroaustrasulfone alcohol is most likely achieved through the inhibition of FAK, which regulates MMP-2 expression through the MAPK and PI3K/AKT signaling pathways.
+
+('TCF3', 'MYC', 'increases')
+TCF3: transcription factor 3; PBX1: pre B-cell leukemia transcription factor 1; BCR: breakpoint cluster region; ABL1: Abelson murine leukemia viral oncogene homolog 1; MLL: myeloid/lymphoid or mixed lineage leukemia gene; ETV6: ets variant gene 6; RUNX1: runt-related transcription factor 1; RUNX1T1: runt-related transcription factor 1 translocated to, 1; MYC: v-myc avian myelocytomatosis viral oncogene homolog; IGH: IgG heavy chain locus; BCL6: B-cell lymphoma 6; SCL: stem cell leukemia hematopoietic transcription factor; TCRA: T-cell antigen receptor, alpha subunit; LMO2: lim domain only 2, t: therapy related.
+
+('GATA3', 'FOXA1', 'increases')
+It is known that FOXA1 and GATA3 are important regulatory proteins in their own right.
+The expression clones encoding ESR1, FOXA1, and GATA3 were purchased from Genecopoeia and verified by sequencing.
+List of previously reported E2-regulated genes that regulate in our MCF-7 and transfected MDA-MB-231-ER+FOXA1+GATA3 cells
+List of luminal and basal marker genes with ER, FOXA1 and GATA3 binding
+FOXA1 and GATA3 are essential components of E
+
+('PI3K', 'AKT1', 'adds_modification')
+Activation of the PI3K-AKT pathway leads to phosphorylation of AKT1 [
+PI3K: Phosphoinositide 3-kinases; AKT1: v-akt murine thymoma viral oncogene homolog 1; UAS: upstream activation sequence; CMV: Cytomegalovirus.
+Although we observed no overt apoptosis in PDAC cells treated either with the PI3K inhibitor Ly294002 or by interference with AKT1 expression using siRNAs (unpublished data), inhibition of the PI3K/AKT signaling sensitizes PDAC cells towards therapeutic induction of apoptosis [
+AKT1, a serine/threonin kinase also known as PKB, functions as a key mediator of the PI3K/AKT pathway.
+PTEN is a major negative regulator of PI3K and loss of PTEN results in increased AKT1 kinase activity.
+Overexpression of PI3K induces an invasive phenotype in breast and ovarian cancer cells, and similar effects are observed in cells overexpressing AKT2, but not AKT1 or AKT3, in vitro and in vivo (
+
+('SHC', 'GRB2', 'binds')
+We produced Strep-HA tagged versions of GRB2, SHC1, ERRFI, UBS3B, ERBB2, GRP78, AP2M1, and CDC37.
+GRB2, SHC1, ERRFI, and UBS3B were found both in EGFR-mutant lung cancer cell lines and in AALE cells with mutant EGFR as a bait and thus represented logical choices to further examine as secondary baits.
+In addition, GRB2 and SHC1 were chosen based on their roles in linking EGFR to downstream MAPK signaling, while ERRFI and UBS3B were chosen based on the previous studies suggesting their roles in mediating RTK signaling.
+In HCC827ER cells with EGFR mutation and MET overexpression, the degree of overlap was reduced with loss of EGFR, GRB2, and SHC1 protein dependence.
+We interpreted our results to mean that EGFR signaling to MAPK through GRB2/SHC1 becomes less important in these cells that use MET to propagate survival signaling.
+We further defined specificity of components of the 14 core network for cells dependent on mutant EGFR for survival and identified EGFR, GRB2, MK12, SHC1, ARAF, CD11B, ARHG5, GLU2B, and CD11A as especially vulnerable in EGFR-mutated and EGFR-dependent lung cancer cell lines.
+This list included the novel guanine exchange factor ARHG5 in addition to adaptor proteins GRB2 and SHC1.
+
+('RUNX1', 'NRAS', 'increases')
+Genomic DNA was also tested for mutations in 19 genes that are recurrently mutated in myeloid neoplasms, including ASXL1, EZH2, RUNX1, IDH1, IDH2, KRAS, NRAS and TET2.
+
+('Raf-1', 'MEK', 'adds_modification')
+Phosphatidylethanolamine-binding protein (PEBP) has been reported to act as a negative regulator of the ERK cascade (Raf-MEK-ERK) by binding to Raf-1 kinase.
+SHIP2 is able to activate Ras through Grb2 and SOS, leading to the phosphorylation and activation of Raf-1/MEK-1/MAP kinases [
+This, in turn, induces Raf-1 kinase translocation to the plasma membrane and Raf-1-mediated phosphorylation of MEK proteins (MEK1 and 2).
+We further provide evidence that inhibition of PKD blocks mitotic Raf-1 and mitogen-activated protein kinase kinase (MEK) activation, and, as a consequence, mitotic Golgi fragmentation, which could be rescued by expression of active MEK1.
+Our previous results indicate that PKD is upstream of the Raf-1/MEK pathway in mitotic Golgi fragmentation.
+In intact cells we further show that PKD is critical for Golgi fragmentation in the late G2 phase of the cell cycle and mitotic entry by activating the Raf-1/MEK1 pathway.
+The importance of the Raf-1/MEK1 pathway in Golgi mitotic checkpoint control is underscored by the fact that expression of active MEK1 in PKD1/2-depleted cells rescued the block in Golgi membrane fragmentation and mitotic entry.
+Raf-1 is immediately upstream of MEK1 (
+And c-Raf (Raf-1), the main effector recruited by GTP-bound Ras to activate the MEK-MAP kinase pathway, was also enhanced activity by phosphorylation at Ser338 (
+
+('PI3K', 'BTK', 'translocates')
+Recruitment of PI3K leads to the production of phosphatidylinositol-3,4,5-triphosphate (PIP3) and subsequent BTK and AKT activation.
+
+('TFDP1', 'MYC', 'increases')
+Interestingly "transcription from Pol II promoter" was, indeed, one of the biological process identified by EASE analysis as significantly enriched in the list of U87-MG down-regulated genes, where we found the repression of many transcription factors mRNAs such as AHR; CHD1; CNOT2; DEK; ELL2; EPAS1; ETV1; FOXC2; FOXM1; GLI3; GTF2F2; HIPK2; HIRA; ID1; MNAT1; MYC; NCOA6; NCOR1; NR2F2; PBX3; RB1; RBBP8; SMARCA5; TCF4; TFDP1 and TRIP13.
+
+('E2F1', 'MYC', 'increases')
+To investigate the primary target of miR-34a that may help to explain the association between the increased miR-34a overexpression and cisplatin chemosensitivity, we initially measured the expression of some well-known targets of miR-34a in 5637, T24 and HT-1376 cells following cisplatin treatment, including MYC, TP53, BCL2, NOTCH1, CDK6, SIRT1, E2F1, CDK4, HGF, NOTCH2, SOX2 and CD44.
+To investigate the primary target of miR-34a that could be the potential mechanism underlying the association between the increased miR-34a expression and cisplatin chemosensitivity, we initially measured the expression of some well-known targets of miR-34a in 5637, T24 and HT-1376 cells following cisplatin treatment, including MYC, BCL2, NOTCH1, CDK6, SIRT1, E2F1, CDK4, HGF, NOTCH2, SOX2 and CD44 [
+First, the malignancy ITAI genes MYC, E2F1, and p21 were measured in an additional set of primary normal and malignant lung samples to more firmly establish the threshold separating them.
+MYC TA level was not decreased considerably in the A549/p21 stable clones compared to the parental A549 in the context of a five-fold decrease in E2F1 TA level.
+This is in contrast to reports that in some contexts E2F1 is a transcription factor for MYC [
+GSEA identified enriched gene expression patterns in TN samples that share common promoter motifs associated with SOX9, E2F1, HIF1A, HMGA1, MYC BACH2, CEBPB, and GCNF/NR6A1.
+
+('JUN', 'FOXA1', 'increases')
+Here, using massive parallel sequencing, we analyzed the areas of open chromatin, and genome-wide occupancy of six histone methylation/acetylation marks in MCF-7 cells, and two factors likely to be co-localized with ER binding, FOXA1 and AP1 (FOS and JUN).
+
+('FOXD3', 'NRAS', 'increases')
+They include NRAS, Erbb3 and Src, and the transcription factor FOXD3 (Fig
+
+('YY1', 'SRF', 'increases')
+The conserved elements in exon 1c are related to binding sites for three transcription factors involved in neuronal gene regulation: Pou6f1, YY1, and REST/NSRF (Ballas and Mandel 
+
+('MEK', 'ERK', 'adds_modification')
+The Raf/MEK/ERK and PI3K/Akt pathways are prominent effectors of oncogenic Ras.
+Complex formation is independent of MEK1 kinase activity but requires phosphorylation of T292 on MEK1 by activated ERK.
+The Raf/MEK/ERK pathway is among the most thoroughly studied downstream effectors of activated Ras (
+The dual specificity kinases MEK1 and MEK2 are activated by RAF and mediate phosphorylation of ERK1 and ERK2 (
+MEK1 and MEK2 also bind differentially to scaffolds such as MP1, which plays a role in ERK1 activation at late endosomes (
+We have recently reported that MEK1 is essential for the regulation of the timing and strength of ERK signaling.
+By phosphorylating the T292 site in the proline-rich region of MEK1, ERK exerts negative feedback control on MEK1/MEK2 dimers.
+If MEK1 is absent, this control is disabled, leading to increased ERK signaling (
+Indeed, MEK inhibitors blocked both ERK and T292 phosphorylation, concomitantly increasing AKT phosphorylation (
+In this case, however, the WOX1/MEK1 complex dissociates upon ERK activation (
+In this context, MEK reportedly binds to paxillin, and growth factor treatment induces the recruitment of Raf and ERK to this complex.
+Phosphorylation and expression of AKT, ERK, MEK1, and tubulin (loading control) were determined by immunoblotting (E).
+This site proved essential to mediate MFN1-dependent mitochondrial elongation and apoptosis regulation by the MEK/ERK cascade.
+Moreover, neuronal apoptosis following oxygen glucose deprivation and MEK/ERK activation required an intact MFN1
+Since both the MEK/ERK pathway and changes in mitochondrial morphology have been implicated in the modulation of apoptosis (
+To better understand the physiological relevance of MEK/ERK modulation of mitochondrial morphology and permeabilization, we turned our attention to oxidative stress, during which MEK/ERK are activated.
+This activation of the receptor then induces the activation of intracellular effectors via intracellular signaling pathways, including one where rapidly accelerated fibrosarcoma (RAF) activates the dual kinase, mitogen-activated protein kinase (MAPK)/extracellular signal-regulated kinase (ERK) kinase (MEK), which then activates the ERK pathway.
+Although miR-4689 and siRNA-mediated silencing of MEK1 and MEK2 had similar effects on ERK phosphorylation (
+We selected for therapeutic miRNAs, mainly by evaluating the RAF/MEK/ERK pathway, and measuring SRE activity after treatment with specific miRNAs.
+After screening for SRE/AP1 activity, we identified miR-4689 and miR-4685-3p as potent inhibitors in the RAF/MEK/ERK or MEKK/SEK/JNK pathway.
+Earlier studies have shown that targeting either the RAF/MEK/ERK or the PI3K/AKT pathway alone was not sufficient to regulate the entire EGFR signaling pathway, because one signal transduction branch could compensate for diminished signaling in another branch.
+JAK-2 is linked to several other pathways including STAT-5 and the RAS-MEK-ERK-MAPK cascade.
+Growth factors bind to RTKs and stimulate both the Ras/Raf/MEK/ERK and PI3K pathways.
+administration of PD98059, an ERK upstream kinase (MEK) inhibitor, completely blocked the formalin-induced inflammatory nociceptive responses.
+Intrathecal administration of the MEK inhibitor, U0126, prevented both mechanical and thermal hypersensitivity from 1 hr to 2 d. p-ERK1/2 and p-p38 were expressed in neurons in distinct regions of the L4/L5 dorsal horn; p-ERK1/2 was mainly in lamina I, while p-p38 was mainly in lamina II of the dorsal horn.
+ANOVA: Analysis of variance; BV: Bee venom; CFA: Complete Freund's adjuvant; DMSO: Dimethyl sulfoxide; DRG: Dorsal root ganglia; ERK: Extracellular signal-regulated protein kinase; IR: Immunoreactivity; JNK: c-Jun N-terminal kinase; MAPK: Mitogen activated protein kinase; MEK: MAPK/ERK kinase.
+administration of MEK1/2 inhibitor PD98059 caused significant inhibition of the head-withdrawal reflex after Glu injection itself into the tongue or whisker pad skin, and also inhibited the heat head-withdrawal reflex and ERK phosphorylation in Glu-injected rats.
+In order to block the ERK phosphorylation in neurons and TG primary afferent terminals in the Vc and C1-C2, MEK1/2 inhibitor PD98059 (CalBiochem, San Diego, CA) was i.t.
+We acutely blocked ERK activation in the CeA by infusing the MEK inhibitor U0126 into the right or the left hemisphere and then measured the behavioral effects on inflammation-induced mechanical hypersensitivity in mice.
+Here, we show that LTP induced by three different induction protocols were completely blocked by the MAPK/ERK kinase (MEK) inhibitor applied postsynaptically.
+In this study, we demonstrated that ERK activation is required for the induction of LTP in the ACC and that the MEK inhibitors did not affect the maintenance phase of cingulate LTP.
+This study was designed to use Western blot analysis to investigate the role of mitogen-activated protein (MAP)/extracellular signal-regulated kinase (ERK) kinase (MEK 1/2), PKA and PKC in regulating the phosphorylation of CREB in the spinal cord of rats following intraplantar capsaicin injection.
+Recently, mitogen-activated protein (MAP)/extracellular signal-regulated kinase (ERK) kinase (MEK 1/2) was reported to play a critical role in spinal dorsal horn neurons in response to various painful stimuli [
+Increased spinal ERK phosphorylation is important for pain behaviors based on the MEK inhibitor studies.
+Since ERKs are the only known substrates of MEK, the MEK inhibitor, UO126 (Cell Signaling, Danvers, Massachusetts, USA) was used to produce ERK inactivation.
+The MAPKs family contains at least three protein kinases in series: JNK, p38 MAP kinase and MEK (a kinase immediately upstream of ERK that phosphorylates the tyrosine and threonine residues on ERK1/2 required for activation).
+These studies have utilized pharmacological inhibition of MEK to demonstrate a role for ERK signaling in pain, but this approach cannot distinguish between effects of ERK in neuronal and non-neuronal cells.
+In addition, spinal ERK phosphorylation following formalin injection was significantly reduced in the DN MEK mice.
+Further examination of the effects of suppression of MEK function on a downstream target of ERK phosphorylation, the A-type potassium channel, showed that the ERK-dependent modulation of the A-type currents is significantly reduced in neurons from DN MEK mice compared to littermate wild type controls.
+Our results demonstrate that the neuronal MEK-ERK pathway is indeed an important intracellular cascade that is associated with formalin-induced inflammatory pain and thermal hyperalgesia.
+Activated raf phosphorylates MEK which phosphorylates ERK1 and ERK2 on tyrosine and threonine residues.
+To study the importance of ERKs in nociception, most studies mentioned above have utilized intrathecal pharmacological inhibition of MEK using either PD 98059 or U0126, which may inhibit MEK function in both neuronal and non-neuronal cells.
+We next investigated whether the reduced inflammatory nociception was associated with reduced ERK activation in the DN MEK mice.
+Extracellular signal-regulated kinases have a central role in nociceptive sensitization in the spinal cord; we therefore examined activation of ERK at this site in either wild type or DN MEK mice following formalin injection.
+Although basal phosphorylated ERK is minimal in mouse spinal cords without noxious stimuli, we investigated whether expression of the DN MEK transgene would alter basal ERK activation in the DN MEK mice.
+There was no significant difference in the amount of basal phospho-ERK1 or phospho-ERK2 between the wild type and DN MEK mice spinal cords in either male or female mice (Fig 
+Basal phosphorylation of ERK is similar in the wild type and DN MEK mice spinal cords.
+Reduced phospho-ERK in DN MEK mice spinal cords 15 minutes after 2 % formalin injection in the hind paw.
+A, Representative immunoblots of ipsilateral (ipsi) and contralateral (contra) mouse spinal cord homogenates from a wild type or a DN MEK mouse using a phospho-ERK 1/2 antibody (top) or a total ERK 1/2 antibody (bottom).
+#p < 0.05, significant differences in ipsilateral phospho-ERK between the wild type and DN MEK mice.
+To further investigate whether there is a functional deficit of the MEK-ERK cascade specifically in spinal cord neurons of the DN MEK mice, we asked whether ERK regulation of a downstream target, the transient A-type potassium channel, is altered in these mice.
+The present study reports several important findings regarding the role of the neuronal MEK-ERK cascade in nociception.
+The DN MEK mutant mice present a functional reduction of the activity of neuronal MEK, the kinase that selectively activates ERK 1 and ERK 2 [
+A recent paper reported decreased basal ERK activity in the hippocampi of the DN MEK mice [
+Reduction of thermal hyperalgesia in the DN MEK mice is possibly due to decreased central sensitization since we showed clearly that spinal ERK activation following formalin injection was decreased in these mice.
+In this study we examined cross sections of the sciatic nerves of the DN MEK mice in order to determine whether reduced ERK activation following formalin injection was due to reduced number of unmyelinated peripheral fibers.
+The current studies further show that ERK-mediated modulation of A-type potassium channels is impaired in spinal dorsal horn neurons from DN MEK mice.
+We tested a MEK inhibitor, U0126, which is an upstream regulator of ERK1/2 [
+Finally, intrathecal injection of the MEK1 inhibitor PD98059 blocked both reduced hind-limb grip force and pERK1/2 induction in MIA-OA rats.
+To examine the functional role of spinal pERK in mediating nociceptive behavior, the MEK (ERK1/2 kinase) inhibitor PD98059 was tested in 3-wk MIA-OA rats.
+It was observed that increased spinal ERK1/2 phosphorylation in 3-wk MIA-OA rats was blocked by the MEK inhibitor PD98059 when examined 30 min following acute intrathecal administration, as would be expected.
+The effects of a MEK inhibitor on MIA-induced pain behavior and pERK1/2 expression were evaluated.
+injection of MEK inhibitor caused significant attenuation of ERK phosphorylation in Vc and C1-C2 neurons and in nocifensive behaviors to heat, cold and mechanical stimuli in the capsaicin-treated rats.
+administration of the MEK inhibitor PD98059 causes a significant reduction of ERK phosphorylation in Vc neurons as well as spinal DH neurons [
+The MEK1/2 inhibitor PD98059 was used as the inhibitor for ERK phosphorylation.
+NGF-evoked CGRP up-regulation is also blocked by inhibition of the MEK/ERK pathway with specific MEK inhibitors U0126 and PD98059, but not by inhibition of the PI3K/Akt pathway with inhibitor LY294002.
+Prevention of ERK activity with a MEK inhibitor PD98059 that blocks both ERK1/2 and ERK5 attenuates retrograde NGF-induced CGRP up-regulation in the DRG neuronal soma.
+Examination of retrograde pathways that are initiated by NGF leading to CGRP expression in DRG shows that application of specific inhibitors against the MEK/ERK pathway blocks retrograde NGF-induced CGRP up-regulation in the sensory neuronal cell body, while inhibition of the PI3K/Akt pathway has no effect.
+administration of MEK1/2 inhibitor PD98059 caused significant suppression of the number of pERK-LI cells in Vc and C1-C2 compared to vehicle-administrated rats, and depressed the mechanical allodynia and heat hyperalgesia in CNX rats.
+It has been shown that stress induced by the isolation procedure and plating of the cells can activate signaling pathways including the PI3K/Akt and the Raf/MEK/ERK pathway (Fausto 
+We set the total protein abundances for MKKK (Raf), MKK (MEK) and ERK for our model on the basis of previous estimates (
+
+Unsupervised clustering of melanoma cell lines based on the VIP scores >1 from each individual cell line model (excluding pMEK and pERK).
+To develop an overall metric of adaptive response in RAF and MEK inhibitor-treated melanoma cells, we correlated target inhibition (as measured by pERK
+
+Comparison of the level of 1-h pERK inhibition between two cell lines (C32 and WM1552C) treated with four RAF inhibitors and one MEK inhibitor.
+
+As relevant readouts of molecular and phenotypic responses, we chose phospho-protein levels of seven regulators of survival, proliferation and protein synthesis (p-AKT-S473, p-ERK-T202/Y204, p-MEK-S217/S221, p-eIF4E-S209, p-c-RAF-S289/S296/S301, p-P70S6K-S371 and pS6-S235/S236) as well as flow cytometric observation of two phenotypic processes (cell cycle arrest and apoptosis) (
+For each treatment, we used western blots to detect levels of the proteins phospho-AKT, phospho-ERK, phospho-MEK, phospho-eIF4E, phospho-c-RAF, phospho-p70S6K and phospho pS6.
+We also investigated a hypothesis resulting from preliminary examination of the experimental data and model simulation results: the differential sensitivity of EGF- and HRG-stimulated ERK activity to the MEK inhibitor U0126.
+A key insight that emerges from the data and analysis described above is that the transience of ERK phosphorylation does not simply reflect a slow dephosphorylation of ERK following the rapid adaptation of MEK by negative feedback.
+This implies that adaptation of MEK is not necessary, and that substrate interactions are sufficient, to explain the adaptation of ERK phosphorylation.
+To show this, we fit to the ERK data a variant of the model in which MEK activity is held constant.
+Increasing the input strength yields greater ERK phosphorylation by active MEK in the cytosol, resulting in greater influx of ERK into the nucleus.
+From a process control perspective, one might conjecture that the pathway, subject as it is to strong negative feedback affecting MEK, is tuned so that mobilization of active ERK is not accompanied by dramatic overshoot.
+The time scale associated with the decay of nuclear ERK or EKAR following MEK inhibition was defined as 
+Activated ERK governs negative feedback through desensitization of MEK phosphorylation.
+As expected, exposure to PLX4720 led to down-regulation of the phosphorylation state of kinases within the MAPK pathway: phospho-MEK, phospho-ERK1/2 and phospho-p90RSK (Fig
+
+MEK, ERK and p90RSK phosphorylation levels.
+
+Two highly related isoforms, MEK1/2 and ERK1/2, respectively, act similarly in most experimental settings suggesting that they are functionally redundant (
+Signal transmission through this pathway involves activation by dual phosphorylation of MEK and ERK, respectively.
+In a processive mechanism a single molecule of MEK binds ERK, catalyses phosphorylation of both threonine and tyrosine of the conserved TEY motif in the ERK activation loop, and subsequently dissociates.
+For subsequent ERK activation, a single-step processive model and a two-step distributive model were compared considering both MEK1/2 and ERK1/2 isoforms.
+It has been suggested that under physiological conditions only a minor pool of MEK and ERK is engaged by scaffolds (
+To analyse whether a possible cross-reaction with single-phosphorylated MEK/ERK would affect our results, we stimulated primary CFU-E cells for different times and loaded the cellular lysates on two gels in triplicates.
+The first blot was analysed with the polyclonal antibodies that were used in this study, the second blot with monoclonal antibodies that specifically only recognise double-phosphorylated MEK or double-phosphorylated ERK and do not cross-react with the single-phosphorylated species (
+The effect of enzyme saturation was analysed by establishing two additional models by adding complex formation to the phosphorylation reactions of MEK and ERK as shown in 
+In a systematic effort to identify novel substrates of ERK1/2, we have capitalized on advances in mass spectrometry (MS) instrumentation, quantitative phosphoproteomics and bioinformatics to measure the dynamic changes in phosphorylation of ERK1/2 consensus sequences in response to cell stimulation and pharmacological inhibition of MEK1/2 in intestinal epithelial cells.
+Selection of phosphopeptides whose relative abundance is regulated positively upon serum stimulation and negatively following MEK1/2 inhibition resulted in a list of 155 candidate ERK1/2 substrates (232 phosphorylation sites) (
+We also noted that changes in the phosphorylation status of several kinases and regulators acting upstream of ERK1/2, such as Pak1, Raf1, Map3k1, MEK1, MEK2, Ksr1, Rras2 and Ywhae (14-3-3 epsilon), were detected in cells treated with PD184352 (
+To directly test these cell cycle and apoptosis predictions, we inhibited ERK activation using the MEK inhibitor PD98059, at either the same time as doxorubicin treatment, or 2 h later.
+In future work, it will be crucial to determine under what genetic background and DNA-damaging conditions ERK1/2 is pro-survival and under what conditions it can promote apoptosis in order to effectively implement chemotherapeutic regimens that combine DNA damaging chemotherapeutic agents with MEK inhibitors.
+Serial dilutions of phosphorylated human recombinant ERK2 (Proteinkinase, Biaffin GmbH & Co KG, Germany) and of phosphorylated human recombinant MEK1 (Millipore, Billerica, MA) were prepared in RPPA lysis buffer.
+Using the model, we predict that in contrast to single inhibition, combined inactivation of MEK and EGFR could inactivate both endpoints of RAS, ERK and AKT.
+When we compared the model predictions with the data, we found that our literature model failed to explain an increase of MEK and ERK phosphorylation after IGF treatment that was visible in multiple cells.
+Interestingly, this increase in ERK phosphorylation did not coincide with an increase in MEK levels, thus the effect of IKK inhibition on ERK cannot be explained via upstream components in the pathway.
+All cells show negative response coefficients for feedback regulation from ERK via EGFR back to MEK (orange box in 
+Although some signaling cascades such as Ras/PI3K/PTEN/Akt/mTOR, Ras/Raf/MEK/ERK and p53 have been implicated in regulation of tumor radioresistance, the detail mechanism is still largely unknown.
+EGFR-mediated Ras-Raf-MEK-ERK and PI3K-PTEN-AKT pathways plays an important role in transmission of signals from membrane receptors to downstream targets that regulate apoptosis, cell growth and angiogenesis.
+Cells were treated with MEK inhibitor UO126 (Alexis Biochemicals, CA) to block MEK-ERK pathway.
+Over activity of the RAS/RAF/MEK/ERK mitogen-activated protein kinase (MAPK) pathway is the hallmark of the majority of melanomas, which is frequently due to mutations in 
+Some of the more sensitive cell lines to the combination therapy showed higher basal levels of p-MEK and p-ERK than the more resistant cell lines.
+Sensitive cell lines showed higher level of p-MEK and p-ERK as opposed to the more resistant cell lines that had lower baseline levels of these two phosphoproteins.
+The aim of this study was to investigate whether the oncogenic phenotype in the human muscle-derived Rhabdomyosarcoma (RD) cell line and in non muscle-derived human tumor cell lines (SW403, IGR39 and PC3) can be blocked by disrupting the c-Myc pathway either by means of pharmacological MEK/ERK inhibition or by direct inactivation of the c-Myc protein.
+We demonstrate that, in all the tumor cell lines used, the MEK/ERK inhibitor U0126 rapidly induces c-Myc de-phosphorylation, which is followed by a marked reduction in its expression level, by inhibition of proliferation and by reversion of anchorage-independent growth.
+Our data provide evidence of the key role played by the MEK/ERK pathway in the growth arrest and transformation phenotype of Rhabdomyosarcoma and of non muscle-derived tumor cell lines.
+In fact, MEK/ERK inhibitor, U0126, induces growth arrest, anchorage-dependent growth of these cell lines.
+Both the c-Myc and Ras/MEK/ERK pathways play an important role in the progression of the G1-cell cycle phase by enhancing cyclins expression [
+Given the synergistic relationship between MEK/ERK and c-Myc in cell growth and malignant transformation, the blocking of the MEK/ERK pathway [
+Since we found that U0126, a MEK/ERK pathway inhibitor, induces p21
+We found that the disruption of the MEK/ERK pathway, by means of the MEK inhibitor U0126, dramatically decreased c-Myc expression level, inducing growth inhibition and reversion of anchorage-independent growth in all the cell lines used.
+MEK/ERK inhibition affects c-Myc phosphorylation and expression in RD cells. 
+To investigate whether the anti-growth and anti-oncogenic effects of MEK/ERK inhibition are peculiarity of soft tissue-derived tumor cell lines, such as RD, we used IGR39 melanoma-, SW403 colon adenocarcinoma-, PC3 prostate-derived human tumor cell lines, C2C12 and NI3T3 as control untransformed muscle and non-muscle cell lines.
+We first investigated, in time course experiments either with or without U0126, the effects of MEK/ERK inhibition on the c-Myc phosphorylation level and expression.
+These data show that cell transformation of different tumor-derived cell lines is halted by inhibition of MEK/ERK pathway followed by c-Myc down-regulation.
+The pharmacological inhibitors of Ras/MEK/ERK signalling are arousing considerable interest on account of their potential therapeutic uses [
+In an attempt to determine the specific role of c-Myc in sustaining aberrant growth as well as cell transformation and inhibition of differentiation, we used RD cells on account of their ability to undergo growth arrest and myogenic differentiation upon MEK/ERK inhibition [
+Our data provide evidence that the cooperation between MEK/ERK and c-Myc pathways play a major role in the expression of transformed phenotype in muscle and non muscle-derived transformed cell lines.
+In conclusion these data strongly suggest that the targeting of c-Myc by means of the MEK/ERK inhibitor can be tested as a promising strategy in anti-cancer therapy.
+RD, rhabdomyosarcoma cell line; MEK, Mitogen-activated protein Extracellular Kinase; ERK, Extracellular signal-Regulated protein Kinase.
+Growth factors can activate ERK1/2, and ERK1/2 activation is closely related to cancer cell migration and invasion, which may be regulated by the upstream kinase MEK1/2 via the growth factor-induced metastasis-associated pathway [
+To determine whether EGF affects the migration and invasion of IBDC cells via ERK1/2 signaling, BT474 cells were treated with EGF in the presence or absence of ERK1/2 siRNA or the MEK/ERK pathway inhibitor, U0126.
+ERK1/2 are important regulators of progression and metastasis in a variety of cancers via the MEK/ERK/AP-1 signaling pathway [
+ERK1/2 is activated by MEK1/2 [
+However, OPN-induced phosphorylation of p70S6 kinase at Thr-421/Ser-424 is being controlled by MEK/ERK pathway.
+Moreover, OPN-induced phosphorylation of p70S6 kinase at Thr-421/Ser-424 is being controlled by MEK/ERK pathway.
+Moreover, the results deciphered the role of OPN and rapamycin in regulating mTOR and p70S6 kinase phosphorylations and involvement of MEK/ERK pathway in this process.
+Sorafenib is a multikinase inhibitor targeting the MAP kinase pathway (RAF/MEK/ERK) as well as several other receptor tyrosine kinases including VEGFR, PDGFR, FLT3, Ret and c-kit [
+MEK1/2 and its downstream kinases ERK1/2 have been implicated in radioresistance in HNSCC before, although the effect of pathway inhibition on radiosensitivity is inconsistent
+[
+FICZ causes changes in signaling events that are known to drive differentiation, and notably augments the RA-induced sustained activation of the RAF/MEK/ERK axis of the mitogen-activated protein kinase (MAPK) cascade.
+This process requires sustained activation of MAPK signaling along the RAF/MEK/ERK axis [
+The RA-regulated RAF/MEK/ERK axis has been found to be associated with a number of signaling regulatory molecules in a putative signalsome that propels RA-induced differentiation.
+Specifically, FICZ augments RAF/MEK/ERK axis MAPK signaling, Src-family kinase activation and the RA-dependent upregulation of VAV1, c-Cbl, pY458 p85PI3K, and IRF-1 expression.
+Considering that PHB forms a signaling complex with CRAF to regulate RAF-MEK-ERK pathway, we demonstrated that PHB was highly expressed in human pancreatic cancer and depletion of PHB reduced in vitro invasion of RAS-driven cancer cells.
+Using the MEK1/2 inhibitor, U0126 and stably transfected shERK1 and shERK2 MM cell lines, we show that inhibition of both ERK1 and 2 sensitizes MM cells to Dox.
+We have shown that uPA and uPAR downregulation inhibits invasion in SNB19 glioma cells by decreasing phosphorylation of the Ras-activated FAK, p38MAPK, JNK and ERK1/2, as well as the MEK-activated phosphatidylinositol 3-kinase, AKT and mTOR pathway, indicative of a feedback signaling mechanism of the uPAR/uPA system [
+Adhesion-dependent FAK activation leads to induction of downstream signaling pathways such as MEK/ERK, a major driver pathway for cell proliferation, or PI3K/Akt, a major cell survival and motility inducer.
+Consistently, major downstream signaling pathways such as PI3kinase/Akt as well as MEK/ERK were only activated upon cell adhesion on fibronectin whenever the cytoplasmic domain of CD98hc was present.
+Indeed, the inhibition of ERK pathway resulting from treatment with UO126, a MEK-specific inhibitor, did not affect phosphorylation of ERM (Figure 
+Our data indicate that serpinE2 is up-regulated by oncogenic activation of Ras, BRAF and MEK1 and contributes to pro-neoplastic actions of ERK signaling in intestinal epithelial cells.
+Here we found that exposure of HepG2 cells to GCDA results in activation of ERK1 and ERK2 and phosphorylation of Mcl-1 in a PD98059 (MEK inhibitor)-sensitive manner.
+In this context, 6-ME inhibited in a dose dependent manner the phosphorylation of MEK1/2, the only known upstream activator of ERK1/2.
+6-ME inhibits VEGF- and FGF2-induced proliferation of ECs by targeting the phosphorylation of MEK1/2 and it downstream substrate ERK1/2, both key components of the mitogenic MAPK pathway.
+Thus, inhibition of MEK1/2 and consequently ERK1/2 phophorylation was the sole cardinal effect of 6-ME on the signaling cascade of VEGF in HUVECs; activation of AKT and P38 were unaffected.
+The molecular target of 6-ME is upstream of MEK1/2 inhibiting phosphorylation of MEK1/2 and ERK1/2 kinases that are important components of the mitogenic MAPK pathway.
+Downstream targets such as phosphorylated Shc, MEK1,2 and ERK2 also decline.
+S298 in MEK1 is targeted by p21-activated kinase (PAK) in response to integrin signaling and stimulates the association of MEK1 with ERK [
+Akt: Protein kinase B; CI: Combination index; DMSO: Dimethyl sulfoxide; ELISA: Enzyme-linked immunosorbent assay; ERK: Extracellular signal-regulated kinase; IGF-1R: Insulin-like growth factor 1 receptor; MAPK: Mitogen-activated protein kinase; MEK: Mitogen-activated protein kinase/extracellular signal-regulated kinase kinase; mTOR: Mammalian target of rapamycin; PI3K: Phosphoinositide 3-kinase; 
+Inhibition of ERK1 and ERK2 (ERK1/2) is a promising strategy to address both innate and acquired resistance to BRAFi and MEKi, regardless of the upstream mechanism(s) of MAPK reactivation.
+SCH772984 is a potent, ATP competitive and non-competitive inhibitor of ERK 1/2, with additional allosteric properties that inhibit ERK activation/phosphorylation by MEK [
+We next examined whether cells inherently resistant to BRAFi could be sensitive to a MEK inhibitor (MEKi) or ERKi.
+To address whether there are differences in MEK inhibition or ERK inhibition on apoptosis, we performed cell cycle analysis on three melanoma cell lines with distinct sensitivity profile to SCH772984: M263 (sensitive), M255 (intermediately sensitive) and M370 (resistant).
+Previously published reports have documented promising preclinical activity of ERK inhibition in BRAFi or MEKi resistant cell line models [
+Primary antibodies included pERK Thr202/Tyr204, total ERK, pMEK Ser217/221, total MEK, pAKT Ser473, total AKT, pRSK, total RSK, beta-actin (all from Cell Signaling Technology, Danvers, MA).
+There is a high level of ERK1/2 phosphorylation in WM9 cells, indicating an activated Ras-Raf-MEK-ERK1/2 MAPK pathway.
+Little is known about the hypoxic induction of members of the Ras/Raf/MEK/ERK signalling pathway.
+Activation of the Raf/MEK/ERK pathway has been often associated with the promotion of cell proliferation but also represents, in addition to the PI3K/Akt pathway, an important survival signaling pathway in many tumor cells
+[
+Downstream of the receptor, the following inhibitors were used; the PI3K inhibitor LY294002, small molecular inhibitor of MEK called U0126 (thus downstream inhibition of extracellular-related kinase (ERK1 and ERK2) mediated responses), a small molecule inhibitor of JAK (Janus Kinase) called AG490 and an inhibitor of its partner signal transducers and activators of transcription-3 (STAT3) called Stattic (Figure 
+Furthermore, our data verified a role for HMGB1 in the regulation of the Beclin1-PI3K-III complex through the mitogen-activated protein kinase (MEK)-extracellular signal-regulated kinase (ERK) pathway.
+In addition, we found that HMGB1 promoted Beclin-1-PI3K-III core complex formation through the MEK/ERK1/2 pathway.
+Furthermore, HMGB1 promotes Beclin-1-PI3K-III complex formation, potentially through the MEK/ERK1/2 pathway.
+In addition, we verified that the activation of the MEK-ERK1/2 signaling pathway was involved in HMGB1-mediated formation of the Beclin-1-PI3K-III complex.
+HMGB1 promotes the formation of Beclin-1-PI3K-III complex through activating the MEK/ERK1/2 signaling pathway, thereby regulating autophagosome formation.
+Because TQ affects the central RAF/MEK/ERK1/2 pathway, the combination of TQ with targeted therapies is worth considering for future anticancer treatments.
+PAK1 has been described as a scaffold for ERK1/2/MEK to recruit MEK to RAF at the membrane [
+Our data provide evidence of the key role played by the MEK/ERK pathway in the growth arrest of Rhabdomyosarcoma cells.
+The results of this study suggest that the targeting of MEK/ERKs to rescue p21
+The MEK/ERK pathways control the growth and survival of a broad spectrum of human tumors [
+In order to identify the molecular mechanism of G1 arrest following ERK activation and MEK/ERK inhibition in RD cells (see 
+Unlike TPA, MEK/ERK inhibition induces p21
+In order to establish whether sustained activation of the MEK/ERK pathway plays a role in post-transcriptional-mediated p21
+The apparently contrasting result regarding the activation or inhibition of the MEK/ERK pathway, both as a cause of growth arrest and myogenic differentiation, might reflect the involvement of other MAPK pathways, MAPK-p38 being the most likely candidate.
+Both the MEK-ERK inhibitor and TPA induce myogenic-specific gene expression, with MHC accumulation in U0126-treated cells occurring earlier than in TPA-treated cells.
+In this study we highlight the importance of targeting the MEK/ERK pathway as a means of restoring the expression of the tumor suppressor p21
+RD, rhabdomyosarcoma cell line; MEK, Mitogen-activated protein Extracellular Kinase; ERK, Extracellular signal-Regulated protein Kinase.
+Also contributory to the control of G1 is the Ras effector pathway Raf/MEK/ERK MAP kinase.
+Constitutive activation of MEK/ERK has been reported in cancer cells [
+As the activator of Ras/MEK/ERK pathway, Grb2-Sos1 complex is crucial for regulating cell proliferation, tumorigenesis, early embryonic stem cell fate and normal development [
+Having established that ERK signalling levels were high in OE33 cells we used the MEK inhibitor U0126 to block ERK signalling and investigated its effect on OE33 cell invasion and proliferation.
+The RAS/RAF/MEK/ERK (RAS/ERK) and PI3K/AKT signaling pathways regulate gene expression programs that promote cell growth, proliferation, motility, and survival [
+RAS/ERK signaling can be initiated by tyrosine kinase receptors that activate RAS, followed by the RAF/MEK/ERK kinase cascade, resulting in phosphorylated ERK (pERK).
+Antibodies for immunoblotting were: ERK (sc-94) and pERK (sc-7383) from Santa Cruz Biotechnology, ETV5 (ab102010) and ETV1 (ab81086) from Abcam, pAKT (S473) and pMEK (9121) from Cell Signaling, Tubulin (T-9026) from Sigma, ETV4 (ARP32263_P050) from Aviva Systems Biology, and ERG (9FY) from Biocare Medical.
+RAS/ERK: RAS/RAF/MEK/ERK pathway; pERK: Phosphorylated ERK; pAKT: phosphorylated AKT.
+MEK and ERK phosphorylation are hallmarks of activation of the RAS signaling pathway which stimulates cell proliferation [
+Small-molecule inhibitors targeting BRAF reduced MEK1/2-ERK1/2 pathway activation and cell survival; yet, viable cell subpopulations persisted.
+Against this background we have hypothesized a new strategy to down-regulate in cancer cells the mitogenic RAS/MEK/ERK pathway [
+Evidence that the RAS/MEK/ERK signaling pathway plays a central role in melanoma has been reported [
+Melanoma B78-H1 cells are characterized by a hyperactive RAS/MEK/ERK pathway.
+Regulation c-Raf phosphorylation at Ser259 has a role in the anti-apoptotic pathways mediated by Akt or Raf/MEK/ERK proteins.
+Androgen-independent advanced prostate cancer cell lines such as DU145 and PC3 typically express low levels of activated Raf, MEK, and ERK [
+EGFR activation induces Ras/MEK/ERK phosphorylation, and phosphorylated ERK activates various transcription factors.
+The RAS/RAF/MEK/ERK and RAS/PI3K/PTEN/AKT signaling pathways are cascades regulated by phosphorylation and dephosphorylation by specific kinases, phosphatases, as well as GTP/GDP exchange proteins, adaptor proteins and scaffolding proteins [
+The increase in phosphorylated ERK could be inhibited by MEK (ERK) inhibitor U0126 (Fig. 
+The EGFR-Ras-Raf-MEK-ERK signaling pathway has been the subject of intense research and pharmaceutical scrutiny to identify novel target-based approaches for cancer treatment (24).
+It is known that A375MM cells rely on the activation of two main signaling pathways that sustain proliferation: RAF-MEK-ERK (MAPK) and PI3K-AKT-mTOR (AKT) signalling.
+Exposure to MEK162 reduced ERK1/2 phosphorylation, and induced apoptosis.
+MEK1/2 are members of the RAS/RAF/MEK/ERK signaling pathway, and inhibition of MEK might result in decreased pathway activation in N-RAS and B-RAF mutant melanomas.
+ERK1/2 isoforms are the immediate downstream substrates and best studied effectors of dual specificity kinases MEK1/2.
+To assess the effect of MEK1/2 inhibition on ERK1/2 activation state (phosphorylation at T202/Y204 sites), melanoma cultures were treated with MEK162 and compared with untreated controls.
+To assess the effect of MEK1/2 inhibition on phospho-ERK1/2 or PARP cleavage, melanoma cells were treated with MEK162 or DMSO.
+Several genetic alterations of cancer cause induction of cellular proliferation through the epidermal growth factor receptor (EGFR)-Ras-Raf-mitogen activated protein kinase/extracellular signal-regulated kinase (MAPK/ERK; MEK)-ERK-MAPK pathway, including EGFR amplifications (colorectal, pancreatic and lung cancers) and mutations (lung adenocarcinomas and glioblastoma), and activating mutations of Ras (pancreatic, papillary thyroid, colon and lung cancers) and Raf (melanoma, papillary thyroid and colon cancers) [
+Although a great body of evidence shows the importance of Ras and its downstream signaling mediators (Raf-MEK-ERK) on colorectal tumor development, the precise role of MEK remains undefined.
+Therefore, the MEK-ERK cascade seems to play an important role in intestinal transformation.
+caMEK, constitutively activated MEK; COX-2, cyclooxygenase-2; DOX, doxycycline; ERK, extracellular signal-regulated protein kinase; HDAC, histone deacetylase; MAPK, mitogen-activated protein kinase; MEK, mitogen-activated protein kinase kinase; NaB, sodium butyrate
+In addition, we have found that prosaptide TX14A stimulates prostate cancer cell proliferation, migration, and invasion, activates the Raf-MEK-ERK-Elk-1 signaling cascade of the mitogen-activated protein kinase (MAPK) pathway, and inhibits the growth-inhibitory effects of sodium selenite administered at apoptogenic concentrations [
+We next determined whether inhibition of other pathways such as the AKT/mTOR, MEK/ERK or SRC pathway would have a similar effect.
+During an examination of the individual pathways identified by the two pathway analysis methods, we noted a recurring involvement of the mitogen-activated protein kinase kinase (MEK)/ERK signaling pathway.
+Brain lysates were evaluated with antibodies against RAS, t-MEK, p-MEK and p-ERK.
+Mitogen-activated protein kinase kinase (MEK) is upstream of ERK.
+At 30 min after treatment with the MEK inhibitor PD98059, the level of p-ERK was significantly reduced compared with the p-ERK level following control treatment.
+Phosphatidylethanolamine-binding protein (PEBP) has been reported to act as a negative regulator of the ERK cascade (Raf-MEK-ERK) by binding to Raf-1 kinase.
+Upon VEGF binding to VEGF receptor 2 (R2), the main functional receptor tyrosine kinases of VEGF are activated, and a cascade of events are initiated, including the phosphoinositide 3-kinase (PI3K)/protein kinase B (Akt) and RAF/MEK/ERK signaling pathways, which stimulate endothelial cell proliferation, migration and tube formation (
+The PI3K/Akt and RAF/MEK-ERK pathways are involved in VEGF-induced angiogenesis.
+Finally, ODN administration also leads to increased levels of phospho-ERK and activation of the Raf/MEK/ERK signaling pathway [
+We dissected one of the pathways, the ERK cascade, and, in particular, we analyzed the src family, MEK and ERK kinases.
+The MEK1/2 protein complex is the physiological activator of ERK1/2, that, in turn, upon activation, can either enter the nucleus and start the gene expression process, or be retained in the cytoplasm to activate other signaling molecules (Fig. 
+Following Fab D18 treatment, no significant variations of phospho-ERK levels were found either in ScGT1 or GT1 cells, whereas a significant decrease in D18 treated GT1 was found with regards to phospho-MEK levels (Fig. 
+The monoclonal antibodies against the phosphorylated and non-phosphorylated forms of the src family [Src Family Antibody #2109 and phospho-Src Family (Tyr416) antibody #2101), MEK1/2 (MEK1/2 Antibody #9122 and phospho-MEK1/2 (Ser217/221) (41G9) rabbit mAb #9154] and ERK 1/2 [p42 MAP Kinase (3A7) mouse mAb #9107 and phospho-p44/42 Map Kinase (Thr202/Tyr204) Ab #9101] were purchased from Cell Signaling Technology.
+Student's t test was used to determine significant differences among the src family, MEK 1/2, ERK 1/2 phosphorylation, among prion infected and uninfected, and between Fab D18 treated and quinacrine treated cell lines.
+The upstream MAPK kinase-kinases Raf phosphorylate MAPK/ERK-kinases (MEKs).
+It has been reported that there is cross-talk between the MEK/ERK and Akt pathways in non-RGC cell types [
+In many different cell types, IR activation turns on downstream signaling pathways involving Ras and PI3K, which subsequently activate the Akt kinase and/or the Raf-MEK-ERK cascade.
+It has been shown that one role of Shc in cells is to promote the formation of a Shc-Grb2-SOS complex, which can activate the Ras-Raf-MEK-ERK kinase cascade [
+One Unit of ERK1/2 is equivalent to the amount of ERK1/2 derived from 40 pg of ERK1/2 which was phosphorylated by MEK1.
+ERK1/2 activity was inhibited by intravitreal injection of U0126, a highly selective inhibitor of mitogen-activated protein kinase 1/2 (MEK1/2).
+Inhibition of ERK activation using MEK inhibitor U0126 led to decreased accumulation of RIP3 but not of RIP1 in the IR-injured rat retina. 
+Chemical inhibitors for p38 (SB203580), mitogen-activated protein kinase kinase and extracellular regulated kinase (MEK/ERK; PD98059), Janus kinase protein (JNK; SP600125), protein kinase A (PKA; H89), phosphoinositide 3-kinase (PI3K; wortmannin), and P2 receptors (suramin) were all from Sigma (St Louis, MO).
+Effects of inhibition of p38, MEK/ERK, JNK, PKA, PI3K, and P2 receptor pathways on the upregulation of six genes induced by CMS.
+In most tissues, the insulin receptor activates two main signaling pathways: a) the mitogen-activated protein kinase (MAPK) cascade (e.g., mitogen-activated protein kinasem kinase [MEK] and extracellular regulated kinase [ERK]) and b) the phosphatidylinositol 3-kinase (PI3K)/protein kinase B (Akt) pathway.
+With negative lenses, insulin did not stimulate the MEK/ERK signaling cascade.
+Because insulin binding to the insulin receptor was shown to activate the MEK/ERK pathway and the PI3K/Akt- pathway, selective inhibitors were used to separate the inputs.
+U0126 was used to block the activation of ERK 1/2 that occurs by inhibiting the activity of MEK.
+Western blots were used to find out whether insulin activates the MEK/ERK and/or PI3K/Akt pathway in the retina.
+Depending on the stimuli and the phosphorylated IRS, two different pathways are activated: the PI3K/Akt and MEK/ERK pathways.
+In summary, the current study may show that insulin activates the PI3K/Akt pathway in eyes with normal vision and eyes treated with positive and negative lenses but stimulates eye growth through the MEK/ERK pathway in eyes with normal vision and eyes treated with positive lenses.
+Raf can then phosphorylate MEK, which activates ERK through phosphorylation in two different residues.
+For example, during drosophila eye development, the catalytic subunit of PP-2A is found to be implicated in the regulation of the R7 photoreceptor specification through both positive and negative regulation of the MEK/ERK signaling pathway [
+These results show that proliferative responses of SFs to muscarinic receptor stimulation are mediated via the activation of the classical MEK-ERK-MAPK cascade.
+Previous studies have demonstrated that FGF10 attenuated DNA damage and apoptosis of epithelial cells in part by MEK/ERK-dependent signaling that affects the mitochondria-regulated death pathway [
+The signal is propagated through the RAS-RAF-MEK-ERK proteins into the nucleus regulating cell proliferation, survival, and differentiation.
+Evidences show that the mitogen-activated protein/extracellular signal-regulated kinase (MEK)-extracellular signal-regulated kinase (ERK)--murine double minute 2 (MDM2)-p53 pathway plays a critical role in the regulation of MGMT expression.it has been shown that, in stem-like glioblastoma cells, MEK inhibition reduced MDM2 expression and that inhibition of either MEK or MDM2 resulted in p53 activation accompanied by p53-dependent downregulation of MGMT expression (
+In the U0126 experiment, 199 phosphopeptides exhibited the same triangular response pattern as the activation loop phosphosites of ERK1/2 and should therefore be direct or indirect downstream substrates of MEK1/2 after EGF stimulation.
+MEK/ERK pathway might play a noxious role in spinal cord IRI via participating in inflammatory reactions and cytokine production [
+U0126 is a specific inhibitor of MAPK/ERK kinases 1/2 (MEK1/2) [
+Through this pathway, the MEKKs/MLKs-SEK/MKKs-JNK/p38 pathway may be activated, leading to ATF2 phosphorylation at Thr69 and Thr71 sites without involvement of ERK [
+Thereafter, ERKs are activated by MEKs and regulate a large number of nuclear and cytosolic proteins [
+As the important pathways in eukaryocyte, Ras/MEK/ERK
+cascade pathway and JAK/STAT cascade pathway may be closely
+interrelated.
+In many cell types in culture, sustained
+expression of activated Ras or its downstream effector 
+can elicit cell cycle arrest and differentiation, and some
+reseachers revealed that the biological effects of the
+Ras/Raf/MEK/ERK pathway were activated via LIF/JAK/STAT
+pathway [
+PKC activates the MEK/ERK pathways at several levels [
+   This review will critically evaluate the extent to which several molecules, including, sphingosine-1-phosphate (S1P), IL-7-receptor (IL-7R), spleen tyrosine kinase (SyK), MEK/ERK 1/2, Mitogen-activated protein kinase 5/p38 kinase regulated/activated protein kinase (MK5/PRAK), microRNA (miRNA), tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) and inhibitors of proteasome activity, appear to be promising novel experimental targets for future drug development for the treatment of inflammatory arthritis.
+   MEK is the key regulatory protein kinase activation in the Ras/Raf/MEK/ERK pathway (
+   Compelling evidence arising from malignant transformation studies in which MEK SMIs were employed in vitro has also implicated Raf/MEK/ERK [
+The discovery of promising specific targets for intervention in the inflammatory arthritis process have included, S1P, IL-7R, Syk, Raf/MEK/ERK 1/2, MK5/PRAK, miRNA, PI3K/PTEN/Akt, NF-
+Activation of MEK 1/2 and ERK 1/2 by MAP3K.
+The phosphorylation (i.e., activation) of A-Raf, B-Raf or c-RAF, by MAPKKK (i.e., MAP3K) results in MAP2K-mediated phosphorylation of MEK 1/2 and downstream activation of ERK 1/2 (reviewed in [
+The MEK/ERK inhibitor U0126, antibodies against the phosphorylated form of ERK, p38, c-Jun N-terminal kinase (JNK), and total inhibitor of kappa B (I
+To determine whether PG could inhibit adipogenesis via the ERK or p38 signaling pathway, we used the specific mitogen-activated protein kinase (MEK) inhibitor PD98059 to inhibit ERK phosphorylation.
+MEK is an upstream kinase of ERK.
+ERK activation can be prevented by blocking MEK activity(
+The activation of RANK by RANKL leads to distinct signaling cascades mediated by c-Jun N-terminal Kinase 1/2 (JNK1/2), p38 and extracellular signal-regulated kinase 1/2 (ERK1/2) MAP kinases regulated by the activation of MEK1 in osteoclast precursors, which are critical for RANKL-induced osteoclast differentiation (
+We next evaluated the effect of the FP receptor antagonist (AL8810), EP2 receptor antagonist (AH6809), EP4 receptor antagonist (ONOAE2227) and chemical inhibitors of PLC (U73122), PKC (GF109203x), PKA (4C3MQ), EGFR (AG1478) and ERK1/2 kinase (MEK; PD98059) on the PGE
+As both peptides could clearly stimulate the phosphorylation of ERK we next investigated if they could also phosphorylate the upstream regulators of ERK: MEK and c-RAF.
+Enolase 2 is symbolized as ENO2, platelet-type 6-phosphofructokinase as PFKP, 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4 as PFKFB4, aldolase C as ALDOC, mannose-6-phosphate isomerase as MPI, phosphoglycerate kinase 1 as PGK1, liver-type 6-phosphofructokinase as PFKL, glucose-6-phosphate isomerase as GPI, triosephosphate isomerase as TPI, hexokinase as HK, glutamic pyruvate transaminase 2 as GPT2, pyruvate dehydrogenase kinase isoenzyme 1 as PDK1, fucosyltransferase 11 as FUT11, stanniocalcin 2 as STC2, pyruvate dehydrogenase kinase isozyme 3 as PDK3, Cas-Br-M ecotropic retroviral transforming sequence as CBL, cAMP responsive element binding protein 1 as CREB1 (CREB-A and CREB-B), growth factor receptor-bound protein 10 as GRB10, glycogen synthase as GYS1, insulin receptor as INSR, mitogen-activated protein kinase kinase 1 as MAP2K1 (=MEK1), mitogen-activated protein kinase kinase 7 as MAPK7 (=ERK5), neural precursor cell expressed developmentally downregulated 4-like as NEDD4L, and glutamate dehydrogenase as GLUD.
+Finally, we have found that automated imaging of fluorescent protein reporters provides a powerful means of interrogating GnRHR signalling to the Raf/MEK/ERK and Ca
+(A) Knockdown of GRK2 expression and activation of EGFR, as indicated by ERK1/2-T202 and MEK1/2-S217 phosphorylation, after 5-min treatment with 100 ng/ml EGF (
+As expected, overexpression of caMEK1 in C2C12 cells resulted in constitutive activation of ERK1/2 (
+Several signaling proteins, including ERK2 and MEK1, have a conserved sequence motif (TPT or SPS), in which phosphorylation of these residues will induce translocation into the nucleus in a Ran-independent manner (
+RhoA activity was significantly increased with increased matrix stiffness in vehicle control and UO126 treatment, which suggests that its regulation did not occur downstream of MEK and ERK1/2; n = 6 and *p < 0.05.
+RAS and MEK1/2 are upstream signaling molecules of ERK1/2 pathway in Met signaling (
+To confirm the role of the Ras/MEK1/2/ERK1/2 pathway, EC were infected with adenovirus DN Ras or CA MEK1.
+To confirm that HGF activation of ERK1/2 is necessary to inhibit Ang II-induced apoptosis in explant tissue, we first used chemical MEK1/2 inhibitor U0126.
+We suspect that signaling through the MAPK pathway (i.e., MEK1/2 to ERK1/2) in response to CXCR4 signaling drives the invasive phenotype of breast tumor cells and can be sustained in a manner that, once initiated, is independent of CXCR4 activation.
+Upstream MAP2K of ERK, MEK1, is considered to be one of the most important regulators of ERK localization (Reszka 
+The subcellular localization of endogenous and exogenous JNK1 and MKK7 in resting 293T cells mimics that of endogenous and exogenous ERK and MEK1, respectively (Lenormand 
+Thus, phosphorylation of JNK might lead to conformational changes of the protein and consequent release from MKK7 within 30 min after UV treatment, similar to the release of ERK from MEK1 upon ERK phosphorylation (Fukuda 
+The following antibodies were used: pSmad2 (3108; Cell Signaling, Danvers, MA), Smad2/3 (SC-133098; Santa Cruz Biotechnology), ezrin (E8897; Sigma-Aldrich), ppERK1/2 (M9692; Sigma-Aldrich), ERK2 (SC-154; Santa Cruz Biotechnology), pMEK (9154; Cell Signaling), MEK (2352; Cell Signaling), and lamin A/C (SC-376248; Santa Cruz Biotechnology).
+Our results showed that all mitogen-activated protein kinase kinase (MEK)/extracellular signal-regulated kinase (ERK), p38 mitogen-activated protein kinase (MAPK), and protein kinase C (PKC) inhibitors could block PMA-induced translocation of actin into nuclei, whereas treatment with inhibitors of c-Jun NH
+It is a serine/threonine kinase and is activated by a mitogen-activated protein (MAP)-kinase/ERK kinase (MEK).
+The best-characterized member of this family is KSR1, which promotes activation of the Raf/MEK/ERK kinase cascade (
+On growth factor stimulation, many receptor-type or non-receptor-type tyrosine kinases are activated, followed by the activation of the Ras/Raf/MEK/ERK signaling cascades, which regulate various aspects of cellular function, including the proliferation, differentiation, and oncogenic transformation of high eukaryotes (
+The following antibodies were also used in this study: anti-Raf1, anti-MEK1, and anti-pan ERK antibody were purchased from BD Transduction Laboratories (San Jose, CA); anti-Pan Ras (AB-3) antibody was from Calbiochem; anti-FLAG M5 antibody was purchased from Sigma; anti-Myc (9E10) antibody was from Santa Cruz Biotechnology (Santa Cruz, CA); antibodies against phospho-Raf1 (Ser
+(D) The activity of Ras as measured by Bos' pulldown analysis and the activities of MEK, Raf1, and ERK as measured by phospho-specific antibodies in C were normalized to the maximum values during the time course and are shown by line plots.
+In agreement with the suppression of Raf1 activation by Shoc2 knockdown, the activation of both MEK and ERK was also suppressed by Shoc2 knockdown in cells stimulated with EGF or 007 plus ionomycin (
+The MEK-ERK pathway regulates CRNA by elevating the levels of cyclin D1.
+The inhibition of p35-cdk5 activity results in enhanced MEK-ERK signaling, leading to CRNA.
+Cyclin D1 contributes to an increase in MEK-ERK signaling via a positive feedback loop.
+Next we probed whether MEK-ERK signaling was responsible for CRNA.
+Aberrant MEK-ERK signaling and enhanced cyclin D1 expression prevent p35-mediated cdk5 activation.
+Collectively these studies demonstrate that neurotoxic stimuli such as amyloid peptide cause aberrant activation of MEK-ERK signaling and promote cell cycle reentry by increasing cyclin D1 levels.
+Subsequently, cyclin D1 may attenuate p35-cdk5 association and activity, which may further contribute to aberrant MEK-ERK signaling, resulting in neuronal cell death (
+Neurotoxic signals might trigger aberrant activation of the MEK-ERK pathway, resulting in an increase in cyclin D1 levels, which can be by transcription factor STAT3.
+Cyclin D1 prevents p35-mediated cdk5 activation, which might facilitate the increase in MEK-ERK signaling activity.
+Increased expression of PEA-15 activates Ras leading to activation of MEK1/2 and resulting activation of ERK1/2 (
+Immunoblot of pERK1/2 serves as a control for Raf-MEK-ERK activation after the addition of 4-OHT.
+PEA-15 must bind to ERK1/2 to activate MEK1/2 and ERK1/2.
+Each of these mutations abrogated the capacity of PEA-15 to activate MEK1/2 and ERK1/2.
+Since the etiology of pilocytic astrocytoma (PA) is associated to several major cellular signaling pathways we investigated whether some of the annotated genes belong to pathways specific to PA. We found genes that are involved in Ras-Raf-MEK-ERK signaling, p53 signaling, RB signaling, Wnt signaling.
+The MAPK signaling pathway (MEK/ERK1/2 and PI3K) and transcription factors NF-kB and AP-1/c-Jun were inhibited, then Cx43 expression was assessed using Western blot analysis, and MMP-9 activity was assessed using gelatin zymography.
+To determine if MMP-9 enzyme activity is involved in MAPK signaling and the regulation of Cx43, LY294002 (PI3K inhibitor) and U0126 (MEK/ERK inhibitor) were applied, respectively, and MMP-9 activity was measured using zymography.
+To assess the roles of MMPs and MAPK signaling in the regulation of Cx43 gene expression in H9c2 cardiomyocytes, the MMP inhibitor doxycycline, MEK/ERK 1/2 inhibitor U0126, and PI3K inhibitor LY294002 were used in the present study.
+In the present study our aim was to
+investigate whether the GTPase Rac1 was an upstream signal that led to the
+activation of MEK/ERK1/2, JNK1/2 or Akt pathways upon VACV or CPXV' infections.
+In the past decade, our group has shown that VACV and CPXV also stimulate
+MEK/ERK/1/2/Egr-1 cascade as well as JNK1/2 and PI3K/Akt pathways during infection.
+We have shown previously that the orthopoxviruses VACV and CPXV, which
+are phylogenetically close, activate the same signalling cascades such as
+MEK1/2/ERK1/2/Egr-1; however, while the stimulation of this pathway is beneficial
+for VACV replication, the biological significance for CPXV life cycle is still not
+elucidated (
+We also provide evidence that Rac1 is not a component of the
+MEK1/2/ERK1/2 pathway during VACV infection.
+The signaling modules in the ERK5 pathway are composed of MEKK2/MEKK3, MEK5 and ERK5 (
+The signaling modules in the ERK5 pathway are composed of MEKK2/MEKK3, MEK5, and ERK5.
+In order to determine whether the activation of mitogen-activated protein kinase kinase (MEK)/ERK pathway was required for increased ZFN activity, a specific inhibitor of MEK1/2 GSK1120212 was used to prevent phosphorylation of ERK and the effect on CCR5 disruption in PMA or bryostatin-activated HSPC was measured.
+The MEK/ERK pathway has been shown to be activated by APRIL in myeloma cells (
+To investigate whether MEK/ERK signaling in the MAP kinase cascade contributes to APRIL-promoted axon elongation from hippocampal pyramidal cells, we first tested whether APRIL activates ERK1 and ERK2 in these neurons.
+To ascertain if activation of ERK1 and ERK2 contributes to APRIL-promoted axon growth, we examined whether PD98059, a selective inhibitor of MEK1 and MEK2, the kinases that phosphorylate and activate ERK1 and ERK2 (
+MEK (upstream kinase of ERK1/2) has been reported to induce similar morphological changes to those seen in our experiments (
+We next tested the role of the ERK1/2 MAPK pathway in Jo2-mediated cell killing and in the cytoprotection afforded by CO. MLEC were treated with the ERK1/2 pathway inhibitor PD 98059, which specifically targets MEK1, the upstream regulator of ERK1/2.
+Among these, the Ras/MAP kinase-ERK kinase (MEK)/extracellular-signal-regulated kinase (ERK) pathway and PI3K/Akt pathway have long been established.
+PI3K/Akt and MEK/ERK signaling pathways are involved in the regulation of proliferation and migration of glioblastoma cells [
+The above results show that the PI3K/Akt and MEK/ERK signaling pathways are regulated by xyloketal B.
+Next, we measured whether TRPM7 blocked by carvacrol could regulate both PI3K/Akt and MEK/ERK signaling pathways.
+In this study, we demonstrate that: (1) xyloketal B reduces cell viability, proliferation, and migration of glioblastoma U251 cell lines; (2) xyloketal B downregulates the PI3K/Akt and MEK/ERK signaling pathways; and (3) xyloketal B blocks the TRPM7 current without altering the TRPM7 protein expression in U251 cells.
+The mechanism by which TRPM7 regulates the PI3K/Akt and MEK/ERK pathways remains unclear.
+In summary, our findings indicate that the effects of marine compound xyloketal B in anti-proliferation and migration of U251 cells are mediated by inhibition of TRPM7 and regulation of the PI3K/Akt and MEK/ERK signaling pathways.
+Marine compound xyloketal B reduces cell viability, proliferation, and migration through inhibition of TRPM7 and modulation of the PI3K/Akt and MEK/ERK signaling pathways.
+Autophagy is also negatively regulated by the MEK/ERK signaling pathway [
+Here we first demonstrate that asperolide A, a very recently reported marine-derived tetranorditerpenoid, leads to the inhibition of NCI-H460 lung carcinoma cell proliferation by G2/M arrest with the activation of the Ras/Raf/MEK/ERK signaling and p53-dependent p21 pathway.
+Above all, these results suggest that the Ras/Raf/MEK/ERK signaling pathway may be involved in asperolide A-induced p53-p21-mediated G2/M-phase arrest and growth inhibition in NCI-H460 cells.
+In order to further explore whether the Ras/Raf/MEK/ERK pathway is required by G2/M phase cell cycle arrest induced by asperolide A in NCI-H460 cells, cells were transfected with a dominant negative Ras (RasN17) and then treated with asperolide A for 48 h. The percentage of G2/M phase cells came to normal level and asperolide A-induced increase of p-ERK, p-p53, p21 and decrease of CDC2, cyclin B1 were completely reversed by transfection with RasN17.
+All above strongly suggest it is the Ras/Raf/MEK/ERK signaling pathway that is participating in p53-p21 stabilization in order to induce G2/M arrest in human NCI-H460 lung carcinoma cells.
+We characterize the probable effect of asperolide A on Ras/Raf/MEK/ERK signaling pathway in 
+In summary, our data indicate that: (a) asperolide A inhibit cell-cycle progression at the G2/M phase by decreasing the levels of CDC2, cdc25c and cyclinB; (b) asperolide A-induced G2/M arrest is mediated by p53-dependent p21 induction which is regulated by Ras/Raf/MEK/ERK signaling pathway; and (c) 
+Binding of SOS to GRB2 in the plasma membrane sequentially activates Ras, Raf, MEK1/2, and ERK1/2 [
+This study provides the first evidence that DA can inhibit PDGF-BB-induced VSMC migration and proliferation, the effect of which may inhibit the activations of MEK/ERK and PI3K/AKT cascades and STAT3 as well as PCNA expression (
+The MEK inhibitor U0126, which inhibits the phosphorylation of ERK1/2 without affecting p38, JNK, or other MAP kinase pathway components [
+Primary antibodies (all from Cell Signaling Technology, unless otherwise specified) were rabbit polyclonal anti-ERK1/2 (#9102), mouse monoclonal anti-pT202/Y204-ERK1/2 (#9106), mouse monoclonal anti-MEK1/2 (#4694), rabbit monoclonal anti-pS217/S221-MEK1/2 (#9154), mouse monoclonal anti-GluA2 (MAB397, Merck Millipore), rabbit polyclonal anti-pS880-GluA2 (ab52180, Abcam), rabbit polyclonal anti-pY869/Y873/Y876-GluA2 (#3921), rabbit monoclonal anti-Src (#2109), rabbit monoclonal anti-pY416-Src (#6943), and rabbit monoclonal anti-GAPDH (#2118).
+The purpose of their study was to verify the risk of the development of mutations in selected genes in the RAS/RAF/MEK/ERK signaling pathway during the culturing of melanocytes in various growth media.
+PD98059, an inhibitor of mitogen-activated protein kinase/extracellular signal-regulated kinase (MEK/ERK), affected the expression of the ERK1/2 pathway stimulated with LPS, which is a special inhibitor of the ERK1/2 pathway [
+In a previous paper, it was reported that the two HAART drugs RTV and AZT substantially increased the phosphorylation of ERK2 in HPAECs, and a MEK/ERK inhibitor effectively blocked RTV- or AZT-induced reductions in eNOS protein levels in HPAECs; this indicated that MAPK signaling is involved in the development of endothelial dysfunction induced by HAART drugs [
+Raf/MEK/ERK pathway is the best proven MAPK signaling pathway [
+A recent study suggests that Raf/MEK/ERK signaling is activated by proper accumulation of HA/lipid-raft association within the cellular membrane [
+The protein kinase C (PKC) is an upstream molecule of Raf, which transmits signals to the downstream molecules for the activation of the Raf/MEK/ERK pathway [
+
+('LMO2', 'RUNX1', 'increases')
+TCF3: transcription factor 3; PBX1: pre B-cell leukemia transcription factor 1; BCR: breakpoint cluster region; ABL1: Abelson murine leukemia viral oncogene homolog 1; MLL: myeloid/lymphoid or mixed lineage leukemia gene; ETV6: ets variant gene 6; RUNX1: runt-related transcription factor 1; RUNX1T1: runt-related transcription factor 1 translocated to, 1; MYC: v-myc avian myelocytomatosis viral oncogene homolog; IGH: IgG heavy chain locus; BCL6: B-cell lymphoma 6; SCL: stem cell leukemia hematopoietic transcription factor; TCRA: T-cell antigen receptor, alpha subunit; LMO2: lim domain only 2, t: therapy related.
+
+('TAK', 'MKK3/6', 'adds_modification')
+The functional significance of the p38/MKK3/6/TAK1 pathway for AP-1 activation and inflammatory responses has been well defined [
+
+('CREB1', 'JUN', 'increases')
+
+ATF1 binds to ATF2, JUN and CREB1 in both fractions.
+
+('EPH', 'EPHR', 'binds')
+Intensive research has focused on the molecular basis of SD structure and function and has resulted in the identification of a number of novel SD-associated proteins, including NEPHRIN, NEPH1, CD2-associated protein and PODOCIN (
+
+('KAT2B', 'GATA1', 'increases')
+EVI1 interacts with a number of transcriptional and epigenetic regulators (CREBBP, CTBP, HDAC, KAT2B (P/CAF), SMAD3, GATA1, GATA2, DNMT3A, and DNMT3B), and mediates chromatin modifications and DNA hypermethylation.
+
